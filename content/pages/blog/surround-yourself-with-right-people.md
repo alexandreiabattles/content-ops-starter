@@ -6,7 +6,7 @@ excerpt: ''
 featuredImage:
   altText: Thumbnail
   type: ImageBlock
-  url: /images/abstract-feature1.svg
+  url: /images/MAV.png
   styles:
     self:
       borderRadius: medium
