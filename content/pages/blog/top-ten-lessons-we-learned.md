@@ -1,5 +1,5 @@
 ---
-title: The Top Ten Lessons We’ve Learned Since Our Initial Launch
+title: Sexta ferrata - mea culpa - New move
 slug: top-ten-lessons-we-learned
 date: '2024-07-31'
 excerpt: >-
