@@ -9,25 +9,7 @@ sections:
       color: text-dark
     subtitle: ''
     text: "Dear warriors NEW CHALLENGE starts - This conflict will\_ be a new adventure, we want everyone to cooperate, motivated and start this new game RP\n\nThis website is designed and managed by Marcus Antyllus\n\nHe will post, update the points &\_the results of the battles. Whoever conquers more, has more points...!\n\nHave HONOR, DEFEND, ATTACK\n"
-    actions:
-      - type: Button
-        label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-      - type: Link
-        label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
+    actions: []
     media:
       type: ImageBlock
       url: /images/Screenshot_4.png
