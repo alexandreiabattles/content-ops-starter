@@ -2,7 +2,7 @@
     "favicon": "/images/icon alex.png",
     "footer": "content/data/footer.json",
     "titleSuffix": "Official Results",
-    "defaultSocialImage": "/images/main-hero.jpg",
+    "defaultSocialImage": "/images/Screenshot_2.png",
     "type": "Config",
     "header": "content/data/header.json"
 }
