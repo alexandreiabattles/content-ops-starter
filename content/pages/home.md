@@ -216,7 +216,7 @@ sections:
           textAlign: center
     subtitle: This is a subtitle
     text: |
-      Aenean eros ipsum---- scriptt
+      text..script
     actions: []
     media:
       type: VideoBlock
