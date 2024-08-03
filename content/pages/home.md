@@ -35,7 +35,7 @@ sections:
       elementId: ''
     badge:
       type: Badge
-      label: "welcome to\_ new web for alexandreia -"
+      label: "welcome to\_ alexandreia army page -"
       color: text-primary
     elementId: ''
     colors: bg-light-fg-dark
