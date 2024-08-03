@@ -8,10 +8,7 @@ sections:
       text: Unblock your team boost your time to production
       color: text-dark
     subtitle: Subtitle goes here
-    text: >
-      A Netlify website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: "Welcome dear warriors to this CHALLENGE - where this conflict will\_ be a new adventure, we want everyone to cooperate, motivated and start this new game RP\n\n\n\nThis website is designed and managed by\_***Marcus Antyllus***,\_\n\nHe will post, update the points &\_the results of the battles. Whoever conquers more, has more points...!\n\n\_Everyone will start with 5 cities.\_\n\nHave HONOR, DEFEND, ATTACK\n\n\n\n"
     actions:
       - type: Button
         label: Get started
