@@ -2,7 +2,9 @@
 title: The NEW Pool in Mini-Bar
 slug: top-twenty-ways-to-save-time
 date: '2023-03-25'
-excerpt: ''
+excerpt: >-
+  This fascinating pool in Edfu is what everyone needed!  - Thanks to the law:
+  Joints allowed, residents will enjoy their summer moment.
 featuredImage:
   url: /images/marcus photo POOL_001.png
   altText: Thumbnail
