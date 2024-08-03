@@ -38,7 +38,7 @@ sections:
       elementId: ''
     badge:
       type: Badge
-      label: This is a badge
+      label: welcome to alexandreia
       color: text-primary
     elementId: ''
     colors: bg-light-fg-dark
@@ -294,7 +294,7 @@ sections:
     media:
       type: VideoBlock
       title: Title of the video
-      url: /images/placeholder-video.mp4
+      url: 'https://www.youtube.com/watch?v=bMUrdP3s1NI'
       autoplay: true
       loop: true
       muted: true
