@@ -1,7 +1,7 @@
 ---
 title: "Royal Gossip : OMG!,\_We have seen Marcus & Diana surfing"
 slug: life-of-our-development-team
-date: '2023-03-27'
+date: '2024-07-27'
 excerpt: >-
   Kleopatra's son has been caught surfing with his future wife, Diana in an
   island sim. Are they taking a vacation? ...
