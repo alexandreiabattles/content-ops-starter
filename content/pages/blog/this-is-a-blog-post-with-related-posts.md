@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: Warrior TIPS - Training is so important!
+title: 'Warrior TIPS - Training is so important, How to improve'
 date: '2024-07-14'
 author: content/data/person1.json
 excerpt: >-
