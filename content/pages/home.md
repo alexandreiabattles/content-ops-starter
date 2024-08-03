@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: "OWNER\_ ALEXANDREIA -\_ KLEOPATRA"
+      text: "OWNER\_ ALEXANDREIA -\_ KLEOPATRA\_\U00013197\U000130ED\U00013197☽\U00016913༄"
       color: text-dark
     subtitle: ''
     text: "Dear warriors NEW CHALLENGE starts - This conflict will\_ be a new adventure, we want everyone to cooperate, motivated and start this new game RP\n\nThis website is designed and managed by Marcus Antyllus\n\nHe will post, update the points &\_the results of the battles. Whoever conquers more, has more points...!\n\nHave HONOR, DEFEND, ATTACK\n"
