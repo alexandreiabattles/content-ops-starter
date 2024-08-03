@@ -1,7 +1,7 @@
 ---
 type: PostLayout
 title: Warrior TIPS - Training is so important!
-date: '2024-06-10'
+date: '2024-07-10'
 author: content/data/person1.json
 excerpt: >-
   Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
