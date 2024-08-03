@@ -8,7 +8,7 @@ excerpt: >-
 featuredImage:
   altText: Thumbnail
   type: ImageBlock
-  url: /images/MAV.png
+  url: /images/Screenshot_3.png
   styles:
     self:
       borderRadius: medium
