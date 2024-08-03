@@ -227,7 +227,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Grow your business 10x faster
+      text: TOURNAMENT VIDEO
       color: text-dark
       styles:
         self:
