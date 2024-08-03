@@ -14,7 +14,7 @@
     "primaryLinks": [
         {
             "label": "NEWS",
-            "url": "/pricing",
+            "url": "/news",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
