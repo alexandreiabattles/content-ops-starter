@@ -4,7 +4,7 @@ slug: life-of-our-development-team
 date: '2023-03-27'
 excerpt: >-
   Kleopatra's son has been caught surfing with his future wife, Diana in an
-  Italian sim. Are they taking a vacation?
+  island sim. Are they taking a vacation? ...
 featuredImage:
   url: /images/abstract-feature3.svg
   altText: Thumbnail
