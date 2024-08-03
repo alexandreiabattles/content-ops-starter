@@ -165,7 +165,7 @@ sections:
       subtitle:
         textAlign: center
   - type: ImageGallerySection
-    subtitle: Award winning enterprises trust us
+    subtitle: ALEXANDREIA
     images:
       - type: ImageBlock
         url: /images/empathy-logo.svg
