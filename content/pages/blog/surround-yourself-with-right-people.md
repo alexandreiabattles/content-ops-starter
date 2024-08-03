@@ -2,7 +2,7 @@
 title: Welcome back Mav!
 slug: surround-yourself-with-right-people
 date: '2024-07-18'
-excerpt: ''
+excerpt: 'My dear uncle Mav is back, his nephew has written this little letter for you. '
 featuredImage:
   altText: Thumbnail
   type: ImageBlock
