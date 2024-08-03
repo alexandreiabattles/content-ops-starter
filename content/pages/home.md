@@ -165,7 +165,7 @@ sections:
       subtitle:
         textAlign: center
   - type: ImageGallerySection
-    subtitle: Award winning enterprises trust us
+    subtitle: ALEXANDREIA
     images:
       - type: ImageBlock
         url: /images/empathy-logo.svg
@@ -227,17 +227,14 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Grow your business 10x faster
+      text: TOURNAMENT VIDEO
       color: text-dark
       styles:
         self:
           textAlign: center
     subtitle: This is a subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: |
+      Aenean eros ipsum---- scriptt
     actions: []
     media:
       type: VideoBlock
@@ -276,17 +273,14 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Generic section with a video
+      text: Generic section with a video - createscript.ht
       color: text-dark
       styles:
         self:
           textAlign: left
     subtitle: Section with a video subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: |
+      No data 
     actions: []
     media:
       type: VideoBlock
@@ -315,41 +309,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: left
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Social Media Management
-      color: text-dark
-    subtitle: Increase your reach
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
-    actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-    media:
-      type: ImageBlock
-      url: /images/hero2.svg
-      altText: Fun feature preview
-    badge:
-      type: Badge
-      label: This is a badge
-      color: text-primary
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
   - type: GenericSection
     title:
       type: TitleBlock
@@ -564,7 +523,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Generic Section With A Form
+      text: 'Generic Section With A Form, scipt.exe'
       color: text-dark
     subtitle: Section with a form subtitle
     text: |-
