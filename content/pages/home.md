@@ -622,7 +622,7 @@ sections:
       label: Contact Us
       color: text-primary
     colors: bg-light-fg-dark
-slug: /News
+slug: /Home
 seo:
   type: Seo
   metaTitle: Home - Demo site
