@@ -5,7 +5,7 @@ numOfPostsPerPage: 12
 enableSearch: true
 topSections:
   - title:
-      text: Army News - Updated Information
+      text: Army News - Updated Information Department
       color: text-dark
       type: TitleBlock
     subtitle: This is the subtitle
