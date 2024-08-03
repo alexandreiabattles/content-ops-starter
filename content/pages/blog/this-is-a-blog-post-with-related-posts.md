@@ -2,7 +2,9 @@
 type: PostLayout
 title: 'Warrior TIPS - Training is so important, How to improve'
 date: '2024-07-02'
-excerpt: ''
+excerpt: >-
+  Has any warrior wondered how to improve? In this first publication we will
+  talk about ethics, the key motivation and consistency
 featuredImage:
   type: ImageBlock
   url: /images/34353 TRAINING_001.png
