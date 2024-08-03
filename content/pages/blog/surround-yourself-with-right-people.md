@@ -3,8 +3,8 @@ title: Welcome back Mav!
 slug: surround-yourself-with-right-people
 date: '2024-07-18'
 excerpt: >-
-  My dear uncle Mav is back, his nephew has written this little letter for you. 
-  Im glad see you 
+  My dear uncle Mav is back, his nephew has written this little letter for you.
+  The best akhi - ever
 featuredImage:
   altText: Thumbnail
   type: ImageBlock
