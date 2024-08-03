@@ -22,7 +22,7 @@
             "type": "Link"
         },
         {
-            "label": "Accumulated Score",
+            "label": "Accumulated  SCORE",
             "altText": "Careers page",
             "url": "/careers",
             "icon": "arrowRight",
