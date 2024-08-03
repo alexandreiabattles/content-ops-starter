@@ -1,11 +1,8 @@
 ---
-title: The Top Ten Lessons We’ve Learned Since Our Initial Launch
+title: Sexta ferrata - mea culpa - New move
 slug: top-ten-lessons-we-learned
-date: '2021-08-25'
-excerpt: >-
-  Sit ratione eligendi et quis distinctio et maiores accusantium aut accusamus
-  facere sit repellat quidem qui alias nostrum et earum enim. Cum quis sint eos
-  dolor quas ad odit ipsum qui quia eius.
+date: '2024-07-31'
+excerpt: "further to the meetimg, it has been decided to move sexta ferrata, near by Roman sim built by Ellen.I have rezzed the Capua arena, tomorrow it will be finished and I will give you LM.\_ Hugs\_ \_ \_ \_Kleopatra"
 featuredImage:
   url: /images/abstract-feature2.svg
   altText: Thumbnail
