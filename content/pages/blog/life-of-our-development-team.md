@@ -1,5 +1,5 @@
 ---
-title: 'Royal Gossip : OMG!,'
+title: "Royal Gossip : OMG!,\_We have seen Marcus & Diana surfing"
 slug: life-of-our-development-team
 date: '2023-03-27'
 excerpt: >-
