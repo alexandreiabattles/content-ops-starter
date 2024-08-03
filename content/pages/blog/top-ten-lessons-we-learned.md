@@ -4,7 +4,7 @@ slug: top-ten-lessons-we-learned
 date: '2024-07-31'
 excerpt: "further to the meeting, it has been decided to move sexta ferrata, near by Roman sim built by Ellen.I have rezzed the Capua arena, tomorrow it will be finished and I will give you LM.\_ Hugs,\_ \_ \_ \_Kleopatra"
 featuredImage:
-  url: /images/abstract-feature2.svg
+  url: /images/NEW ARENA_001.png
   altText: Thumbnail
   type: ImageBlock
   styles:
