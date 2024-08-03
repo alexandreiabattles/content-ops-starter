@@ -6,7 +6,7 @@ excerpt: >-
   Kleopatra's son has been caught surfing with his future wife, Diana in an
   island sim. Are they taking a vacation? ...
 featuredImage:
-  url: /images/abstract-feature3.svg
+  url: /images/royal salseo.png
   altText: Thumbnail
   type: ImageBlock
   styles:
