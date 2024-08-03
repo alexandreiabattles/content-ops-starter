@@ -4,7 +4,7 @@ slug: top-twenty-ways-to-save-time
 date: '2023-03-25'
 excerpt: >-
   This fascinating pool in Edfu is what everyone needed!  - Thanks to the famous
-  law: Joints allowed, residents will enjoy their summer in Alex!.
+  law: Joints allowed, residents will enjoy their summer in Alex.
 featuredImage:
   url: /images/marcus photo POOL_001.png
   altText: Thumbnail
