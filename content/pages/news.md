@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: News
+title: Home
 sections:
   - type: GenericSection
     title:
