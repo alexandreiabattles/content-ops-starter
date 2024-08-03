@@ -5,13 +5,10 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Unblock your team boost your time to production
+      text: "OWNER\_ ALEXANDREIA -\_ KLEOPATRA"
       color: text-dark
-    subtitle: Subtitle goes here
-    text: >
-      A Netlify website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    subtitle: ''
+    text: "Dear warriors NEW CHALLENGE starts - This conflict will\_ be a new adventure, we want everyone to cooperate, motivated and start this new game RP\n\nThis website is designed and managed by Marcus Antyllus\n\nHe will post, update the points &\_the results of the battles. Whoever conquers more, has more points...!\n\nHave HONOR, DEFEND, ATTACK\n"
     actions:
       - type: Button
         label: Get started
@@ -38,7 +35,7 @@ sections:
       elementId: ''
     badge:
       type: Badge
-      label: welcome to alexandreia
+      label: "welcome to\_ alexandreia army page -"
       color: text-primary
     elementId: ''
     colors: bg-light-fg-dark
