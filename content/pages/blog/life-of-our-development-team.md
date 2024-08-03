@@ -1,13 +1,12 @@
 ---
-title: A Day in the Life of Our Development Team
+title: "Royal Gossip : OMG!,\_We have seen Marcus & Diana surfing"
 slug: life-of-our-development-team
-date: '2023-03-27'
+date: '2024-07-27'
 excerpt: >-
-  Vel repellat dolores ut unde voluptatum ut optio voluptates est aliquid. Ut
-  earum corporis id Quis esse est galisum officiis accusantium enim et
-  asperiores dolore.
+  Kleopatra's son has been caught surfing with his future wife, Diana in an
+  island sim. Are they taking a vacation? ...
 featuredImage:
-  url: /images/abstract-feature3.svg
+  url: /images/royal salseo.png
   altText: Thumbnail
   type: ImageBlock
   styles:

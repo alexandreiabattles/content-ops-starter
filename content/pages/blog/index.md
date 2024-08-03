@@ -5,10 +5,10 @@ numOfPostsPerPage: 12
 enableSearch: true
 topSections:
   - title:
-      text: Army News - Updated Information Department
+      text: Alexandreia News - Updated Information Department
       color: text-dark
       type: TitleBlock
-    subtitle: "LAST NEW!! :\_ ARENA SEXTA WILL BE CHANGED TO A ROMAN CITY by Ellen"
+    subtitle: "LAST NEW!! :\_ \_SEXTA ARENA WILL BE CHANGED TO A ROMAN CITY by Ellen"
     posts:
       - content/pages/blog/top-ten-lessons-we-learned.md
     showThumbnail: true
