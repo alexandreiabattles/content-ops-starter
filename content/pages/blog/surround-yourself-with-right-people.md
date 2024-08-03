@@ -1,5 +1,5 @@
 ---
-title: 'Welcome back Prince Mav! '
+title: Welcome back Prince Mav!-
 slug: surround-yourself-with-right-people
 date: '2024-07-18'
 excerpt: "My dear uncle Mav is back, his nephew has written this little letter for you. The best akhi - ever.\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_All are welcomers to look up."
