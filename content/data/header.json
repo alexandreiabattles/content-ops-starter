@@ -13,15 +13,6 @@
     },
     "primaryLinks": [
         {
-            "label": "Home",
-            "url": "/home",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link",
-            "altText": ""
-        },
-        {
             "label": "",
             "altText": "Blog",
             "url": "/blog",
