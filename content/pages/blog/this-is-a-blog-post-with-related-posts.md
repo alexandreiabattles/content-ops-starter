@@ -1,14 +1,13 @@
 ---
 type: PostLayout
-title: Warrior TIPS - Training is so important!
-date: '2022-10-10'
-author: content/data/person1.json
+title: 'Warrior TIPS - Training is so important, How to improve'
+date: '2024-07-02'
 excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+  Has any warrior wondered how to improve? In this first publication we will
+  talk about ethics, the key motivation and consistency. Please read! -
 featuredImage:
   type: ImageBlock
-  url: /images/abstract-feature1.svg
+  url: /images/34353 TRAINING_001.png
   altText: Thumbnail
   elementId: ''
   styles:
