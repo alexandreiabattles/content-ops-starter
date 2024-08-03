@@ -2,9 +2,7 @@
 type: PostLayout
 title: 'Warrior TIPS - Training is so important, How to improve'
 date: '2024-07-02'
-excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+excerpt: ''
 featuredImage:
   type: ImageBlock
   url: /images/34353 TRAINING_001.png
