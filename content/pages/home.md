@@ -244,7 +244,7 @@ sections:
     actions: []
     media:
       type: VideoBlock
-      title: Title of the video
+      title: Alexandreia Tournament
       url: 'https://www.youtube.com/watch?v=40uxMCr028w'
       autoplay: true
       loop: true
