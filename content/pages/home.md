@@ -8,7 +8,7 @@ sections:
       text: Unblock your team boost your time to production
       color: text-dark
     subtitle: ''
-    text: "Dear warriors the  NEW CHALLENGE starts - where this conflict will\_ be a new adventure, we want everyone to cooperate, motivated and start this new game RP\n\nThis website is designed and managed by\\*\_Marcus Antyllus\n\nHe will post, update the points &\_the results of the battles. Whoever conquers more, has more points...!\n\nHave HONOR, DEFEND, ATTACK\n"
+    text: "Dear warriors NEW CHALLENGE starts - where this conflict will\_ be a new adventure, we want everyone to cooperate, motivated and start this new game RP\n\nThis website is designed and managed by\\*\_Marcus Antyllus\n\nHe will post, update the points &\_the results of the battles. Whoever conquers more, has more points...!\n\nHave HONOR, DEFEND, ATTACK\n"
     actions:
       - type: Button
         label: Get started
