@@ -13,7 +13,7 @@
     },
     "primaryLinks": [
         {
-            "label": "HOME",
+            "label": "Home",
             "url": "/home",
             "icon": "arrowRight",
             "iconPosition": "right",
