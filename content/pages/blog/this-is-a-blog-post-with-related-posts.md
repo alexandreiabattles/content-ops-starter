@@ -8,7 +8,7 @@ excerpt: >-
   Donec sed facilisis nibh.
 featuredImage:
   type: ImageBlock
-  url: /images/abstract-feature1.svg
+  url: /images/34353 TRAINING_001.png
   altText: Thumbnail
   elementId: ''
   styles:
