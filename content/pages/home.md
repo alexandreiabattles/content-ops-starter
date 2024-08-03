@@ -32,7 +32,7 @@ sections:
       type: ImageBlock
       url: /images/Screenshot_4.png
       altText: Unblock your team boost your time to production preview
-      elementId: ''
+      elementId: Kleopatra
     badge:
       type: Badge
       label: "welcome to\_ alexandreia army page -"
