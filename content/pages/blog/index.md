@@ -8,7 +8,7 @@ topSections:
       text: Army News - Updated Information Department
       color: text-dark
       type: TitleBlock
-    subtitle: "LAST NEW!! :\_ ARENA SEXTA WILL BE CHANGED"
+    subtitle: "LAST NEW!! :\_ ARENA SEXTA WILL BE CHANGED TO A ROMAN CITY"
     posts:
       - content/pages/blog/top-ten-lessons-we-learned.md
     showThumbnail: true
