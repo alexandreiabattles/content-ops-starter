@@ -38,7 +38,7 @@ sections:
       elementId: ''
     badge:
       type: Badge
-      label: This is a badge
+      label: welcome to alexandreia
       color: text-primary
     elementId: ''
     colors: bg-light-fg-dark
