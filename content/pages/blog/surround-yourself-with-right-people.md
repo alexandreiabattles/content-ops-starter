@@ -1,7 +1,7 @@
 ---
 title: Welcome back Mav!
 slug: surround-yourself-with-right-people
-date: '2023-03-26'
+date: '2024-07-26'
 excerpt: ''
 featuredImage:
   altText: Thumbnail
