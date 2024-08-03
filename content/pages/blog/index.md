@@ -8,7 +8,7 @@ topSections:
       text: Alexandreia News - Updated Information Department
       color: text-dark
       type: TitleBlock
-    subtitle: "\U0001F534 LAST NEW!! \U0001F534:\_ \_SEXTA ARENA WILL BE CHANGED TO A ROMAN CITY by Ellen"
+    subtitle: "LAST NEW!! :\_ \_SEXTA ARENA WILL BE CHANGED TO A ROMAN CITY by Ellen"
     posts:
       - content/pages/blog/top-ten-lessons-we-learned.md
     showThumbnail: true
