@@ -75,7 +75,7 @@ sections:
         styles:
           self:
             padding:
-              - pt-28
+              - pt-8
               - pl-28
               - pb-28
               - pr-28
