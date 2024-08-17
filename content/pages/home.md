@@ -128,7 +128,7 @@ sections:
         elementId: ''
     badge:
       type: Badge
-      label: hello -你好 (Nǐ hǎo)-salut-
+      label: hello -你好 (Nǐ hǎo)-salut-Сайн уу (Sain uu)-
       color: text-primary
       styles:
         self:
