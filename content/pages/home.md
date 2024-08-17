@@ -72,6 +72,7 @@ sections:
             flexDirection: row
             justifyContent: flex-end
             textAlign: left
+            borderColor: border-dark
       - type: FeaturedItem
         title: ALEXANDREIA
         subtitle: Are.....
