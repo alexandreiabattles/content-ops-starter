@@ -17,13 +17,7 @@ sections:
       randomised words which don't look even slightly believable. If you are
       going to use a passage of Lorem Ipsum, you need to be sure there isn't
       anything embarrassing hidden in the middle of text.
-    actions:
-      - type: Button
-        label: See open positions
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: primary
+    actions: []
     colors: bg-neutral-fg-dark
     backgroundImage:
       type: BackgroundImage
@@ -47,36 +41,279 @@ sections:
         textAlign: center
       subtitle:
         textAlign: center
-  - type: FeaturedPostsSection
+  - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Featured posts
+      text: ACCUMULATED SCORE
       color: text-dark
       styles:
         self:
           textAlign: center
-    posts:
-      - >-
-        content/pages/blog/how-to-write-a-blog-post-that-will-get-you-more-traffic.md
-      - content/pages/blog/five-tips-for-starting-a-startup.md
-      - content/pages/blog/what-is-a-design-system.md
-    showThumbnail: true
-    showExcerpt: true
-    showDate: true
-    showAuthor: true
-    actions: []
+    subtitle: '- WAR Challenge -'
+    items:
+      - type: FeaturedItem
+        title: ''
+        subtitle: "Cities :\_Memphis (Quiet) Alexandreia (Quiet) Pelusion (Quiet)\_ \_ \_ \_ \_ \_ Edfu (Quiet)\_ \_ \_ \_ \_ \_ \_ \_ Assuan (Quiet)"
+        text: |+
+          | QUEEN KLEOPATRA | EAGLES ARMY | **0 pts** |
+          | --------------- | ----------- | --------- |
+
+        image:
+          type: ImageBlock
+          url: >-
+            /images/png-transparent-egyptian-sculpture-illustration-heliopolis-ancient-egypt-atum-deity-egyptian-ancient-pattern-material-free-to-pull-free-logo-design-template-egypt-geometric-pattern.png
+          altText: Featured icon three
+          elementId: ''
+        actions: []
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            justifyContent: center
+      - type: FeaturedItem
+        title: ''
+        subtitle: "Cities:Brundisium (Quiet)\_ \_ \_ \_ \_ \_ \_ \_ Brindisi(Quiet)\_ \_Pompei(Quiet)\_ Capua(Quiet) Octodur (Quiet)\_ Roma(Quiet)"
+        text: |+
+          | GENERAL LORD | SEXTA ARMY - | **0 pts** |
+          | ------------ | ------------ | --------- |
+
+        image:
+          type: ImageBlock
+          url: /images/50cc6c0cea3a5d3f5e04a7842b55a293.jpg
+          altText: Placeholder text
+          elementId: ''
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-10
+              - pl-10
+              - pb-10
+              - pr-10
+            borderRadius: x-large
+            flexDirection: row
+            justifyContent: flex-start
+            textAlign: justify
+      - type: FeaturedItem
+        title: 500k
+        subtitle: Numbers Done
+        text: >-
+          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
+          explicabo.
+        image:
+          type: ImageBlock
+          url: /images/icon1.svg
+          altText: Placeholder text
+          elementId: ''
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            justifyContent: center
+            textAlign: left
+    actions:
+      - type: Button
+        label: Get started
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+    badge:
+      type: Badge
+      label: ''
+      color: text-primary
+      styles:
+        self:
+          textAlign: center
     elementId: ''
-    variant: small-list
-    colors: bg-light-fg-dark
-    hoverEffect: thin-underline
+    variant: three-col-grid
+    colors: bg-neutral-fg-dark
     styles:
       self:
         padding:
+          - pb-16
           - pt-16
           - pl-16
-          - pb-16
           - pr-16
         justifyContent: center
+      subtitle:
+        textAlign: center
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Business Consulting
+      color: text-dark
+    subtitle: Be in good company
+    text: >
+      A service that provides advice and guidance to startups and small
+      businesses.
+    actions:
+      - type: Button
+        label: Get started
+        url: /
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+      - type: Link
+        label: See Tutorials
+        url: /
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+    media:
+      type: ImageBlock
+      url: /images/hero3.svg
+      altText: Dope design preview
+    badge:
+      type: Badge
+      label: This is a badge
+      color: text-primary
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row-reverse
+  - type: FeaturedItemsSection
+    title:
+      type: TitleBlock
+      text: Key Benefits
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    subtitle: Subtitle goes here
+    items:
+      - type: FeaturedItem
+        title: 500k
+        subtitle: Numbers Done
+        text: >-
+          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
+          explicabo.
+        image:
+          type: ImageBlock
+          url: /images/icon1.svg
+          altText: Lightning bolt symbol on red background
+          elementId: ''
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            justifyContent: center
+            textAlign: left
+      - type: FeaturedItem
+        title: 20x
+        subtitle: The Job Stuff
+        text: >-
+          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
+          explicabo.
+        image:
+          type: ImageBlock
+          url: /images/icon2.svg
+          altText: Featured icon two
+          elementId: ''
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            textAlign: left
+            justifyContent: center
+      - type: FeaturedItem
+        title: 200%
+        subtitle: Faster
+        text: >-
+          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
+          explicabo.
+        image:
+          type: ImageBlock
+          url: /images/icon3.svg
+          altText: Featured icon three
+          elementId: ''
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+    actions:
+      - type: Button
+        label: Get started
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+    badge:
+      type: Badge
+      label: This is a badge
+      color: text-primary
+      styles:
+        self:
+          textAlign: center
+    elementId: ''
+    variant: three-col-grid
+    colors: bg-neutral-fg-dark
+    styles:
+      self:
+        padding:
+          - pb-16
+          - pt-16
+          - pl-16
+          - pr-16
+        justifyContent: center
+      subtitle:
+        textAlign: center
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
