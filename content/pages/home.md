@@ -266,7 +266,7 @@ sections:
           textAlign: center
     subtitle: "Winner : Aquiles from Sexta Ferrata-\_\U0001F3C6"
     text: |
-      2nd SOFIANE !!! : EAGLES WARRIOR
+      2nd SOFIANE !!! : EAGLES WARRIOR - ALEXANDREIA-
 
       3th : VALKIRIA !!  :  -ATHENS SIM-
 
