@@ -43,13 +43,12 @@ sections:
       - type: FeaturedItem
         title: ALEXANDREIA
         subtitle: IS ...
-        text: >+
-          INTERNATIONAL : 
+        text: >
+          **INTERNATIONAL :**
 
-          We defend our identities, differences and praise a diverse community.
-          Any disrespectful comment is enough to know that Alexandreia is not
-          your place
-
+          We defend our identities, differences, origins, and praise a diverse
+          community. Any disrespectful comment about it, is enough to know that
+          Alexandreia is not your place.. we encourage, we open minded 
         image:
           type: ImageBlock
           url: >-
