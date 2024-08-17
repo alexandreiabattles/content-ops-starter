@@ -2,45 +2,6 @@
 type: PageLayout
 title: Careers
 sections:
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: ''
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    subtitle: CHALLENGE - CONQUER
-    text: >
-      There are many variations of passages of Lorem Ipsum available, but the
-      majority have suffered alteration in some form, by injected humour, or
-      randomised words which don't look even slightly believable. If you are
-      going to use a passage of Lorem Ipsum, you need to be sure there isn't
-      anything embarrassing hidden in the middle of text.
-    actions: []
-    colors: bg-neutral-fg-dark
-    backgroundImage:
-      type: BackgroundImage
-      url: /images/abstract-background.svg
-      altText: Placeholder image
-      backgroundSize: cover
-      backgroundPosition: center
-      backgroundRepeat: no-repeat
-      opacity: 100
-    styles:
-      self:
-        padding:
-          - pt-40
-          - pl-4
-          - pb-40
-          - pr-4
-        alignItems: center
-        flexDirection: row-reverse
-        justifyContent: center
-      text:
-        textAlign: center
-      subtitle:
-        textAlign: center
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
@@ -53,7 +14,7 @@ sections:
     items:
       - type: FeaturedItem
         title: ''
-        subtitle: "Cities :\_Memphis (Quiet) Alexandreia (Quiet) Pelusion (Quiet)\_ \_ \_ \_ \_ \_ Edfu (Quiet)\_ \_ \_ \_ \_ \_ \_ \_ Assuan (Quiet)"
+        subtitle: "Cities :\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ Memphis (Quiet) Alexandreia (Quiet) Pelusion (Quiet)\_ \_ \_ \_ \_ \_ Edfu (Quiet)\_ \_ \_ \_ \_ \_ \_ \_ Assuan (Quiet)"
         text: |+
           | QUEEN KLEOPATRA | EAGLES ARMY | **0 pts** |
           | --------------- | ----------- | --------- |
@@ -78,7 +39,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: ''
-        subtitle: "Cities:Brundisium (Quiet)\_ \_ \_ \_ \_ \_ \_ \_ Brindisi(Quiet)\_ \_Pompei(Quiet)\_ Capua(Quiet) Octodur (Quiet)\_ Roma(Quiet)"
+        subtitle: "Cities:\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_Brundisium (Quiet)\_ \_ \_ \_ \_Pompei(Quiet)\_ Capua(Quiet)\_ \_ \_ \_ \_ \_ \_ \_ Octodur (Quiet)\_ Roma(Quiet)"
         text: |+
           | GENERAL LORD | SEXTA ARMY - | **0 pts** |
           | ------------ | ------------ | --------- |
@@ -103,7 +64,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
             justifyContent: flex-start
-            textAlign: justify
+            textAlign: left
       - type: FeaturedItem
         title: 500k
         subtitle: Numbers Done
@@ -113,7 +74,7 @@ sections:
           explicabo.
         image:
           type: ImageBlock
-          url: /images/icon1.svg
+          url: /images/Troykeyartweb_v4.jpg
           altText: Placeholder text
           elementId: ''
           styles:
@@ -129,9 +90,9 @@ sections:
               - pb-8
               - pr-8
             borderRadius: x-large
-            flexDirection: row
+            flexDirection: col
             justifyContent: center
-            textAlign: left
+            textAlign: center
     actions:
       - type: Button
         label: Get started
