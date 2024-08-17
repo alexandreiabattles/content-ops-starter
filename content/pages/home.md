@@ -17,7 +17,7 @@ sections:
       elementId: Kleopatra
     badge:
       type: Badge
-      label: "welcome to\_ alexandreia army page -"
+      label: "welcome to\_ alexandreia army pLACE -"
       color: text-primary
     elementId: ''
     colors: bg-light-fg-dark
