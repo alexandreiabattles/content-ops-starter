@@ -290,7 +290,7 @@ sections:
           borderRadius: large
     badge:
       type: Badge
-      label: Key Benefits
+      label: check this
       color: text-primary
       styles:
         self:
