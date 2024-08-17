@@ -78,7 +78,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: ''
-        subtitle: "Cities:\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_Brundisium (Quiet)\_ \_ \_ \_ \_ \_Brindisi(Quiet)\_ \_Pompei(Quiet)\_ Capua(Quiet)\_ \_ \_ \_ \_ \_ \_ \_ Octodur (Quiet)\_ Roma(Quiet)"
+        subtitle: "Cities:\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_Brundisium (Quiet)\_ \_ \_ \_ \_Brindisi(Quiet)\_ \_Pompei(Quiet)\_ Capua(Quiet)\_ \_ \_ \_ \_ \_ \_ \_ Octodur (Quiet)\_ Roma(Quiet)"
         text: |+
           | GENERAL LORD | SEXTA ARMY - | **0 pts** |
           | ------------ | ------------ | --------- |
