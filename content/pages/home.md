@@ -48,7 +48,8 @@ sections:
 
           We defend our identities, differences, origins, and praise a diverse
           community. Any disrespectful comment about it, is enough to know that
-          Alexandreia is not your place.. we encourage, we open minded 
+          Alexandreia is not your place.. we encourage, we love, we open minded
+          .. we are sisterhood and brotherhood
         image:
           type: ImageBlock
           url: >-
