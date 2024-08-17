@@ -55,7 +55,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: '- Quarter Challenge -'
+    subtitle: '- WAR Challenge -'
     items:
       - type: FeaturedItem
         title: ''
