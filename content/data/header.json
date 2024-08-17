@@ -14,7 +14,7 @@
     "primaryLinks": [
         {
             "type": "Button",
-            "label": "HOME !",
+            "label": "HOME ",
             "altText": "",
             "url": "https://alexandreiaresults.netlify.app/Home/",
             "showIcon": false,
