@@ -270,7 +270,11 @@ sections:
 
       3th : VALKIRIA !!  :  -ATHENS-
 
-      ***SPONSORS : QUEEN KLEOPATRA - KING GIOVANNI  ***
+      \*\*\*SPONSORS : QUEEN KLEOPATRA - KING GIOVANNI  \*\*\*
+
+
+
+      Date : July 6
     actions: []
     media:
       type: VideoBlock
