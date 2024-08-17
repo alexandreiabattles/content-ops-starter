@@ -17,7 +17,7 @@ sections:
       elementId: Kleopatra
     badge:
       type: Badge
-      label: "welcome to\_ alexandreia army page -"
+      label: "welcome to\_ alexandreia army pLACE -"
       color: text-primary
     elementId: ''
     colors: bg-light-fg-dark
@@ -264,9 +264,15 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: 'Winner : Aquiles from Sexta Ferrata-'
+    subtitle: "Winner : Aquiles from Sexta Ferrata-\_\U0001F3C6"
     text: |
-      text..script
+      2nd SOFIANE !!! : EAGLES WARRIOR
+
+      3th : VALKIRIA !!  :  -ATHENS SIM-
+
+      \*\*\*SPONSORS : QUEEN KLEOPATRA - KING GIOVANNI  \*\*\*
+
+      Date : July 7
     actions: []
     media:
       type: VideoBlock
@@ -302,6 +308,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+        fontWeight: 700
   - type: GenericSection
     title:
       type: TitleBlock

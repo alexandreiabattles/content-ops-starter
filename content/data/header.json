@@ -14,7 +14,7 @@
     "primaryLinks": [
         {
             "type": "Button",
-            "label": "HOME !",
+            "label": "HOME ",
             "altText": "",
             "url": "https://alexandreiaresults.netlify.app/Home/",
             "showIcon": false,
@@ -33,7 +33,7 @@
             "type": "Link"
         },
         {
-            "label": "Accumulated  SCORE",
+            "label": "Accumulated  SCORE - DSB ",
             "altText": "Careers page",
             "url": "/careers",
             "icon": "arrowRight",
