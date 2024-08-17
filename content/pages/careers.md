@@ -58,7 +58,7 @@ sections:
     subtitle: Subtitle goes here
     items:
       - type: FeaturedItem
-        title: 200%
+        title: ACCUMULATED SCORE
         subtitle: Faster
         text: |+
           | EAGLES ARMY                | **0 Pts** |
