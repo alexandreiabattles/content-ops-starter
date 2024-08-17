@@ -8,7 +8,7 @@ sections:
       text: "Owner Alexandreia QUEEN KLEOPATRA \U000130ED"
       color: text-dark
     subtitle: ''
-    text: "Dear warriors NEW CHALLENGE starts - This conflict will\_ be a new adventure, we want everyone to cooperate, motivated and start this new game RP\n\nThis website is designed and managed by Marcus Antyllus\n\nHe will post, update the points &\_the results of the battles. Whoever conquers more, has more points...!\n\nHave HONOR, DEFEND, ATTACK\n"
+    text: "Dear warriors NEW CHALLENGE starts - This conflict will\_ be a new adventure, we want everyone to cooperate, motivated and start this new game RP\n\nThis website is designed and managed by Marcus Antyllus \n\nHe will post, update the points &\_the results of the battles. Whoever conquers more, has more points...!\n\nHave HONOR, DEFEND, ATTACK\n"
     actions: []
     media:
       type: ImageBlock
@@ -33,23 +33,27 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Key Benefits
+      text: ''
       color: text-dark
       styles:
         self:
           textAlign: center
-    subtitle: Subtitle goes here
+    subtitle: WELCOME
     items:
       - type: FeaturedItem
-        title: 500k
-        subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        title: ALEXANDREIA
+        subtitle: IS ...
+        text: >
+          **INTERNATIONAL :**
+
+          We defend our identities, differences, origins, and praise a diverse
+          community. Any disrespectful comment about it, is enough to know that
+          Alexandreia is not your place.. we encourage, we love, we open minded
+          .. we are sisterhood / brotherhood - and for sure, we learn.
         image:
           type: ImageBlock
-          url: /images/icon1.svg
+          url: >-
+            /images/from_giovanni_battista_belzoni-_egyptian_race_portrayed_in_the_book_of_gates.webp
           altText: Placeholder image
           elementId: ''
           styles:
@@ -65,12 +69,14 @@ sections:
               - pb-8
               - pr-8
             borderRadius: x-large
-            flexDirection: row
-            justifyContent: center
+            flexDirection: col
+            justifyContent: flex-end
             textAlign: left
+            borderColor: border-dark
+            borderStyle: dashed
       - type: FeaturedItem
-        title: 20x
-        subtitle: The Job Stuff
+        title: ALEXANDREIA
+        subtitle: Are.....
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
@@ -94,8 +100,8 @@ sections:
             textAlign: left
             justifyContent: center
       - type: FeaturedItem
-        title: 200%
-        subtitle: Faster
+        title: ALEXANDREIA
+        subtitle: IS.....
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
@@ -128,7 +134,9 @@ sections:
         elementId: ''
     badge:
       type: Badge
-      label: This is a badge
+      label: >-
+        hello -你好 (Nǐ hǎo)-salut-Сайн уу (Sain uu)-hallo-hola-merhaba-olá- مرحبا
+        (Marhaban)
       color: text-primary
       styles:
         self:
@@ -146,6 +154,48 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Generic section with a video
+      color: text-dark
+      styles:
+        self:
+          textAlign: left
+    subtitle: Section with a video subtitle
+    text: |-
+      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
+      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
+      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
+      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    actions: []
+    media:
+      type: VideoBlock
+      title: Title of the video
+      url: /images/placeholder-video.mp4
+      autoplay: true
+      loop: true
+      muted: true
+      controls: false
+      aspectRatio: '16:9'
+      styles:
+        self:
+          padding:
+            - pt-2
+            - pb-2
+            - pl-2
+            - pr-2
+          borderColor: border-dark
+          borderStyle: solid
+          borderWidth: 1
+          borderRadius: large
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        flexDirection: row
+        justifyContent: center
+      subtitle:
+        textAlign: left
   - type: ImageGallerySection
     subtitle: ALEXANDREIA
     images:

@@ -33,9 +33,9 @@
     "h4": {
         "size": "2xl",
         "weight": "normal",
-        "decoration": "none",
+        "decoration": "underline",
         "case": "none",
-        "letterSpacing": "normal",
+        "letterSpacing": "wider",
         "type": "ThemeStyleHeading"
     },
     "h5": {
