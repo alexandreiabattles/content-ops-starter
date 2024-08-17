@@ -61,10 +61,9 @@ sections:
         title: ''
         subtitle: Faster
         text: |+
-
-
-          | EAGLES ARMY  |  0 pts |
-          | ------------ | ------ |
+          | EAGLES ARMY     | **0 pts** |
+          | --------------- | --------- |
+          | QUEEN KLEOPATRA |           |
 
         image:
           type: ImageBlock
