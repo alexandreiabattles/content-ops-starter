@@ -85,8 +85,8 @@ sections:
         title: 500k
         subtitle: Numbers Done
         text: |+
-          | General Lord Lucas | SS | S |
-          | ------------------ | -- | - |
+          | GENERAL LORD LUCAS | SEXTA ARMY | **0 pts**  |
+          | ------------------ | ---------- | ---------- |
 
         image:
           type: ImageBlock
