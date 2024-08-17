@@ -53,7 +53,7 @@ sections:
     items:
       - type: FeaturedItem
         title: ''
-        subtitle: "Cities :\_Memphis (Quiet), Alexandreia (Quiet), Pelusion (Quiet),\_ \_ \_ \_ \_ \_ \_ \_Edfu (Quiet), Assuan (Quiet)"
+        subtitle: "Cities :\_Memphis (Quiet) Alexandreia (Quiet) Pelusion (Quiet)\_ \_ \_ \_ \_ \_ Edfu (Quiet)\_ \_ \_ \_ \_ \_ \_ \_ Assuan (Quiet)"
         text: |+
           | QUEEN KLEOPATRA | EAGLES ARMY | **0 pts** |
           | --------------- | ----------- | --------- |
