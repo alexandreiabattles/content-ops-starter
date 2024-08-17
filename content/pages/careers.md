@@ -104,7 +104,7 @@ sections:
               - pt-9
               - pl-8
               - pb-9
-              - pr-8
+              - pr-9
             borderRadius: x-large
             flexDirection: row
             justifyContent: center
