@@ -55,7 +55,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Subtitle goes here
+    subtitle: '- Quarter Challenge -'
     items:
       - type: FeaturedItem
         title: ''
