@@ -92,7 +92,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
             justifyContent: center
-            textAlign: left
+            textAlign: center
     actions:
       - type: Button
         label: Get started
