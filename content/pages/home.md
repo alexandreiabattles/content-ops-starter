@@ -264,11 +264,11 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: "Winner : Aquiles from Sexta Ferrata-\_\U0001F3C6"
+    subtitle: "Winner : Legatus Aquiles from Sexta Ferrata-\_\U0001F3C6"
     text: |
-      2nd SOFIANE !!! : EAGLES WARRIOR
+      2nd SOFIANE !!! : EAGLES WARRIOR - ALEXANDREIA-
 
-      3th : VALKIRIA !!  :  -ATHENS SIM-
+      3th : VALKIRIA !  :  -ATHENS SIM-
 
       \*\*\*SPONSORS : QUEEN KLEOPATRA - KING GIOVANNI  \*\*\*
 
@@ -324,7 +324,7 @@ sections:
     media:
       type: VideoBlock
       title: Title of the video
-      url: 'https://www.youtube.com/watch?v=bMUrdP3s1NI'
+      url: 'https://www.youtube.com/watch?v=H_yb4XnQHcw'
       autoplay: true
       loop: true
       muted: false
