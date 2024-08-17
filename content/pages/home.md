@@ -264,7 +264,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: This is a subtitle
+    subtitle: 'Winner : Aquiles from Sexta Ferrata-'
     text: |
       text..script
     actions: []
@@ -290,7 +290,7 @@ sections:
           borderRadius: large
     badge:
       type: Badge
-      label: Key Benefits
+      label: check this
       color: text-primary
       styles:
         self:
