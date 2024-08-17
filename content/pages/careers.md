@@ -78,7 +78,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: ''
-        subtitle: 'Cities :'
+        subtitle: "Cities:Brundisium (Quiet) Brindisi(Quiet)\_ \_Pompei(Quiet)\_ Capua(Quiet) Octodur (Quiet)\_ Roma"
         text: |+
           | GENERAL LORD | SEXTA ARMY - | **0 pts** |
           | ------------ | ------------ | --------- |
