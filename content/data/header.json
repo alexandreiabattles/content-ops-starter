@@ -14,7 +14,7 @@
     "primaryLinks": [
         {
             "type": "Button",
-            "label": "Get started",
+            "label": "HOME",
             "altText": "",
             "url": "/https://create.netlify.com/studio/66ad8fcd50383100c4e674a7#/Home/",
             "showIcon": false,
