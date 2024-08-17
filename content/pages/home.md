@@ -128,7 +128,7 @@ sections:
         elementId: ''
     badge:
       type: Badge
-      label: hello
+      label: hello -
       color: text-primary
       styles:
         self:
