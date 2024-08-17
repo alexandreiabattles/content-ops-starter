@@ -128,7 +128,7 @@ sections:
         elementId: ''
     badge:
       type: Badge
-      label: hello -
+      label: hello -你好 (Nǐ hǎo)-
       color: text-primary
       styles:
         self:
