@@ -61,13 +61,11 @@ sections:
         title: 200%
         subtitle: Faster
         text: |+
-
-
-          | EAGLES ARMY                |                      0 Pts   |
-          | -------------------------- | ---------------------------- |
-          | SEXTA ARMY                 |                       0 Pts  |
-          | TROY ARMY                  |                       0 Pts  |
-          | CELTIC THUATAN DANNAN ARMY |                       0 Pts  |
+          | EAGLES ARMY                | **0 Pts** |
+          | -------------------------- | --------- |
+          | SEXTA ARMY                 | **0 Pts** |
+          | TROY ARMY                  | **0 Pts** |
+          | CELTIC THUATAN DANNAN ARMY | **0 Pts** |
 
         image:
           type: ImageBlock
