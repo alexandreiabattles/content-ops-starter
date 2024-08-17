@@ -60,10 +60,15 @@ sections:
       - type: FeaturedItem
         title: 200%
         subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |+
+
+
+          | EAGLES ARMY                |                      0 Pts   |
+          | -------------------------- | ---------------------------- |
+          | SEXTA ARMY                 |                       0 Pts  |
+          | TROY ARMY                  |                       0 Pts  |
+          | CELTIC THUATAN DANNAN ARMY |                       0 Pts  |
+
         image:
           type: ImageBlock
           url: /images/icon3.svg
