@@ -53,7 +53,7 @@ sections:
     items:
       - type: FeaturedItem
         title: ''
-        subtitle: Faster
+        subtitle: 'Cities :'
         text: |+
           | QUEEN KLEOPATRA | EAGLES ARMY | **0 pts** |
           | --------------- | ----------- | --------- |
