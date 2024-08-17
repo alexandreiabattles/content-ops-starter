@@ -76,7 +76,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: 500k
+        title: ''
         subtitle: Numbers Done
         text: |+
           | GENERAL LORD | SEXTA ARMY - | **0 pts** |
