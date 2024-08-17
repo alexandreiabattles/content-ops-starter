@@ -78,7 +78,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: ''
-        subtitle: Numbers Done
+        subtitle: 'Cities :'
         text: |+
           | GENERAL LORD | SEXTA ARMY - | **0 pts** |
           | ------------ | ------------ | --------- |
