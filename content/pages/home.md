@@ -71,7 +71,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
             justifyContent: flex-end
-            textAlign: center
+            textAlign: left
             borderColor: border-dark
             borderStyle: dashed
       - type: FeaturedItem
