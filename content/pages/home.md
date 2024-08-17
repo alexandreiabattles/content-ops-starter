@@ -38,7 +38,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Subtitle goes here
+    subtitle: WELCOME
     items:
       - type: FeaturedItem
         title: 500k
