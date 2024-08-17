@@ -78,7 +78,7 @@ sections:
               - pt-8
               - pl-28
               - pb-28
-              - pr-28
+              - pr-8
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
