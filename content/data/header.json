@@ -42,8 +42,8 @@
             "type": "Link"
         },
         {
-            "label": "Dropdown",
-            "altText": "Dropdown",
+            "label": "Special Events",
+            "altText": "Special Events",
             "links": [],
             "labelStyle": "secondary",
             "type": "SubNav"
