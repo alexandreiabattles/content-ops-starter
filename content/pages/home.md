@@ -49,7 +49,8 @@ sections:
           explicabo.
         image:
           type: ImageBlock
-          url: /images/icon1.svg
+          url: >-
+            /images/from_giovanni_battista_belzoni-_egyptian_race_portrayed_in_the_book_of_gates.webp
           altText: Placeholder image
           elementId: ''
           styles:
