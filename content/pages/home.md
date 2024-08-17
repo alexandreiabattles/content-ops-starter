@@ -266,13 +266,11 @@ sections:
           textAlign: center
     subtitle: 'Winner : Aquiles from Sexta Ferrata-'
     text: |
-      2nd SOFIANE !!! : EAGLES WARRIOR 
+      2nd SOFIANE !!! : EAGLES WARRIOR
 
-      3th : VALKIRIA !!  :  -ATHENS-  
+      3th : VALKIRIA !!  :  -ATHENS-
 
-
-
-      SPONSORS : ANASSA KLEOPATRA - KING GIOVANNI 
+      ***SPONSORS : QUEEN KLEOPATRA - KING GIOVANNI***
     actions: []
     media:
       type: VideoBlock
