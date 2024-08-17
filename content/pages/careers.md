@@ -74,7 +74,7 @@ sections:
           explicabo.
         image:
           type: ImageBlock
-          url: /images/628682.jpg
+          url: /images/Troykeyartweb_v4.jpg
           altText: Placeholder text
           elementId: ''
           styles:
