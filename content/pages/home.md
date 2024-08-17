@@ -272,9 +272,7 @@ sections:
 
       \*\*\*SPONSORS : QUEEN KLEOPATRA - KING GIOVANNI  \*\*\*
 
-
-
-      Date : July 6
+      Date : July 7
     actions: []
     media:
       type: VideoBlock
