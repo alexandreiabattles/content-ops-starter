@@ -100,7 +100,7 @@ sections:
               - pb-10
               - pr-10
             borderRadius: x-large
-            flexDirection: row
+            flexDirection: col
             justifyContent: center
             textAlign: justify
     actions:
