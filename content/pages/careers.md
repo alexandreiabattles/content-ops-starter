@@ -101,7 +101,7 @@ sections:
               - pr-10
             borderRadius: x-large
             flexDirection: row
-            justifyContent: center
+            justifyContent: flex-start
             textAlign: justify
     actions:
       - type: Button
