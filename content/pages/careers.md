@@ -85,8 +85,8 @@ sections:
         title: 500k
         subtitle: Numbers Done
         text: |+
-          | s | SS | S |
-          | - | -- | - |
+          | General Lord Lucas | SS | S |
+          | ------------------ | -- | - |
 
         image:
           type: ImageBlock
