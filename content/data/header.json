@@ -43,7 +43,7 @@
         },
         {
             "label": "Special Events",
-            "altText": "Dropdown",
+            "altText": "Special Events",
             "links": [],
             "labelStyle": "secondary",
             "type": "SubNav"
