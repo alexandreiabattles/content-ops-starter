@@ -268,7 +268,7 @@ sections:
     text: |
       2nd SOFIANE !!! : EAGLES WARRIOR - ALEXANDREIA-
 
-      3th : VALKIRIA !!  :  -ATHENS SIM-
+      3th : VALKIRIA !  :  -ATHENS SIM-
 
       \*\*\*SPONSORS : QUEEN KLEOPATRA - KING GIOVANNI  \*\*\*
 
