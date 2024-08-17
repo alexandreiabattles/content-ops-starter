@@ -128,7 +128,9 @@ sections:
         elementId: ''
     badge:
       type: Badge
-      label: hello -你好 (Nǐ hǎo)-salut-Сайн уу (Sain uu)-hallo-hola-merhaba-olá-
+      label: >-
+        hello -你好 (Nǐ hǎo)-salut-Сайн уу (Sain uu)-hallo-hola-merhaba-olá- مرحبا
+        (Marhaban)
       color: text-primary
       styles:
         self:
