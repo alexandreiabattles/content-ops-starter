@@ -84,10 +84,10 @@ sections:
       - type: FeaturedItem
         title: 500k
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |+
+          | s | SS | S |
+          | - | -- | - |
+
         image:
           type: ImageBlock
           url: /images/icon1.svg
