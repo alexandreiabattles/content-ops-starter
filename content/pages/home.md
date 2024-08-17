@@ -42,7 +42,7 @@ sections:
     items:
       - type: FeaturedItem
         title: ALEXANDREIA
-        subtitle: Numbers Done
+        subtitle: IS ...
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
