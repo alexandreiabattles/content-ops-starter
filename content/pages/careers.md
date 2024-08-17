@@ -102,7 +102,7 @@ sections:
           self:
             padding:
               - pt-9
-              - pl-8
+              - pl-9
               - pb-9
               - pr-9
             borderRadius: x-large
