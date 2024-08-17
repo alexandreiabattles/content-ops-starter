@@ -103,7 +103,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
             justifyContent: flex-start
-            textAlign: justify
+            textAlign: center
       - type: FeaturedItem
         title: 500k
         subtitle: Numbers Done
