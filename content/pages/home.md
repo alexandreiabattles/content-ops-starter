@@ -264,7 +264,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: This is a subtitle
+    subtitle: 'Winner : Aquiles from Sexta Ferrata-'
     text: |
       text..script
     actions: []
