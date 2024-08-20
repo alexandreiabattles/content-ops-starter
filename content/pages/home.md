@@ -437,9 +437,7 @@ sections:
           decided to give a space electronic for battles, and a website for my
           dearest mother Kleopatra Thea Neotera.”
         tagline: ''
-        subtitle: >-
-          Marcus Gens Antonia, Antyllus ¨Little Antonius¨ or how people know,
-          the Archer
+        subtitle: 'Marcus Gens Antonia, Antyllus ¨Little Antonius¨'
         text: ''
         image:
           type: ImageBlock
