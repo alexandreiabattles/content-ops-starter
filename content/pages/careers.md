@@ -136,7 +136,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/AAA transaretn.png
+          url: /images/blood-png-7140.png
           altText: Placeholder text
           elementId: ''
           styles:
