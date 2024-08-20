@@ -440,10 +440,9 @@ sections:
         subtitle: >-
           Marcus Gens Antonia, Antyllus ¨Little Antonius¨ or how people know,
           the Archer
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Marcus Gens Antonia, Antyllus ¨Little Antonius¨ or how people know,
+          the Archer
         image:
           type: ImageBlock
           url: /images/img-placeholder-dark.png
