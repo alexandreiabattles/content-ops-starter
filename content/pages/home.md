@@ -440,8 +440,7 @@ sections:
         subtitle: >-
           Marcus Gens Antonia, Antyllus ¨Little Antonius¨ or how people know,
           the Archer
-        text: |
-          Marcus Gens Antonia, Antyllus ¨Little Antonius¨ 
+        text: ''
         image:
           type: ImageBlock
           url: /images/img-placeholder-dark.png
