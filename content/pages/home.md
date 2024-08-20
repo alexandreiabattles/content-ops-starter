@@ -447,7 +447,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/img-placeholder-dark.png
-          altText: Jane Doe
+          altText: Macurs Antyllus
           styles:
             self:
               borderRadius: full
