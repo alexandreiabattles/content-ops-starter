@@ -60,8 +60,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: >-
-            /images/png-transparent-egyptian-sculpture-illustration-heliopolis-ancient-egypt-atum-deity-egyptian-ancient-pattern-material-free-to-pull-free-logo-design-template-egypt-geometric-pattern.png
+          url: /images/LOGO EAGLES 2.png
           altText: Featured icon three
           elementId: ''
         actions: []
