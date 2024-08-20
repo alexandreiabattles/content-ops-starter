@@ -106,9 +106,9 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: ''
-        subtitle: "Cities :\_Pergammon (Quiet), Ephesus, Smyrna and Prusa"
+        subtitle: "Cities :\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ Pergammon (Quiet),\_ \_ \_ \_ \_Ep--(Quiet) ,\_ \_ \_ \_ \_ \_ \_ \_ \_ \_Smyrna (Quiet)\_ \_ \_ \_Prusa (Quiet)\_ \_ \_ \_ \_ \_ \_Troy (Quiet) // No Ephesus.. pending to look...."
         text: |
-          Pergammon (Quiet), Ephesus, Smyrna and Prusa
+          \----... 
         image:
           type: ImageBlock
           url: /images/troy-a-total-war-saga-button-00-1568921720588.jpg
@@ -136,7 +136,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/AAA transaretn.png
+          url: /images/blood-png-7140.png
           altText: Placeholder text
           elementId: ''
           styles:
