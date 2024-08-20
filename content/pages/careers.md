@@ -111,7 +111,7 @@ sections:
           Pergammon (Quiet), Ephesus, Smyrna and Prusa
         image:
           type: ImageBlock
-          url: /images/50cc6c0cea3a5d3f5e04a7842b55a293.jpg
+          url: /images/troy-a-total-war-saga-button-00-1568921720588.jpg
           altText: Placeholder text
           elementId: ''
           styles:
