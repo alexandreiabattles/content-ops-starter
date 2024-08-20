@@ -328,7 +328,7 @@ sections:
         https://www.youtube.com/watch?v=Mtk_sONV4A8&list=PLcKIjMdp0gyvq8U6w8uYDZe55CHLiDNhN
       autoplay: true
       loop: true
-      muted: false
+      muted: true
       controls: false
       aspectRatio: '16:9'
       styles:
