@@ -49,7 +49,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: '- WAR Challenge -'
+    subtitle: '- WAR Challenge - AW'
     items:
       - type: FeaturedItem
         title: ''
@@ -105,7 +105,58 @@ sections:
             justifyContent: flex-start
             textAlign: left
       - type: FeaturedItem
-        title: 500k
+        title: ''
+        subtitle: "Cities :\_Pergammon (Quiet), Ephesus, Smyrna and Prusa"
+        text: |
+          Pergammon (Quiet), Ephesus, Smyrna and Prusa
+        image:
+          type: ImageBlock
+          url: /images/troy-a-total-war-saga-button-00-1568921720588.jpg
+          altText: Placeholder text
+          elementId: ''
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            justifyContent: center
+            textAlign: center
+      - type: FeaturedItem
+        title: ''
+        subtitle: ''
+        text: ''
+        image:
+          type: ImageBlock
+          url: /images/AAA transaretn.png
+          altText: Placeholder text
+          elementId: ''
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            justifyContent: center
+            textAlign: left
+      - type: FeaturedItem
+        title: ''
         subtitle: Numbers Done
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
@@ -113,7 +164,7 @@ sections:
           explicabo.
         image:
           type: ImageBlock
-          url: /images/Troykeyartweb_v4.jpg
+          url: /images/icon1.svg
           altText: Placeholder text
           elementId: ''
           styles:
@@ -129,9 +180,9 @@ sections:
               - pb-8
               - pr-8
             borderRadius: x-large
-            flexDirection: col
+            flexDirection: row
             justifyContent: center
-            textAlign: center
+            textAlign: left
     actions:
       - type: Button
         label: Get started
