@@ -106,7 +106,7 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: ''
-        subtitle: "Cities :\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ Pergammon (Quiet), Ephesus (Quiet) ,\_ Smyrna (Quiet)\_ \_ \_ \_ Prusa (Quiet)"
+        subtitle: "Cities :\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ Pergammon (Quiet), Ephesus (Quiet) ,\_ \_ \_Smyrna (Quiet)\_ \_ \_ Prusa (Quiet)"
         text: |
           Pergammon (Quiet), Ephesus, Smyrna and Prusa
         image:
