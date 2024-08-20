@@ -328,7 +328,7 @@ sections:
         https://www.youtube.com/watch?v=Mtk_sONV4A8&list=PLcKIjMdp0gyvq8U6w8uYDZe55CHLiDNhN
       autoplay: true
       loop: true
-      muted: false
+      muted: true
       controls: false
       aspectRatio: '16:9'
       styles:
@@ -396,7 +396,7 @@ sections:
           - pb-7
           - pr-7
   - type: CarouselSection
-    subtitle: This is a subtitle
+    subtitle: Few words...
     items:
       - type: FeaturedItem
         title: >-
@@ -429,7 +429,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: "“Great people like Ptolemy Philadelphus II, who decided to expand the library of Alexandreia, Dinocrates who changed the urban-civil design of Alexandreia, Crates of\_Olynthus, who designed the hydraulic system and water supply in Alexandreia, Marcus Antyllus, just me who now decided to give a space electronic for battles, and a website for my dearest mother Kleopatra Thea Neotera.”"
+        title: "“Great people like Ptolemy Philadelphus II, who decided to expand the library of Alexandreia, Dinocrates who changed the urban-civil design of Alexandreia, Crates of\_Olynthus, who designed the hydraulic system and water supply in Alexandreia, Marcus Antyllus, just me who now decided to give a space electronic by scripts for battles, and a website for my dearest mother Kleopatra Thea Neotera.”"
         tagline: ''
         subtitle: 'Marcus Gens Antonia, Antyllus ¨Little Antonius¨'
         text: ''
