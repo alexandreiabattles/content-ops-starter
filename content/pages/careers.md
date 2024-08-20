@@ -111,7 +111,7 @@ sections:
           Pergammon (Quiet), Ephesus, Smyrna and Prusa
         image:
           type: ImageBlock
-          url: /images/Troykeyartweb_v4.jpg
+          url: /images/50cc6c0cea3a5d3f5e04a7842b55a293.jpg
           altText: Placeholder text
           elementId: ''
           styles:
