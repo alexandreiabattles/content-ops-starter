@@ -396,7 +396,7 @@ sections:
           - pb-7
           - pr-7
   - type: CarouselSection
-    subtitle: This is a subtitle
+    subtitle: Few words...
     items:
       - type: FeaturedItem
         title: >-
