@@ -49,7 +49,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: '- WAR Challenge -'
+    subtitle: '- WAR Challenge - AW'
     items:
       - type: FeaturedItem
         title: ''
