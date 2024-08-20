@@ -430,8 +430,12 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: >-
-          “Quote from some important person goes right here. I love using
-          Netlify.”
+          “Great people like Ptolemy Philadelphus II, who decided to expand the
+          library of Alexandreia, Dinocrates who changed the urban-civil design
+          of Alexandreia, Crates of Olympus, who designed the hydraulic system
+          and water supply in Alexandreia, Marcus Antyllus, me who now decided
+          to give a space electronic for battles and a website for my dearest
+          mother Kleopatra Thea Neotera.”
         tagline: Testimonial 2
         subtitle: 'Jane Doe, Company'
         text: >-
