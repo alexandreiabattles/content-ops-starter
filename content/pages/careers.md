@@ -106,7 +106,7 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: ''
-        subtitle: 'Cities :'
+        subtitle: "Cities :\_Pergammon (Quiet), Ephesus, Smyrna and Prusa"
         text: |
           Pergammon (Quiet), Ephesus, Smyrna and Prusa
         image:
