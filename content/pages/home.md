@@ -442,7 +442,7 @@ sections:
           the Archer
         text: >
           Marcus Gens Antonia, Antyllus ¨Little Antonius¨ or how people know,
-          the Archer
+          the Archer.....
         image:
           type: ImageBlock
           url: /images/img-placeholder-dark.png
