@@ -107,10 +107,8 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: 'Cities :'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          Pergammon (Quiet), Ephesus, Smyrna and Prusa
         image:
           type: ImageBlock
           url: /images/Troykeyartweb_v4.jpg
