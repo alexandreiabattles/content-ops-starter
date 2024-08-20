@@ -436,7 +436,7 @@ sections:
           and water supply in Alexandreia, Marcus Antyllus, just me who now
           decided to give a space electronic for battles, and a website for my
           dearest mother Kleopatra Thea Neotera.”
-        tagline: Testimonial 2
+        tagline: ''
         subtitle: >-
           Marcus Gens Antonia, Antyllus ¨Little Antonius¨ or how people know,
           the Archer
