@@ -85,7 +85,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/50cc6c0cea3a5d3f5e04a7842b55a293.jpg
+          url: /images/Sexta Ferrata logo.png
           altText: Placeholder text
           elementId: ''
           styles:
