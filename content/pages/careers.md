@@ -108,7 +108,7 @@ sections:
         title: ''
         subtitle: "Cities :\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ Pergammon (Quiet),\_ \_ \_ \_ \_Ep--(Quiet) ,\_ \_ \_ \_ \_ \_ \_ \_ \_ \_Smyrna (Quiet)\_ \_ \_ \_Prusa (Quiet)\_ \_ \_ \_ \_ \_ \_Troy (Quiet)"
         text: |
-          Pergammon (Quiet), Ephesus, Smyrna and Prusa
+          \----... 
         image:
           type: ImageBlock
           url: /images/troy-a-total-war-saga-button-00-1568921720588.jpg
