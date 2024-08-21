@@ -216,9 +216,9 @@ sections:
         title: How Apply to be warrior in Alexandreia?
         tagline: Feature 1
         subtitle: ''
-        text: >+
-          First contact that you need IM, is for sure Queen Kleopatra :
-          Kleopatra.alpha -
+        text: >
+          First contact that you need IM, is for sure ***Queen Kleopatra :
+          Kleopatra.alpha ***-
 
 
           Then also you can contact with excellent warriors and leaders :
@@ -230,11 +230,10 @@ sections:
           **Prince Mavo** - *Alexandreia, Ealges* - : username : 1mavo
 
 
-          **King Giovanni** : - Troy - : username : caudaceo 
+          **King Giovanni** : - Troy - : username : caudaceo
 
 
           **General Lord Lucas** - *Rome -*  / username  : lordlucas.stormcrow
-
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
