@@ -213,7 +213,7 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: Social Media Management
+        title: How Apply to be warrior in Alexandreia?
         tagline: Feature 1
         subtitle: Increase your reach
         text: >-
