@@ -329,7 +329,7 @@ sections:
     items:
       - type: FeaturedItem
         title: GIFTS
-        subtitle: Numbers Done
+        subtitle: ''
         text: >
           For the **Eagles Army**  and secondarily **Celtic army**, they will
           enjoy new weapons if they join the armies as warrior. Enjoy new
