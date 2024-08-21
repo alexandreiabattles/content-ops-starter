@@ -333,11 +333,11 @@ sections:
         text: >
           For the **Eagles Army**  and secondarily **Celtic army**, they will
           enjoy new weapons if they join the armies as warrior. Enjoy new
-          weapons, exclusive. 
+          weapons, gifts exclusive.
 
 
           Also this Group Gifts will change with future, more skilled, and
-          better for battles. 
+          better for battles.
         image:
           type: ImageBlock
           url: /images/icon1.svg
