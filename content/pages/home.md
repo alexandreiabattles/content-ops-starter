@@ -167,15 +167,15 @@ sections:
       **Anassa, Queen, Divine Kleopatra,** I think you deserve special
       treatment, especially from the warriors and armies. I can openly say,
       without Alexandreia's support, AW would be finished,  no rivals, no new
-      ideas,  no AW, no armies. That is why we are grateful, and of course, your
-      allied armies that follow you, apreciate you.
+      ideas,  no AW, no new armies. That is why we are grateful, and of course,
+      your allied armies that follow you, apreciate you.
 
 
-      Thank you Queen Kleopatra for saving AW\.. because if Alexandreia close,
-      AW no more
+      Thank you Queen Kleopatra for saving AW\.. because if Alexandreia can
+      decide, AW no more
 
 
-      Long life new AW, Long life Divine Kleopatra, Long life Alexandreia.
+      Long life new AW, Long life Divine Kleopatra, Long life Alexandreia !! .
     actions: []
     media:
       type: VideoBlock
@@ -204,56 +204,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: left
-  - type: ImageGallerySection
-    subtitle: ALEXANDREIA
-    images:
-      - type: ImageBlock
-        url: /images/empathy-logo.svg
-        altText: Empathy logo
-      - type: ImageBlock
-        url: /images/wellster-logo.svg
-        altText: Wellster logo
-      - type: ImageBlock
-        url: /images/vise-logo.svg
-        altText: Vise logo
-      - type: ImageBlock
-        url: /images/telus-logo.svg
-        altText: Telus logo
-      - type: ImageBlock
-        url: /images/contenful-logo.svg
-        altText: Contentful logo
-      - type: ImageBlock
-        url: /images/sanity-logo.svg
-        altText: Sanity logo
-      - type: ImageBlock
-        url: /images/rangle-logo.svg
-        altText: Rangle logo
-    motion: move-to-left
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-  - type: FeaturedPostsSection
-    posts:
-      - content/pages/blog/case-study-1.md
-      - content/pages/blog/case-study-2.md
-      - content/pages/blog/case-study-3.md
-    showThumbnail: true
-    showDate: true
-    showAuthor: true
-    actions: []
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
   - type: DividerSection
     title: Divider
     colors: bg-light-fg-dark
