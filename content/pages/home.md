@@ -398,10 +398,17 @@ sections:
       - type: FeaturedItem
         title: OFFERT
         subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          During events such as Valentine's Day, Christmas, Halloween we will
+          lower prices and with the possibility that you will find a gift with a
+          limited time.
+
+
+
+
+
+
+
         image:
           type: ImageBlock
           url: /images/icon3.svg
