@@ -325,7 +325,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Subtitle goes here
+    subtitle: "Founder : Queen Boducia\_ Co-Founder : Marcus Antyllus"
     items:
       - type: FeaturedItem
         title: 500k
