@@ -361,7 +361,7 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: SERVICE
-        subtitle: The Job Stuff
+        subtitle: ''
         text: >+
           If you are creative and want to request a weapon design with your own
           ideas, you can consult with Queen Boudica (shiela42), without any type
