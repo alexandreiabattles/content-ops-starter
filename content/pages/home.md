@@ -379,7 +379,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/icon2.svg
+          url: /images/AAAA  LOGO.png
           altText: Featured icon two
           elementId: ''
         actions: []
