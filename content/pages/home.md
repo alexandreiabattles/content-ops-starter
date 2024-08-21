@@ -217,8 +217,8 @@ sections:
         tagline: Feature 1
         subtitle: ''
         text: >
-          First contact that you need IM, is for sure ***Queen Kleopatra :
-          Kleopatra.alpha ***-
+          First contact that you need IM, is for sure \*\*\*Queen Kleopatra :
+          Kleopatra.alpha \*\*\*-
 
 
           Then also you can contact with excellent warriors and leaders :
@@ -227,7 +227,7 @@ sections:
           **Queen Boudica** - *Celtic Kingdom* -  :  username : shiela42
 
 
-          **Prince Mavo** - *Alexandreia, Ealges* - : username : 1mavo
+          **Prince Mavo** - *Alexandreia, Eagles* - : username : 1mavo
 
 
           **King Giovanni** : - Troy - : username : caudaceo
