@@ -398,17 +398,10 @@ sections:
       - type: FeaturedItem
         title: OFFERT
         subtitle: Faster
-        text: >+
+        text: >
           During events such as Valentine's Day, Christmas, Halloween we will
           lower prices and with the possibility that you will find a gift with a
-          limited time.
-
-
-
-
-
-
-
+          limited time!1.
         image:
           type: ImageBlock
           url: /images/icon3.svg
