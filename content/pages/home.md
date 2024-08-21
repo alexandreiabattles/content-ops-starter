@@ -396,7 +396,7 @@ sections:
             textAlign: justify
             justifyContent: center
       - type: FeaturedItem
-        title: OFFERT
+        title: OFFER
         subtitle: Faster
         text: >
           During events such as Valentine's Day, Christmas, Halloween we will
