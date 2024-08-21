@@ -216,10 +216,20 @@ sections:
         title: How Apply to be warrior in Alexandreia?
         tagline: Feature 1
         subtitle: Increase your reach
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          First contact that you need IM, is for sure Queen Kleopatra :
+          Kleopatra.alpha -
+
+
+          Then also you can contact with excellent warriors and leaders : 
+
+
+
+
+          Diana :  username : shiela42 
+
+
+          Lord Lucas / username : lordlucas 
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
