@@ -317,6 +317,34 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - type: FeaturedPostsSection
+    title:
+      type: TitleBlock
+      text: Mavo Store
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    posts:
+      - >-
+        content/pages/blog/how-to-write-a-blog-post-that-will-get-you-more-traffic.md
+    showThumbnail: true
+    showExcerpt: true
+    showDate: true
+    showAuthor: true
+    actions: []
+    elementId: ''
+    variant: big-list
+    colors: bg-light-fg-dark
+    hoverEffect: move-up
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
+        justifyContent: center
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
@@ -418,6 +446,29 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
+      - type: FeaturedItem
+        title: ''
+        tagline: ''
+        subtitle: ''
+        text: ''
+        image:
+          type: ImageBlock
+          url: /images/abstract-feature1.svg
+          altText: Placeholder text
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col-reverse
     actions: []
     badge:
       type: Badge
@@ -439,35 +490,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - type: FeaturedPostsSection
-    title:
-      type: TitleBlock
-      text: Mavo Store
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    posts:
-      - >-
-        content/pages/blog/how-to-write-a-blog-post-that-will-get-you-more-traffic.md
-      - content/pages/blog/five-tips-for-starting-a-startup.md
-    showThumbnail: true
-    showExcerpt: true
-    showDate: true
-    showAuthor: true
-    actions: []
-    elementId: ''
-    variant: big-list
-    colors: bg-light-fg-dark
-    hoverEffect: move-up
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
   - type: DividerSection
     title: Divider
     colors: bg-light-fg-dark
