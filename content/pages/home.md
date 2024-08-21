@@ -236,7 +236,7 @@ sections:
           **General Lord Lucas** - *Rome -*  / username  : lordlucas.stormcrow
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/image-removebg-preview (6).png
           altText: Featured item
           styles:
             self:
