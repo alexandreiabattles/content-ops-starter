@@ -397,7 +397,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: OFFER
-        subtitle: Faster
+        subtitle: ''
         text: >
           During events such as Valentine's Day, Christmas, Halloween we will
           lower prices and with the possibility that you will find a gift themed
