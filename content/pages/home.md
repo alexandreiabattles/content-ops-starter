@@ -382,7 +382,7 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
-            textAlign: center
+            textAlign: justify
             justifyContent: center
       - type: FeaturedItem
         title: OFFERT
