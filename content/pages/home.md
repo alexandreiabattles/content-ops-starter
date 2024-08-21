@@ -213,13 +213,27 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: Social Media Management
+        title: How Apply to be warrior in Alexandreia?
         tagline: Feature 1
-        subtitle: Increase your reach
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        subtitle: ''
+        text: >
+          First contact that you need IM, is for sure \*\*\*Queen Kleopatra :
+          Kleopatra.alpha \*\*\*-
+
+
+          Then also you can contact with excellent warriors and leaders :
+
+
+          **Queen Boudica** - *Celtic Kingdom* -  :  username : shiela42
+
+
+          **Prince Mavo** - *Alexandreia, Eagles* - : username : 1mavo
+
+
+          **King Giovanni** : - Troy - : username : caudaceo
+
+
+          **General Lord Lucas** - *Rome -*  / username  : lordlucas.stormcrow
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
@@ -229,35 +243,6 @@ sections:
               borderRadius: medium
         actions: []
         colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-      - type: FeaturedItem
-        title: Business Consulting
-        tagline: Feature 2
-        subtitle: Be in good company
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          type: ImageBlock
-          url: /images/img-placeholder.svg
-          altText: Business consulting
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-dark-fg-light
         styles:
           self:
             padding:
@@ -487,101 +472,6 @@ sections:
     colors: bg-light-fg-dark
     styles:
       self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-  - type: FeaturedItemsSection
-    title:
-      type: TitleBlock
-      text: List of features here
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-    subtitle: Featured items section subtitle
-    items:
-      - type: FeaturedItem
-        title: Feature Item One
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify site.
-        image:
-          type: ImageBlock
-          url: /images/abstract-feature1.svg
-          altText: Placholder image
-          styles:
-            self:
-              borderRadius: x-large
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-      - type: FeaturedItem
-        title: Feature Item Two
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first awesome Netlify site.
-        image:
-          type: ImageBlock
-          url: /images/abstract-feature2.svg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-      - type: FeaturedItem
-        title: Feature Item Three
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Learn from the tutorial and build your first awesome Netlify site.
-        image:
-          type: ImageBlock
-          url: /images/abstract-feature3.svg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-    actions: []
-    variant: three-col-grid
-    colors: bg-neutral-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-8
-          - pb-16
-          - pr-8
         justifyContent: center
       subtitle:
         textAlign: center
