@@ -163,11 +163,18 @@ sections:
         self:
           textAlign: left
     subtitle: ''
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+
+      **Anassa, Queen, Divine Kleopatra,** I think you deserve special
+      treatment, especially from the warriors and armies. I can openly say,
+      without Alexandreia's support, AW would be finished,  no rivals, no new
+      ideas,  no AW, no armies. That is why we are grateful, and of course, your
+      allied armies that follow you, apreciate you.
+
+
+      Thank you Queen Kleopatra for saving AW\.. because if Alexandreia close,
+      AW no more
+
     actions: []
     media:
       type: VideoBlock
