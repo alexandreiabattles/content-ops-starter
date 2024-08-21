@@ -167,12 +167,12 @@ sections:
       **Anassa, Queen, Divine Kleopatra,** I think you deserve special
       treatment, especially from the warriors and armies. I can openly say,
       without Alexandreia's support, AW would be finished,  no rivals, no new
-      ideas,  no AW, no armies. That is why we are grateful, and of course, your
-      allied armies that follow you, apreciate you.
+      ideas,  no AW, no new armies. That is why we are grateful, and of course,
+      your allied armies that follow you, apreciate you.
 
 
-      Thank you Queen Kleopatra for saving AW\.. because if Alexandreia close,
-      AW no more
+      Thank you Queen Kleopatra for saving AW\.. because if Alexandreia can
+      decide, AW no more
 
 
       Long life new AW, Long life Divine Kleopatra, Long life Alexandreia.
