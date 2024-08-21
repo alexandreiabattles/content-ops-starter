@@ -175,7 +175,7 @@ sections:
       decide, AW no more
 
 
-      Long life new AW, Long life Divine Kleopatra, Long life Alexandreia.!!
+      Long life new AW, Long life Divine Kleopatra, Long life Alexandreia !! .
     actions: []
     media:
       type: VideoBlock
