@@ -214,7 +214,7 @@ sections:
     items:
       - type: FeaturedItem
         title: How Apply to be warrior in Alexandreia?
-        tagline: Feature 1
+        tagline: "----\_ INFO ------"
         subtitle: ''
         text: >
           First contact that you need IM, is for sure \*\*\*Queen Kleopatra :
@@ -317,6 +317,157 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - type: FeaturedItemsSection
+    title:
+      type: TitleBlock
+      text: EAGLES PRODUCTION STORE
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    subtitle: "Founder : Queen Boudica\_ Co-Founder :\_ Prince Marcus"
+    items:
+      - type: FeaturedItem
+        title: GIFTS
+        subtitle: ''
+        text: >
+          For the **Eagles Army**  and secondarily **Celtic army**, they will
+          enjoy new weapons if you join the armies as warrior. You can enjoy new
+          weapons, gifts exclusive.
+
+
+          Also this Group Gifts will change with future, more skilled, and
+          better for battles.
+        image:
+          type: ImageBlock
+          url: /images/AAAA  LOGO.png
+          altText: Lightning bolt symbol on red background
+          elementId: ''
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            justifyContent: center
+            textAlign: left
+      - type: FeaturedItem
+        title: SERVICE
+        subtitle: ''
+        text: >+
+          If you are creative and want to request a weapon design with your own
+          ideas, you can consult with Queen Boudica (shiela42), without any type
+          of commitment, we can request an estimated price.
+
+
+          We have been providing this type of services for months, where
+          customers have been satisfied
+
+
+
+
+
+
+
+        image:
+          type: ImageBlock
+          url: /images/AAAA  LOGO.png
+          altText: Featured icon two
+          elementId: ''
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            textAlign: justify
+            justifyContent: center
+      - type: FeaturedItem
+        title: OFFER
+        subtitle: ''
+        text: >
+          During events such as Valentine's Day, Christmas, Halloween we will
+          lower prices and with the possibility that you will find a gift themed
+          with a limited time!!
+        image:
+          type: ImageBlock
+          url: /images/AAAA  LOGO.png
+          altText: Featured icon three
+          elementId: ''
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+    actions: []
+    badge:
+      type: Badge
+      label: Advantages
+      color: text-primary
+      styles:
+        self:
+          textAlign: center
+    elementId: ''
+    variant: three-col-grid
+    colors: bg-neutral-fg-dark
+    styles:
+      self:
+        padding:
+          - pb-16
+          - pt-16
+          - pl-16
+          - pr-16
+        justifyContent: center
+      subtitle:
+        textAlign: center
+  - type: FeaturedPostsSection
+    title:
+      type: TitleBlock
+      text: Mavo Store
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    posts:
+      - >-
+        content/pages/blog/how-to-write-a-blog-post-that-will-get-you-more-traffic.md
+      - content/pages/blog/five-tips-for-starting-a-startup.md
+    showThumbnail: true
+    showExcerpt: true
+    showDate: true
+    showAuthor: true
+    actions: []
+    elementId: ''
+    variant: big-list
+    colors: bg-light-fg-dark
+    hoverEffect: move-up
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
+        justifyContent: center
   - type: DividerSection
     title: Divider
     colors: bg-light-fg-dark
@@ -500,7 +651,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: "“Great people like Ptolemy Philadelphus II, who decided to expand the library of Alexandreia, Dinocrates who changed the urban-civil design of Alexandreia, Crates of\_Olynthus, who designed the hydraulic system and water supply in Alexandreia, Marcus Antyllus, just me who now decided to give a space electronic by scripts for battles, and a website for my dearest mother Kleopatra Thea Neotera.”"
+        title: "“Great people like Ptolemy Philadelphus II, who decided to expand the library of Alexandreia, Dinocrates who changed the urban-civil design of Alexandreia, Crates of\_Olynthus, who designed the hydraulic system and water supply in Alexandreia, Marcus Antyllus, just me who now decided to give a space electronic for battles, design by scripts, and a website for my dearest mother Kleopatra Thea Neotera.”"
         tagline: ''
         subtitle: 'Marcus Gens Antonia, Antyllus ¨Little Antonius¨'
         text: ''
