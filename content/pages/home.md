@@ -330,10 +330,18 @@ sections:
       - type: FeaturedItem
         title: GIFTS
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          ```
+
+          For the Eagles and secondarily Celtic army, they will enjoy new
+          weapons if they join the armies.
+
+          ```
+
+
+
+
+
         image:
           type: ImageBlock
           url: /images/icon1.svg
