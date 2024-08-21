@@ -400,8 +400,8 @@ sections:
         subtitle: Faster
         text: >
           During events such as Valentine's Day, Christmas, Halloween we will
-          lower prices and with the possibility that you will find a gift with a
-          limited time!!
+          lower prices and with the possibility that you will find a gift themed
+          with a limited time!!
         image:
           type: ImageBlock
           url: /images/icon3.svg
