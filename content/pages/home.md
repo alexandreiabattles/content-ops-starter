@@ -363,9 +363,9 @@ sections:
         title: SERVICE
         subtitle: The Job Stuff
         text: >
-          If you are creative and want to request a weapon design for you own
+          If you are creative and want to request a weapon design with your own
           ideas, you can consult with Queen Boudica (shiela42), without any type
-          of commitment, we can request an estimated price. 
+          of commitment, we can request an estimated price.
         image:
           type: ImageBlock
           url: /images/icon2.svg
