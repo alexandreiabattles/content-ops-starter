@@ -442,7 +442,7 @@ sections:
   - type: FeaturedPostsSection
     title:
       type: TitleBlock
-      text: Featured posts
+      text: Mavo Store
       color: text-dark
       styles:
         self:
