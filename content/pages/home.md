@@ -176,6 +176,12 @@ sections:
 
 
       Long life new AW, Long life Divine Kleopatra, Long life Alexandreia !! .
+
+
+
+
+      Keep going with our warrior soul, keep growing with ourselves, keep focus
+      in fight - 
     actions: []
     media:
       type: VideoBlock
