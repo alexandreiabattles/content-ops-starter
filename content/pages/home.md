@@ -157,7 +157,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: "We #THANKYOU\_ Queen"
+      text: "We #THANKYOU\_ Grazie Queen"
       color: text-dark
       styles:
         self:
