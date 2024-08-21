@@ -340,7 +340,7 @@ sections:
           better for battles.
         image:
           type: ImageBlock
-          url: /images/icon1.svg
+          url: /images/AAAA  LOGO.png
           altText: Lightning bolt symbol on red background
           elementId: ''
           styles:
