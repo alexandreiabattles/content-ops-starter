@@ -415,7 +415,7 @@ sections:
         elementId: ''
     badge:
       type: Badge
-      label: This is a badge
+      label: Advantage
       color: text-primary
       styles:
         self:
