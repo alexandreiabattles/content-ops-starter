@@ -404,7 +404,7 @@ sections:
           with a limited time!!
         image:
           type: ImageBlock
-          url: /images/icon3.svg
+          url: /images/AAAA  LOGO.png
           altText: Featured icon three
           elementId: ''
         actions: []
