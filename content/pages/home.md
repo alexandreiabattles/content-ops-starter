@@ -362,10 +362,17 @@ sections:
       - type: FeaturedItem
         title: SERVICE
         subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          If you are creative and want to request a weapon design, you can
+          consult with Queen Boudica, without any type of commitment, we can
+          request an estimated price.
+
+
+
+
+
+
+
         image:
           type: ImageBlock
           url: /images/icon2.svg
