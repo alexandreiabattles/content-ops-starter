@@ -330,12 +330,14 @@ sections:
       - type: FeaturedItem
         title: GIFTS
         subtitle: Numbers Done
-        text: >+
-          For the Eagles and secondarily Celtic army, they will enjoy new
-          weapons if they join the armies.
+        text: >
+          For the **Eagles Army**  and secondarily **Celtic army**, they will
+          enjoy new weapons if they join the armies as warrior. Enjoy new
+          weapons, exclusive. 
 
 
-
+          Also this Group Gifts will change with future, more skilled, and
+          better for battles. 
         image:
           type: ImageBlock
           url: /images/icon1.svg
