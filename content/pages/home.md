@@ -320,7 +320,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Key Benefits
+      text: EAGLES PRODUCTION STORE
       color: text-dark
       styles:
         self:
