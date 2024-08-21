@@ -215,7 +215,7 @@ sections:
       - type: FeaturedItem
         title: How Apply to be warrior in Alexandreia?
         tagline: Feature 1
-        subtitle: Increase your reach
+        subtitle: ''
         text: >
           First contact that you need IM, is for sure Queen Kleopatra :
           Kleopatra.alpha -
