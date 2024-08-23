@@ -647,14 +647,14 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Alexandreia - Ambiance
+      text: Alexandreia - Ambiance Video Music
       color: text-light
       styles:
         self:
           textAlign: left
     subtitle: ''
     text: |
-      Alexandreia Web - Music 
+      Videomusic for webpage
     actions: []
     media:
       type: VideoBlock
