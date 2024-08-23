@@ -250,7 +250,7 @@ sections:
           Then also you can contact with excellent warriors and leaders :
 
 
-          **Queen Boudica** - *Celtic Kingdom* -  :  username : shiela42
+          **Queen Morrigan** - *Celtic Kingdom* -  :  username : shiela42
 
 
           **Prince Mavo** - *Alexandreia, Eagles* - : username : 1mavo
@@ -346,7 +346,7 @@ sections:
   - type: FeaturedPostsSection
     title:
       type: TitleBlock
-      text: Mavo Store
+      text: Mavo Industry Store
       color: text-dark
       styles:
         self:
@@ -379,15 +379,15 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: "Founder : Queen Boudica\_ Co-Founder :\_ Prince Marcus"
+    subtitle: "Founder : Queen Morrigan\_ Co-Founder :\_ Prince Marcus"
     items:
       - type: FeaturedItem
         title: GIFTS
         subtitle: ''
         text: >
-          For the **Eagles Army**  and secondarily **Celtic army**, they will
-          enjoy new weapons if you join the armies as warrior. You can enjoy new
-          weapons, gifts exclusive.
+          For the **Eagles Army**  and secondarily **Kelt Celtic army**, they
+          will enjoy new weapons if you join the armies as warrior. You can
+          enjoy new weapons, gifts exclusive.
 
 
           Also this Group Gifts will change with future, more skilled, and
@@ -474,7 +474,7 @@ sections:
             flexDirection: row
       - type: FeaturedItem
         title: ''
-        tagline: ''
+        tagline: .
         subtitle: ''
         text: ''
         image:
@@ -495,28 +495,55 @@ sections:
             borderRadius: x-large
             flexDirection: col-reverse
       - type: FeaturedItem
-        title: Feature Item One
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: ''
+        title: ''
+        subtitle: ''
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
-          altText: Placeholder text
+          url: /images/34EAGLESS_001.png
+          altText: Faux Fur Throw
+          elementId: ''
           styles:
             self:
-              borderRadius: x-large
+              borderRadius: medium
+              padding:
+                - pt-8
+                - pb-8
         actions: []
-        colors: bg-light-fg-dark
+        colors: bg-neutralAlt-fg-dark
         styles:
           self:
             padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col-reverse
+              - pt-0
+              - pl-0
+              - pb-0
+              - pr-0
+            textAlign: left
+            borderRadius: none
+            flexDirection: col
+            justifyContent: center
+      - type: FeaturedItem
+        title: ''
+        subtitle: ''
+        image:
+          type: ImageBlock
+          altText: Faux Fur Throw
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-0
+              - pl-0
+              - pb-0
+              - pr-0
+            textAlign: left
+            borderRadius: none
+            flexDirection: col
+            justifyContent: center
     actions: []
     badge:
       type: Badge
@@ -535,6 +562,28 @@ sections:
           - pt-16
           - pl-16
           - pr-16
+        justifyContent: center
+      subtitle:
+        textAlign: center
+  - type: FeaturedItemsSection
+    subtitle: DISCOVER EAGLES PRODUCTION
+    items: []
+    actions:
+      - type: Button
+        label: LANDMARK STORE - Click here
+        url: '/http://maps.secondlife.com/secondlife/Sun%20Isle/166/220/2593'
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+    variant: toggle-list
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pb-40
+          - pt-16
+          - pl-3
+          - pr-3
         justifyContent: center
       subtitle:
         textAlign: center
@@ -641,42 +690,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: left
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Business Consulting
-      color: text-dark
-    subtitle: Be in good company
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
-    actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-    media:
-      type: ImageBlock
-      url: /images/hero3.svg
-      altText: Dope design preview
-    badge:
-      type: Badge
-      label: This is a badge
-      color: text-primary
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
   - type: DividerSection
     title: Divider
     colors: bg-light-fg-dark
@@ -691,43 +704,13 @@ sections:
     subtitle: Few words...
     items:
       - type: FeaturedItem
-        title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
-        tagline: Testimonial 1
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          type: ImageBlock
-          url: /images/person-placeholder-light.png
-          altText: Maria Walters
-          styles:
-            self:
-              borderRadius: full
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-      - type: FeaturedItem
-        title: "“Great people like Ptolemy Philadelphus II, who decided to expand the library of Alexandreia, Dinocrates who changed the urban-civil design of Alexandreia, Crates of\_Olynthus, who designed the hydraulic system and water supply in Alexandreia, Marcus Antyllus, just me who now decided to give a space electronic for battles, design by scripts, and a website for my dearest mother Kleopatra Thea Neotera.”"
+        title: "“Great people like Ptolemy Philadelphus II, who decided to expand the library of Alexandreia, Dinocrates who changed the urban-civil design of Alexandreia, Crates of\_Olynthus, who designed the hydraulic system and water supply in Alexandreia, Marcus Antyllus, just me who now decided to give a space electronic for battles, design by scripts, and a website for my dearest eternal mother Kleopatra Thea Neotera.”"
         tagline: ''
-        subtitle: 'Marcus Gens Antonia, Antyllus ¨Little Antonius¨'
+        subtitle: 'Marcus Gens Antonia, Antyllus ¨Little Antonius¨ - Prince'
         text: ''
         image:
           type: ImageBlock
-          url: /images/img-placeholder-dark.png
+          url: /images/A344242342_001.png
           altText: Macurs Antyllus
           styles:
             self:
