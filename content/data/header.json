@@ -71,7 +71,7 @@
                 {
                     "type": "Link",
                     "label": "Kemet Market",
-                    "altText": "",
+                    "altText": "Market",
                     "url": "https://alexandreiaresults.netlify.app/market/",
                     "showIcon": false,
                     "icon": "arrowRight",
