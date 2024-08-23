@@ -747,9 +747,14 @@ sections:
       collaborate, donate, give a proposal, keep in touch with Kleopatra.Alpha
 
 
+      or
 
 
-      or 
+      Talk with her in Discord as kleopatraneotera ( only for
+      business/collaboration , it is not allowed for chatting without his
+      permission) 
+
+
 
     actions: []
     media:
