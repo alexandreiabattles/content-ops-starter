@@ -218,12 +218,6 @@ sections:
     subtitle: ''
     text: ''
     actions:
-      - type: Button
-        label: ''
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
       - type: Link
         label: See Tutorials
         url: /
