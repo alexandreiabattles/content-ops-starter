@@ -210,6 +210,32 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: left
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: ''
+      color: text-dark
+    subtitle: ''
+    text: ''
+    actions: []
+    media:
+      type: ImageBlock
+      url: /images/KLEOPATRA INTRODUCTIONN.png
+      altText: Dope design preview
+      styles:
+        self:
+          padding:
+            - pr-80
+            - pl-80
+    badge:
+      type: Badge
+      label: ''
+      color: text-primary
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row-reverse
   - type: CarouselSection
     items:
       - type: FeaturedItem
@@ -450,6 +476,28 @@ sections:
         title: ''
         tagline: ''
         subtitle: ''
+        text: ''
+        image:
+          type: ImageBlock
+          altText: Placeholder text
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col-reverse
+      - type: FeaturedItem
+        title: Feature Item One
+        tagline: This is the tagline
+        subtitle: This is the item subtitle
         text: ''
         image:
           type: ImageBlock
