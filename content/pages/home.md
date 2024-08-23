@@ -477,7 +477,7 @@ sections:
         subtitle: $ 88 – $ 176
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/234234 EAGLESS_001.png
           altText: Faux Fur Throw
           elementId: ''
           styles:
