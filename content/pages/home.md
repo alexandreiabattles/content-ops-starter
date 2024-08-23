@@ -222,6 +222,10 @@ sections:
       type: ImageBlock
       url: /images/hero3.svg
       altText: Dope design preview
+      styles:
+        self:
+          padding:
+            - pr-7
     badge:
       type: Badge
       label: ''
