@@ -42,17 +42,6 @@
             "type": "Link"
         },
         {
-            "type": "Button",
-            "label": "Get started",
-            "altText": "",
-            "url": "https://create.netlify.com/studio/66ad8fcd50383100c4e674a7#/pricing/",
-            "showIcon": false,
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "elementId": ""
-        },
-        {
             "label": "Special Events",
             "altText": "Special Events",
             "links": [],
