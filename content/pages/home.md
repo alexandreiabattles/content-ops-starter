@@ -524,34 +524,6 @@ sections:
             borderRadius: none
             flexDirection: col
             justifyContent: center
-      - type: FeaturedItem
-        title: ''
-        tagline: ''
-        subtitle: ''
-        text: ''
-        image:
-          type: ImageBlock
-          url: /images/234234 EAGLESS_001.png
-          altText: Placeholder text
-          styles:
-            self:
-              borderRadius: x-large
-              padding:
-                - pr-60
-                - pl-60
-                - pt-0
-                - pb-0
-        actions: []
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col-reverse
     actions: []
     badge:
       type: Badge
