@@ -506,6 +506,8 @@ sections:
           styles:
             self:
               borderRadius: x-large
+              padding:
+                - pr-7
         actions: []
         colors: bg-neutral-fg-dark
         styles:
