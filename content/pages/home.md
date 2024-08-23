@@ -575,6 +575,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: primary
+        showIcon: true
     variant: toggle-list
     colors: bg-light-fg-dark
     styles:
