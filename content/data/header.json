@@ -48,7 +48,7 @@
             "links": [
                 {
                     "type": "Link",
-                    "label": "Dropdown item",
+                    "label": "Special Events",
                     "altText": "",
                     "url": "/",
                     "showIcon": false,
