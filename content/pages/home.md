@@ -510,7 +510,7 @@ sections:
                 - pt-8
                 - pb-8
         actions: []
-        colors: bg-neutral-fg-dark
+        colors: bg-neutralAlt-fg-dark
         styles:
           self:
             padding:
