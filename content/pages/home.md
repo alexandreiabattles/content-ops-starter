@@ -647,7 +647,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Video Music
+      text: VidMusic
       color: text-dark
       styles:
         self:
