@@ -250,7 +250,7 @@ sections:
           Then also you can contact with excellent warriors and leaders :
 
 
-          **Queen Boudica** - *Celtic Kingdom* -  :  username : shiela42
+          **Queen Morrigan** - *Celtic Kingdom* -  :  username : shiela42
 
 
           **Prince Mavo** - *Alexandreia, Eagles* - : username : 1mavo
