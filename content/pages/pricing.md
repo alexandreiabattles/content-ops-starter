@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: This is the subtitle for the pricing section
+    subtitle: ''
     plans:
       - type: PricingPlan
         title: Enterprise
@@ -21,7 +21,6 @@ sections:
           accusantium doloremque laudantium, totam rem aperiam.
         features:
           - Feature one
-          - Feature two
           - Feature three
           - Feature four
           - Feature five
