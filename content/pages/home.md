@@ -647,7 +647,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Alexandreia - Ambiance
+      text: Alexandreia - Ambiance Video Music
       color: text-light
       styles:
         self:
