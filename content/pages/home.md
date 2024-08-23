@@ -508,7 +508,7 @@ sections:
               borderRadius: x-large
               padding:
                 - pr-7
-                - pl-7
+                - pl-14
         actions: []
         colors: bg-neutral-fg-dark
         styles:
