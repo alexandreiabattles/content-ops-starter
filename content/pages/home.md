@@ -485,6 +485,7 @@ sections:
               borderRadius: medium
               padding:
                 - pt-7
+                - pr-7
         actions: []
         colors: bg-light-fg-dark
         styles:
