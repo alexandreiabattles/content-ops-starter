@@ -220,7 +220,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/hero3.svg
+      url: /images/Kleopatra neoteraaaa.webp
       altText: Dope design preview
       styles:
         self:
