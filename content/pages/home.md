@@ -416,21 +416,14 @@ sections:
       - type: FeaturedItem
         title: SERVICE
         subtitle: ''
-        text: >+
+        text: >
           If you are creative and want to request a weapon design with your own
-          ideas, you can consult with Queen Boudica (shiela42), without any type
-          of commitment, we can request an estimated price.
+          ideas, you can consult with Queen Morrigan (shiela42), without any
+          type of commitment, we can request an estimated price.
 
 
           We have been providing this type of services for months, where
           customers have been satisfied
-
-
-
-
-
-
-
         image:
           type: ImageBlock
           url: /images/AAAA  LOGO.png
@@ -741,7 +734,7 @@ sections:
       type: TitleBlock
       text: 'Collaborations, Proposals'
       color: text-dark
-    subtitle: Section with a form subtitle
+    subtitle: Any request
     text: >
       If you have visited our sim, Alexandreia in Second Life and want to
       collaborate, donate, give a proposal, keep in touch with Kleopatra.Alpha
