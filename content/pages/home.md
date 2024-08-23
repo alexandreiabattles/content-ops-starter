@@ -654,7 +654,7 @@ sections:
           textAlign: left
     subtitle: ''
     text: |
-      Video Music - Alexandreia 
+      Videomusic for webpage
     actions: []
     media:
       type: VideoBlock
