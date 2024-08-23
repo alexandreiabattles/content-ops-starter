@@ -735,7 +735,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/Marcusss_001.png
+          url: /images/A344242342_001.png
           altText: Macurs Antyllus
           styles:
             self:
