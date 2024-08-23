@@ -220,7 +220,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/Kleopatra neoteraaaa.webp
+      url: /images/Kleopatra maddle set.png
       altText: Dope design preview
       styles:
         self:
