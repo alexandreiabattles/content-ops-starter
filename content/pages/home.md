@@ -654,7 +654,7 @@ sections:
           textAlign: left
     subtitle: ''
     text: |
-      Alexandreia Web - Music 
+      Video Music - Alexandreia 
     actions: []
     media:
       type: VideoBlock
