@@ -566,7 +566,7 @@ sections:
       subtitle:
         textAlign: center
   - type: FeaturedItemsSection
-    subtitle: Subtitle goes here
+    subtitle: DISCOVER EAGLES PRODUCTION
     items: []
     actions:
       - type: Button
