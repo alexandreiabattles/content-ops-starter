@@ -734,7 +734,7 @@ sections:
       type: TitleBlock
       text: 'Collaborations, Proposals'
       color: text-dark
-    subtitle: Any request....
+    subtitle: Any request
     text: >
       If you have visited our sim, Alexandreia in Second Life and want to
       collaborate, donate, give a proposal, keep in touch with Kleopatra.Alpha
