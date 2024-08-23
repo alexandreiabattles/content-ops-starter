@@ -510,7 +510,7 @@ sections:
                 - pr-0
                 - pl-14
                 - pt-0
-                - pb-14
+                - pb-0
         actions: []
         colors: bg-neutral-fg-dark
         styles:
