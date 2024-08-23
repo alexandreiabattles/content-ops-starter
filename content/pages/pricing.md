@@ -1,81 +1,19 @@
 ---
+type: PageLayout
 title: Pricing
-slug: pricing
 sections:
-  - title:
-      text: Flexible Pricing
+  - type: PricingSection
+    title:
+      type: TitleBlock
+      text: Special Events
       color: text-dark
       styles:
         self:
           textAlign: center
-      type: TitleBlock
     subtitle: This is the subtitle for the pricing section
     plans:
-      - title: Developers
-        price: Free
-        details: No credit card required
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
-        features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
-        image:
-          url: /images/abstract-feature1.svg
-          altText: Pricing plan 1
-          type: ImageBlock
-        actions:
-          - label: Try for free
-            url: /
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-            type: Button
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-6
-              - pb-10
-              - pl-6
-              - pr-6
-            borderRadius: large
-        type: PricingPlan
-      - title: Professional
-        price: $99
-        details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
-        features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
-        image:
-          url: /images/abstract-feature2.svg
-          altText: Pricing plan 2
-          type: ImageBlock
-        actions:
-          - label: Try for free
-            url: /
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-            type: Button
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-6
-              - pb-10
-              - pl-6
-              - pr-6
-            borderRadius: large
-        type: PricingPlan
-      - title: Enterprise
+      - type: PricingPlan
+        title: Enterprise
         price: Custom
         details: per month
         description: >-
@@ -88,16 +26,16 @@ sections:
           - Feature four
           - Feature five
         image:
+          type: ImageBlock
           url: /images/abstract-feature3.svg
           altText: Pricing plan 3
-          type: ImageBlock
         actions:
-          - label: Contact us
+          - type: Button
+            label: Contact us
             url: /
             icon: arrowRight
             iconPosition: right
             style: secondary
-            type: Button
         colors: bg-neutral-fg-dark
         styles:
           self:
@@ -107,18 +45,17 @@ sections:
               - pl-6
               - pr-6
             borderRadius: large
-        type: PricingPlan
     colors: bg-light-fg-dark
     styles:
       self:
         justifyContent: center
       subtitle:
         textAlign: center
-    type: PricingSection
+slug: pricing
 seo:
+  type: Seo
   metaTitle: Pricing - Demo site
   metaDescription: This is the pricing page built with Netlify Create.
   socialImage: /images/main-hero.jpg
-  type: Seo
-type: PageLayout
+  metaTags: []
 ---

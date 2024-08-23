@@ -42,11 +42,45 @@
             "type": "Link"
         },
         {
-            "label": "Special Events",
-            "altText": "Special Events",
-            "links": [],
-            "labelStyle": "secondary",
-            "type": "SubNav"
+            "type": "SubNav",
+            "label": "Dropdown",
+            "altText": "Dropdown",
+            "links": [
+                {
+                    "type": "Link",
+                    "label": "Special Events",
+                    "altText": "",
+                    "url": "https://create.netlify.com/studio/66ad8fcd50383100c4e674a7#/pricing/",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
+                },
+                {
+                    "type": "Link",
+                    "label": "Dropdown item",
+                    "altText": "",
+                    "url": "/",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
+                },
+                {
+                    "type": "Link",
+                    "label": "Dropdown item",
+                    "altText": "",
+                    "url": "/",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
+                }
+            ],
+            "labelStyle": "secondary"
         }
     ],
     "secondaryLinks": [
