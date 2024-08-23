@@ -483,6 +483,8 @@ sections:
           styles:
             self:
               borderRadius: medium
+              padding:
+                - pt-7
         actions: []
         colors: bg-light-fg-dark
         styles:
