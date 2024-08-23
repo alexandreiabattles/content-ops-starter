@@ -61,7 +61,7 @@
                     "type": "Link",
                     "label": "Alexandreia Library - Web",
                     "altText": "Pircing2",
-                    "url": "/Pricing2",
+                    "url": "https://alexandreiaresults.netlify.app/pricing%202/",
                     "showIcon": false,
                     "icon": "arrowRight",
                     "iconPosition": "right",
