@@ -225,7 +225,7 @@ sections:
       styles:
         self:
           padding:
-            - pr-7
+            - pr-52
             - pl-7
     badge:
       type: Badge
