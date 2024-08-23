@@ -648,7 +648,7 @@ sections:
     title:
       type: TitleBlock
       text: Alexandreia - Ambiance Video Music
-      color: text-light
+      color: text-dark
       styles:
         self:
           textAlign: left
