@@ -753,7 +753,7 @@ sections:
 
       Talk with her in Discord as kleopatraneotera ( only for
       business/collaboration , it is not allowed for chatting without his
-      permission)
+      permission) - Thank you 
     actions: []
     media:
       type: FormBlock
