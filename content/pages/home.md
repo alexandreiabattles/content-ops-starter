@@ -379,7 +379,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: "Founder : Queen Boudica\_ Co-Founder :\_ Prince Marcus"
+    subtitle: "Founder : Queen Morrigan\_ Co-Founder :\_ Prince Marcus"
     items:
       - type: FeaturedItem
         title: GIFTS
