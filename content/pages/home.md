@@ -226,7 +226,7 @@ sections:
         self:
           padding:
             - pr-52
-            - pl-52
+            - pl-80
     badge:
       type: Badge
       label: ''
