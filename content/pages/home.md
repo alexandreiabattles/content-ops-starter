@@ -689,8 +689,7 @@ sections:
       text: Business Consulting
       color: text-dark
     subtitle: Be in good company
-    text: >
-      <https://info.flagcounter.com/xbqy][IMG]https://s11.flagcounter.com/count2/xbqy/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/[/IMG][/URL]>\[URL=<https://info.flagcounter.com/xbqy][IMG]https://s11.flagcounter.com/count2/xbqy/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/[/IMG][/URL>]
+    text: ''
     actions:
       - type: Button
         label: Get started
