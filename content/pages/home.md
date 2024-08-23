@@ -486,6 +486,7 @@ sections:
               padding:
                 - pt-7
                 - pr-0
+                - pb-7
         actions: []
         colors: bg-light-fg-dark
         styles:
