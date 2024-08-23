@@ -50,7 +50,7 @@
                     "type": "Link",
                     "label": "Special Events",
                     "altText": "Pircing",
-                    "url": "/Pricing",
+                    "url": "https://alexandreiaresults.netlify.app/pricing/",
                     "showIcon": false,
                     "icon": "arrowRight",
                     "iconPosition": "right",
