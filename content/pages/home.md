@@ -509,7 +509,7 @@ sections:
               padding:
                 - pr-14
                 - pl-14
-                - pt-14
+                - pt-28
                 - pb-14
         actions: []
         colors: bg-neutral-fg-dark
