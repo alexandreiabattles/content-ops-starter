@@ -506,6 +506,8 @@ sections:
           styles:
             self:
               borderRadius: medium
+              padding:
+                - pt-8
         actions: []
         colors: bg-light-fg-dark
         styles:
