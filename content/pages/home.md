@@ -693,7 +693,7 @@ sections:
     actions:
       - type: Button
         label: Get started
-        url: /
+        url: /home/
         icon: arrowRight
         iconPosition: right
         style: secondary
