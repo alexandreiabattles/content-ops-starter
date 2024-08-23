@@ -496,7 +496,7 @@ sections:
             borderRadius: x-large
             flexDirection: col-reverse
       - type: FeaturedItem
-        title: Faux Fur Throw
+        title: ''
         subtitle: ''
         image:
           type: ImageBlock
