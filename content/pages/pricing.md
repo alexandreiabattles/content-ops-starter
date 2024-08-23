@@ -21,7 +21,6 @@ sections:
           accusantium doloremque laudantium, totam rem aperiam.
         features:
           - Feature one
-          - Feature two
           - Feature three
           - Feature four
           - Feature five
