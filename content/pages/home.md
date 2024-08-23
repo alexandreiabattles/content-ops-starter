@@ -742,9 +742,10 @@ sections:
       text: 'Collaborations, Proposals'
       color: text-dark
     subtitle: Section with a form subtitle
-    text: >+
+    text: >
       If you have visited our sim, Alexandreia in Second Life and want to
       collaborate, donate, give a proposal, keep in touch with Kleopatra.Alpha
+      in iMs
 
 
       or
@@ -752,10 +753,7 @@ sections:
 
       Talk with her in Discord as kleopatraneotera ( only for
       business/collaboration , it is not allowed for chatting without his
-      permission) 
-
-
-
+      permission)
     actions: []
     media:
       type: FormBlock
