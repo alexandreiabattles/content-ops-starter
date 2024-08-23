@@ -648,7 +648,7 @@ sections:
     title:
       type: TitleBlock
       text: VidMusic
-      color: text-dark
+      color: text-light
       styles:
         self:
           textAlign: left
