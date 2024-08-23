@@ -700,7 +700,7 @@ sections:
       - type: FeaturedItem
         title: "“Great people like Ptolemy Philadelphus II, who decided to expand the library of Alexandreia, Dinocrates who changed the urban-civil design of Alexandreia, Crates of\_Olynthus, who designed the hydraulic system and water supply in Alexandreia, Marcus Antyllus, just me who now decided to give a space electronic for battles, design by scripts, and a website for my dearest eternal mother Kleopatra Thea Neotera.”"
         tagline: ''
-        subtitle: 'Marcus Gens Antonia, Antyllus ¨Little Antonius¨ - Prince'
+        subtitle: 'Marcus Gens Antonia, Antyllus ¨Little Antonius¨ - Prince (21 years)'
         text: ''
         image:
           type: ImageBlock
