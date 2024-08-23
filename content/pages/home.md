@@ -735,7 +735,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/img-placeholder-dark.png
+          url: /images/Diseño sin título.svg
           altText: Macurs Antyllus
           styles:
             self:
