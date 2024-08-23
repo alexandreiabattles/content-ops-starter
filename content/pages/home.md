@@ -566,13 +566,6 @@ sections:
       subtitle:
         textAlign: center
   - type: FeaturedItemsSection
-    title:
-      type: TitleBlock
-      text: Open positions
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
     subtitle: Subtitle goes here
     items:
       - type: FeaturedItem
