@@ -741,7 +741,7 @@ sections:
     items:
       - type: FeaturedItem
         title: ''
-        tagline: Testimonial 1
+        tagline: ''
         subtitle: 'Maria Walters, Company'
         text: ''
         image:
