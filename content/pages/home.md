@@ -508,7 +508,7 @@ sections:
               borderRadius: x-large
               padding:
                 - pr-60
-                - pl-0
+                - pl-60
                 - pt-0
                 - pb-0
         actions: []
