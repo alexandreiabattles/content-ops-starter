@@ -571,7 +571,7 @@ sections:
     actions:
       - type: Button
         label: LANDMARK STORE - Click here
-        url: '/http://maps.secondlife.com/secondlife/Sun%20Isle/166/220/2593'
+        url: 'http://maps.secondlife.com/secondlife/Sun%20Isle/166/220/2593'
         icon: arrowRight
         iconPosition: right
         style: primary
