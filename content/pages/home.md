@@ -475,7 +475,7 @@ sections:
       - type: FeaturedItem
         title: ''
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: ''
         image:
           type: ImageBlock
