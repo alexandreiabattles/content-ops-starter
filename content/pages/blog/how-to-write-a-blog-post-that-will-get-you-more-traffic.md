@@ -8,7 +8,7 @@ excerpt: >-
   facere sit repellat quidem qui alias nostrum et earum enim. Cum quis sint eos
   dolor quas ad odit ipsum qui quia eius.
 featuredImage:
-  url: /images/A333_001-removebg-preview (1).png
+  url: /images/A333_001.png
   altText: Thumbnail
   type: ImageBlock
   styles:
