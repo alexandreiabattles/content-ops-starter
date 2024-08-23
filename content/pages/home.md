@@ -495,7 +495,7 @@ sections:
             borderRadius: x-large
             flexDirection: col-reverse
       - type: FeaturedItem
-        title: Feature Item One
+        title: ''
         tagline: This is the tagline
         subtitle: ''
         text: ''
