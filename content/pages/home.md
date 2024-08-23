@@ -654,7 +654,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Generic section with a video - createscript.ht
+      text: Video Music Generator
       color: text-dark
       styles:
         self:
