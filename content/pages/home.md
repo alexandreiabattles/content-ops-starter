@@ -711,7 +711,7 @@ sections:
       type: ImageBlock
       url: /images/hero3.svg
       altText: ''
-      elementId: '[build.processing.html]  pretty_urls = true'
+      elementId: '[build.processing.html]  pretty_urls = '
     badge:
       type: Badge
       label: This is a badge
