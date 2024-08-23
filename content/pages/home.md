@@ -647,23 +647,22 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Video Music Generator
-      color: text-dark
+      text: Alexandreia - Ambiance
+      color: text-light
       styles:
         self:
           textAlign: left
     subtitle: ''
     text: |
-      No data 
+      Alexandreia Web - Music 
     actions: []
     media:
       type: VideoBlock
       title: Title of the video
-      url: >-
-        https://www.youtube.com/watch?v=Mtk_sONV4A8&list=PLcKIjMdp0gyvq8U6w8uYDZe55CHLiDNhN
+      url: 'https://www.youtube.com/watch?v=uk98oQHJTqE'
       autoplay: true
       loop: true
-      muted: true
+      muted: false
       controls: false
       aspectRatio: '16:9'
       styles:
@@ -677,7 +676,7 @@ sections:
           borderStyle: solid
           borderWidth: 1
           borderRadius: large
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         flexDirection: row
@@ -686,7 +685,7 @@ sections:
         textAlign: left
   - type: DividerSection
     title: Divider
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         padding:
@@ -700,7 +699,7 @@ sections:
       - type: FeaturedItem
         title: "“Great people like Ptolemy Philadelphus II, who decided to expand the library of Alexandreia, Dinocrates who changed the urban-civil design of Alexandreia, Crates of\_Olynthus, who designed the hydraulic system and water supply in Alexandreia, Marcus Antyllus, just me who now decided to give a space electronic for battles, design by scripts, and a website for my dearest eternal mother Kleopatra Thea Neotera.”"
         tagline: ''
-        subtitle: 'Marcus Gens Antonia, Antyllus ¨Little Antonius¨ - Prince'
+        subtitle: 'Marcus Gens Antonia, Antyllus ¨Little Antonius¨ - Prince (21 years)'
         text: ''
         image:
           type: ImageBlock
@@ -723,7 +722,7 @@ sections:
             flexDirection: row
             justifyContent: center
     variant: next-prev-nav
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         justifyContent: center
