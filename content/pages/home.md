@@ -499,7 +499,7 @@ sections:
         subtitle: ''
         image:
           type: ImageBlock
-          url: /images/234234 EAGLESS_001.png
+          url: /images/34EAGLESS_001.png
           altText: Faux Fur Throw
           elementId: ''
           styles:
