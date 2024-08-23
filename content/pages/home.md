@@ -385,9 +385,9 @@ sections:
         title: GIFTS
         subtitle: ''
         text: >
-          For the **Eagles Army**  and secondarily **Celtic army**, they will
-          enjoy new weapons if you join the armies as warrior. You can enjoy new
-          weapons, gifts exclusive.
+          For the **Eagles Army**  and secondarily **Kelt Celtic army**, they
+          will enjoy new weapons if you join the armies as warrior. You can
+          enjoy new weapons, gifts exclusive.
 
 
           Also this Group Gifts will change with future, more skilled, and
