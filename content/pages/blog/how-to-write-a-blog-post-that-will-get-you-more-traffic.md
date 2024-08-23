@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: Prince Mav - Mav Store Weapon
+title: Prince Mav - Mav Industry Weapons
 slug: how-to-write-a-blog-post-that-will-get-you-more-traffic
 date: '2024-01-01'
 excerpt: >-
