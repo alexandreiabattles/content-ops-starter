@@ -1,0 +1,110 @@
+{
+    "model": "CarouselSection",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "Marcus Words.....",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "Marcus"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": null,
+                "subtitle": "Few words...",
+                "items": [
+                    {
+                        "$$type": "FeaturedItem",
+                        "title": "",
+                        "tagline": "",
+                        "subtitle": "",
+                        "text": "",
+                        "image": {
+                            "$$type": "ImageBlock",
+                            "url": null,
+                            "altText": "Maria Walters",
+                            "elementId": null,
+                            "styles": {
+                                "self": {
+                                    "borderRadius": "full"
+                                }
+                            }
+                        },
+                        "actions": [],
+                        "elementId": null,
+                        "colors": "bg-neutralAlt-fg-dark",
+                        "styles": {
+                            "self": {
+                                "padding": [
+                                    "pt-9",
+                                    "pb-9",
+                                    "pl-9",
+                                    "pr-9"
+                                ],
+                                "textAlign": "left",
+                                "borderRadius": "large",
+                                "flexDirection": "row",
+                                "justifyContent": "center"
+                            }
+                        }
+                    },
+                    {
+                        "$$type": "FeaturedItem",
+                        "title": "“Great people like Ptolemy Philadelphus II, who decided to expand the library of Alexandreia, Dinocrates who changed the urban-civil design of Alexandreia, Crates of Olynthus, who designed the hydraulic system and water supply in Alexandreia, Marcus Antyllus, just me who now decided to give a space electronic for battles, design by scripts, and a website for my dearest eternal mother Kleopatra Thea Neotera.”",
+                        "tagline": "",
+                        "subtitle": "Marcus Gens Antonia, Antyllus ¨Little Antonius¨ - Prince",
+                        "text": "",
+                        "image": {
+                            "$$type": "ImageBlock",
+                            "url": {
+                                "$$ref": "stackbit_asset_id:static:public/images/A344242342_001.png",
+                                "$$type": "__asset_model"
+                            },
+                            "altText": "Macurs Antyllus",
+                            "elementId": null,
+                            "styles": {
+                                "self": {
+                                    "borderRadius": "full"
+                                }
+                            }
+                        },
+                        "actions": [],
+                        "elementId": null,
+                        "colors": "bg-dark-fg-light",
+                        "styles": {
+                            "self": {
+                                "padding": [
+                                    "pt-9",
+                                    "pb-9",
+                                    "pl-9",
+                                    "pr-9"
+                                ],
+                                "textAlign": "left",
+                                "borderRadius": "large",
+                                "flexDirection": "row",
+                                "justifyContent": "center"
+                            }
+                        }
+                    }
+                ],
+                "badge": null,
+                "elementId": null,
+                "variant": "next-prev-nav",
+                "colors": "bg-light-fg-dark",
+                "backgroundImage": null,
+                "styles": {
+                    "self": {
+                        "justifyContent": "center"
+                    },
+                    "subtitle": {
+                        "textAlign": "center"
+                    }
+                }
+            },
+            "thumbnail": "images/carousel-section-marcus-words.....-3f83.png"
+        }
+    ]
+}
