@@ -5,7 +5,7 @@ sections:
   - type: PricingSection
     title:
       type: TitleBlock
-      text: Flexible Pricing
+      text: ALEXANDREIA WEB ONLINE
       color: text-dark
       styles:
         self:
