@@ -742,11 +742,20 @@ sections:
       text: 'Collaborations, Proposals'
       color: text-dark
     subtitle: Section with a form subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+      If you have visited our sim, Alexandreia in Second Life and want to
+      collaborate, donate, give a proposal, keep in touch with Kleopatra.Alpha
+
+
+
+
+
+
+
+
+
+
+
     actions: []
     media:
       type: FormBlock
