@@ -346,7 +346,7 @@ sections:
   - type: FeaturedPostsSection
     title:
       type: TitleBlock
-      text: Mavo Store
+      text: Mavo Industry Store
       color: text-dark
       styles:
         self:
