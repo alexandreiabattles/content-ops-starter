@@ -709,7 +709,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/hero3.svg
-      altText: Dope design preview
+      altText: ''
     badge:
       type: Badge
       label: This is a badge
