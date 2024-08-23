@@ -739,7 +739,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: 'Generic Section With A Form, scipt.exe'
+      text: 'Collaborations, Proposals'
       color: text-dark
     subtitle: Section with a form subtitle
     text: |-
