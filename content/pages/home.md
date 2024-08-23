@@ -570,7 +570,7 @@ sections:
     items: []
     actions:
       - type: Button
-        label: Apply now
+        label: LANDMARK STORE
         url: '/http://maps.secondlife.com/secondlife/Sun%20Isle/166/220/2593'
         icon: arrowRight
         iconPosition: right
