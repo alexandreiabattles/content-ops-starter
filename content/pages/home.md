@@ -685,7 +685,7 @@ sections:
         textAlign: left
   - type: DividerSection
     title: Divider
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         padding:
