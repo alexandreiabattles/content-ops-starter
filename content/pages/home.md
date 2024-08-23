@@ -497,7 +497,7 @@ sections:
             flexDirection: col-reverse
       - type: FeaturedItem
         title: Faux Fur Throw
-        subtitle: $ 88 – $ 176
+        subtitle: ''
         image:
           type: ImageBlock
           url: /images/234234 EAGLESS_001.png
