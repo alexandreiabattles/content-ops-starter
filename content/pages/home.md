@@ -576,7 +576,7 @@ sections:
         iconPosition: right
         style: primary
     variant: toggle-list
-    colors: bg-dark-fg-light
+    colors: bg-light-fg-dark
     styles:
       self:
         padding:
