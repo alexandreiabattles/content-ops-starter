@@ -4,9 +4,9 @@ title: Prince Mav - Mav Industry Weapons
 slug: how-to-write-a-blog-post-that-will-get-you-more-traffic
 date: '2024-01-01'
 excerpt: >-
-  In this store you will find designs and weapons with touches of fantasy, also
-  other items such as wings, these weapons are extremely fast and designed by a
-  warrior prince - Mavo
+  In this store you will find especially, weapons with touches of fantasy, also
+  other items such as wings.., these weapons are extremely fast and designed by
+  a warrior prince - Mavo
 featuredImage:
   url: /images/A333_001.png
   altText: Thumbnail
