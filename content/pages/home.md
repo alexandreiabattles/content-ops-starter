@@ -689,9 +689,9 @@ sections:
       text: Business Consulting
       color: text-dark
     subtitle: Be in good company
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+    text: >+
+      \[URL=https\://info.flagcounter.com/xbqy]\[IMG]https\://s11.flagcounter.com/count2/xbqy/bg\_FFFFFF/txt\_000000/border\_CCCCCC/columns\_2/maxflags\_10/viewers\_0/labels\_0/pageviews\_0/flags\_0/percent\_0/\[/IMG]\[/URL]
+
     actions:
       - type: Button
         label: Get started
