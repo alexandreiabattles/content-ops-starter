@@ -106,7 +106,7 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: ''
-        subtitle: "Cities :\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ Pergammon (Quiet),\_ \_ \_ \_ \_Ep--(Quiet) ,\_ \_ \_ \_ \_ \_ \_ \_ \_ Smyrna (Quiet)\_ \_ \_ \_Prusa (Quiet)\_ \_ \_ \_ \_ \_ \_Troy (Quiet) // No Ephesus.. pending to look...."
+        subtitle: "Cities :\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ Pergammon (Quiet),\_ \_ \_ \_ \_Ep--(Quiet) ,\_ \_ \_ \_ \_ \_ \_ \_ \_ Smyrna (Quiet)\_ \_ \_ \_ Prusa (Quiet)\_ \_ \_ \_ \_ \_ \_ Troy (Quiet) // No Ephesus.. pending to look...."
         text: |
           \----... 
         image:
