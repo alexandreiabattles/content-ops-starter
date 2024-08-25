@@ -235,7 +235,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Open positions
+      text: "TIME\_ :\_ \_3 MOTHS\_ 0 DAYS 0 HOURS"
       color: text-dark
       styles:
         self:
