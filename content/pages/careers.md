@@ -286,7 +286,7 @@ sections:
             justifyContent: center
             borderStyle: dotted
       - type: FeaturedItem
-        title: STATE OF HIS LIFE BAR
+        title: STATE OF HIS ARMY
         subtitle: $117
         image:
           type: ImageBlock
