@@ -193,8 +193,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: >-
-            /images/favpng_first-battle-of-panipat-lodi-dynasty-war-of-panipat.png
+          url: /images/blood-png-7140.png
           altText: Placeholder text
           styles:
             self:
