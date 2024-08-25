@@ -322,7 +322,7 @@ sections:
     actions: []
     elementId: ''
     variant: small-list
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         padding:
