@@ -1,0 +1,64 @@
+{
+    "model": "FeaturedItemsSection",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "time counter ",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "Marcus"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": {
+                    "$$type": "TitleBlock",
+                    "text": "- TIME  :   3 MOTHS  0 DAYS 0 HOUR",
+                    "color": "text-dark",
+                    "styles": {
+                        "self": {
+                            "textAlign": "center"
+                        }
+                    }
+                },
+                "subtitle": "",
+                "items": [],
+                "actions": [
+                    {
+                        "$$type": "Button",
+                        "label": "Apply now",
+                        "altText": null,
+                        "url": "/",
+                        "showIcon": null,
+                        "icon": "arrowRight",
+                        "iconPosition": "right",
+                        "style": "primary",
+                        "elementId": null
+                    }
+                ],
+                "badge": null,
+                "elementId": null,
+                "variant": "toggle-list",
+                "colors": "bg-light-fg-dark",
+                "backgroundImage": null,
+                "styles": {
+                    "self": {
+                        "padding": [
+                            "pb-40",
+                            "pt-16",
+                            "pl-3",
+                            "pr-3"
+                        ],
+                        "justifyContent": "center"
+                    },
+                    "subtitle": {
+                        "textAlign": "center"
+                    }
+                }
+            },
+            "thumbnail": "images/featured-items-section-time-counter-eb79.png"
+        }
+    ]
+}
