@@ -45,7 +45,7 @@ sections:
     title:
       type: TitleBlock
       text: ACCUMULATED SCORE
-      color: text-light
+      color: text-primary
       styles:
         self:
           textAlign: center
