@@ -204,7 +204,7 @@ sections:
             self:
               borderRadius: x-large
         actions: []
-        colors: bg-dark-fg-light
+        colors: bg-neutral-fg-dark
         styles:
           self:
             padding:
