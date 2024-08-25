@@ -741,7 +741,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/Marcus Profile.png
+          url: /images/egyptian-boy.png
           altText: Macurs Antyllus
           styles:
             self:
