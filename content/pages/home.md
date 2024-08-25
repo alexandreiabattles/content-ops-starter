@@ -714,7 +714,7 @@ sections:
       elementId: '[build.processing.html]  pretty_urls = '
     badge:
       type: Badge
-      label: This is a be
+      label: 'OUR VISITORS, THANKS FOR VISIT'
       color: text-primary
     colors: bg-light-fg-dark
     styles:
