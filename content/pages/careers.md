@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Section with a video subtitle
+    subtitle: WELCOME
     text: |
       \------------------------ 
     actions: []
@@ -62,7 +62,7 @@ sections:
           type: ImageBlock
           url: >-
             /images/png-transparent-egyptian-sculpture-illustration-heliopolis-ancient-egypt-atum-deity-egyptian-ancient-pattern-material-free-to-pull-free-logo-design-template-egypt-geometric-pattern.png
-          altText: Featured icon three
+          altText: ALEXANDREIA
           elementId: ''
         actions: []
         colors: bg-neutral-fg-dark
@@ -106,9 +106,11 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: ''
-        subtitle: "Cities :\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ Pergammon (Quiet),\_ \_ \_ \_ \_Ep--(Quiet) ,\_ \_ \_ \_ \_ \_ \_ \_ \_ \_Smyrna (Quiet)\_ \_ \_ \_Prusa (Quiet)\_ \_ \_ \_ \_ \_ \_Troy (Quiet) // No Ephesus.. pending to look...."
-        text: |
-          \----... 
+        subtitle: "Cities :\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ Pergammon (Quiet),\_ \_ \_ \_ \_Ep--(Quiet) ,\_ \_ \_ \_ \_ \_ \_Smyrna (Quiet)\_ \_ \_ \_ Prusa (Quiet)\_ \_ \_ \_ \_ \_ \_ Troy (Quiet) // No Ephesus.. pending to look...."
+        text: |+
+          | KING GIOVANNI | TROY ARMY | **0 pts** |
+          | ------------- | --------- | --------- |
+
         image:
           type: ImageBlock
           url: /images/troy-a-total-war-saga-button-00-1568921720588.jpg
@@ -136,7 +138,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/blood-png-7140.png
+          url: /images/Diseño_sin_título__4_-removebg-preview.png
           altText: Placeholder text
           elementId: ''
           styles:
@@ -157,14 +159,16 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: ''
-        subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        subtitle: "Cities :\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ Lutecia (Quiet)\_ \_ \_ \_ \_ \_ \_ \_Brigantia(Quiet) Londinium (Quiet)\_ \_ \_ \_ \_Galatia (Quiet) Numancia (Quiet)"
+        text: |+
+          **
+
+          | QUEEN MORRIGAN | KELT ARMY | **0 pts** |
+          | -------------- | --------- | --------- |
+
         image:
           type: ImageBlock
-          url: /images/icon1.svg
+          url: /images/43dec7a4362bc826daefa3c43df315b7.jpg
           altText: Placeholder text
           elementId: ''
           styles:
@@ -183,16 +187,31 @@ sections:
             flexDirection: row
             justifyContent: center
             textAlign: left
-    actions:
-      - type: Button
-        label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
+        tagline: ''
+      - type: FeaturedItem
+        title: ''
+        tagline: ''
+        subtitle: ''
+        text: ''
+        image:
+          type: ImageBlock
+          url: /images/pngegg.png
+          altText: Placeholder text
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+    actions: []
     badge:
       type: Badge
       label: ''
@@ -210,6 +229,89 @@ sections:
           - pt-16
           - pl-16
           - pr-16
+        justifyContent: center
+      subtitle:
+        textAlign: center
+  - type: FeaturedItemsSection
+    title:
+      type: TitleBlock
+      text: EAGLES ARMY
+      color: text-light
+      styles:
+        self:
+          textAlign: center
+    items:
+      - type: FeaturedItem
+        title: ALEXANDREIA - EGYPT
+        subtitle: EAGLES ARMY
+        text: >+
+          Available in a range of colors and patterns, we make it easy to pick
+          the perfect look for you.
+
+
+
+
+          Our faux fur is incredibly soft, plush and oh-so inviting. It's like
+          the real deal (but better)!
+
+
+
+        image:
+          type: ImageBlock
+          url: /images/LOGO EAGLES 2.png
+          altText: Faux Fur Throw
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+              padding:
+                - pt-0
+                - pl-0
+                - pb-0
+                - pr-0
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-6
+              - pl-6
+              - pb-6
+              - pr-6
+            textAlign: left
+            borderColor: border-neutralAlt
+            borderWidth: 2
+            borderRadius: x-small
+            flexDirection: row-reverse
+            justifyContent: center
+            borderStyle: dotted
+      - type: FeaturedItem
+        title: STATE OF HIS LIFE BAR
+        subtitle: $117
+        image:
+          type: ImageBlock
+          url: /images/img-placeholder.svg
+          altText: Chunky Cotton Knit Throw
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            flexDirection: row
+    actions: []
+    elementId: ''
+    variant: small-list
+    colors: bg-dark-fg-light
+    styles:
+      self:
+        padding:
+          - pt-0
+          - pl-0
+          - pb-0
+          - pr-0
         justifyContent: center
       subtitle:
         textAlign: center
