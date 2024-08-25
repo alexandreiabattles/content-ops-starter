@@ -693,7 +693,7 @@ sections:
     actions:
       - type: Button
         label: Get started
-        url: ''
+        url: 'https://s11.flagcounter.com/more/xbqy/'
         icon: arrowRight
         iconPosition: right
         style: secondary
