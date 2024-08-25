@@ -193,7 +193,8 @@ sections:
           Follow the tutorial to build your first Netlify Create site.
         image:
           type: ImageBlock
-          url: /images/gjg.jpg
+          url: >-
+            /images/favpng_first-battle-of-panipat-lodi-dynasty-war-of-panipat.png
           altText: Placeholder text
           styles:
             self:
