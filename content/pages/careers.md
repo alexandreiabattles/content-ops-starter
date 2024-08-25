@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Section with a video subtitle
+    subtitle: WELCOME WARRIORS
     text: |
       \------------------------ 
     actions: []
