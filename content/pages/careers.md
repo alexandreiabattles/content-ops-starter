@@ -107,8 +107,12 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: "Cities :\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ Pergammon (Quiet),\_ \_ \_ \_ \_Ep--(Quiet) ,\_ \_ \_ \_ \_ \_ \_Smyrna (Quiet)\_ \_ \_ \_ Prusa (Quiet)\_ \_ \_ \_ \_ \_ \_ Troy (Quiet) // No Ephesus.. pending to look...."
-        text: |
-          \----... 
+        text: |+
+
+
+          | King Giovanni | Troy Army | **0 pts**  |
+          | ------------- | --------- | ---------- |
+
         image:
           type: ImageBlock
           url: /images/troy-a-total-war-saga-button-00-1568921720588.jpg
