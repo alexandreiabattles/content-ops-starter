@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: WELCOME WARRIORS
+    subtitle: WELCOME
     text: |
       \------------------------ 
     actions: []
