@@ -192,7 +192,7 @@ sections:
             flexDirection: row
             justifyContent: center
             textAlign: left
-        tagline: 'Cities :'
+        tagline: ''
       - type: FeaturedItem
         title: ''
         tagline: ''
