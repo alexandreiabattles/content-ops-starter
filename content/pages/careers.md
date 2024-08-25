@@ -139,7 +139,7 @@ sections:
         image:
           type: ImageBlock
           url: >-
-            /images/favpng_first-battle-of-panipat-lodi-dynasty-war-of-panipat.png
+            /images/Amarillo_y_Marrón_Placa_Con_Borde_Estilo_Vintage_Postal__7_-removebg-preview.png
           altText: Placeholder text
           elementId: ''
           styles:
