@@ -161,10 +161,9 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: 'Cities :'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Lutecia (Quiet) Brigantia (Quiet)  Londinium (Quiet)  Galatia (Quiet) 
+          Numancia (Quiet)
         image:
           type: ImageBlock
           url: /images/43dec7a4362bc826daefa3c43df315b7.jpg
