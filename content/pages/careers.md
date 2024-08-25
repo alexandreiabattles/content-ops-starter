@@ -235,7 +235,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: "ALEXANDREIA ALLIANCE\_ \_ \_ \_ \_ \_ EAGLES ARMY"
+      text: EAGLES ARMY
       color: text-light
       styles:
         self:
