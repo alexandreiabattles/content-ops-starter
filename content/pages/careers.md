@@ -166,7 +166,7 @@ sections:
           explicabo.
         image:
           type: ImageBlock
-          url: /images/icon1.svg
+          url: /images/43dec7a4362bc826daefa3c43df315b7.jpg
           altText: Placeholder text
           elementId: ''
           styles:
