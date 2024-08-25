@@ -163,8 +163,12 @@ sections:
         subtitle: >-
           Cities :Lutecia (Quiet)Brigantia (Quiet)Londinium (Quiet)Galatia
           (Quiet)Numancia (Quiet)
-        text: |
-          *iouiouou*
+        text: |+
+          **
+
+          | QUEEN MORRIGAN | KELT ARMY | **0 pts** |
+          | -------------- | --------- | --------- |
+
         image:
           type: ImageBlock
           url: /images/43dec7a4362bc826daefa3c43df315b7.jpg
