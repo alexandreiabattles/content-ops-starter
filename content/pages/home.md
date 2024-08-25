@@ -692,7 +692,7 @@ sections:
     text: ''
     actions:
       - type: Button
-        label: Get started
+        label: Check this web
         url: 'https://s11.flagcounter.com/more/xbqy/'
         icon: arrowRight
         iconPosition: right
