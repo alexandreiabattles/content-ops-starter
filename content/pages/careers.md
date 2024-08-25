@@ -258,7 +258,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/LOGO EAGLES 2.png
           altText: Faux Fur Throw
           elementId: ''
           styles:
