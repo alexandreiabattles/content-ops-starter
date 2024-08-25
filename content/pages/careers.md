@@ -159,7 +159,7 @@ sections:
             justifyContent: center
             textAlign: left
       - type: FeaturedItem
-        title: 'Cities :'
+        title: ''
         subtitle: >-
           Cities :Lutecia (Quiet)Brigantia (Quiet)Londinium (Quiet)Galatia
           (Quiet)Numancia (Quiet)
