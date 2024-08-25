@@ -709,7 +709,7 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/hero3.svg
+      url: /images/index.png
       altText: ''
       elementId: '[build.processing.html]  pretty_urls = '
     badge:
