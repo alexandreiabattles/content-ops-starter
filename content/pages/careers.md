@@ -159,7 +159,7 @@ sections:
             justifyContent: center
             textAlign: left
       - type: FeaturedItem
-        title: ''
+        title: 'Cities :'
         subtitle: 'Cities :'
         text: |
           *Lutecia (Quiet)*
