@@ -195,7 +195,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/pngegg.png
+          url: /images/Diseño_sin_título__4_-removebg-preview.png
           altText: Placeholder text
           styles:
             self:
