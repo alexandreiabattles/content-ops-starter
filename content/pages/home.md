@@ -692,7 +692,7 @@ sections:
     text: ''
     actions:
       - type: Button
-        label: Check this web
+        label: Check this web - Visitor consulting
         url: 'https://s11.flagcounter.com/more/xbqy/'
         icon: arrowRight
         iconPosition: right
