@@ -161,9 +161,16 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: 'Cities :'
-        text: >
-          Lutecia (Quiet) Brigantia (Quiet)  Londinium (Quiet)  Galatia (Quiet) 
-          Numancia (Quiet)
+        text: |
+          Lutecia (Quiet) 
+
+          Brigantia (Quiet)  
+
+          Londinium (Quiet)  
+
+          Galatia (Quiet) 
+
+           Numancia (Quiet)
         image:
           type: ImageBlock
           url: /images/43dec7a4362bc826daefa3c43df315b7.jpg
