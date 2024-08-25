@@ -235,7 +235,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Items on sale
+      text: EAGLES ARMY
       color: text-light
       styles:
         self:
