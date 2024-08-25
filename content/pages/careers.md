@@ -159,9 +159,7 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: ''
-        subtitle: >-
-          Cities :Lutecia (Quiet)Brigantia (Quiet)Londinium (Quiet)Galatia
-          (Quiet)Numancia (Quiet)
+        subtitle: "Cities :\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ Lutecia (Quiet)\_ \_ \_ \_ \_ \_ \_ \_Brigantia(Quiet) Londinium (Quiet)\_ \_ \_ \_ \_Galatia (Quiet) Numancia (Quiet)"
         text: |+
           **
 
