@@ -62,7 +62,7 @@ sections:
           type: ImageBlock
           url: >-
             /images/png-transparent-egyptian-sculpture-illustration-heliopolis-ancient-egypt-atum-deity-egyptian-ancient-pattern-material-free-to-pull-free-logo-design-template-egypt-geometric-pattern.png
-          altText: Featured icon three
+          altText: ALEXANDREIA
           elementId: ''
         actions: []
         colors: bg-light-fg-dark
