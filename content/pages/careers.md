@@ -236,7 +236,7 @@ sections:
     title:
       type: TitleBlock
       text: Items on sale
-      color: text-dark
+      color: text-light
       styles:
         self:
           textAlign: center
