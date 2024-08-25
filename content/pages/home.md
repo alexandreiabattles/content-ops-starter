@@ -692,16 +692,13 @@ sections:
     text: ''
     actions:
       - type: Button
-        label: Get started
-        url: >-
-          https://info.flagcounter.com/xbqy"><img
-          src="https://s11.flagcounter.com/count2/xbqy/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/"
-          alt="Flag Counter" border="0"></a>
+        label: Check this web
+        url: 'https://s11.flagcounter.com/more/xbqy/'
         icon: arrowRight
         iconPosition: right
         style: secondary
       - type: Link
-        label: See Tutorials
+        label: ''
         url: /
         showIcon: true
         icon: arrowRight
@@ -709,12 +706,12 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/hero3.svg
+      url: /images/index.png
       altText: ''
       elementId: '[build.processing.html]  pretty_urls = '
     badge:
       type: Badge
-      label: This is a badge
+      label: 'OUR VISITORS, THANKS FOR VISIT US'
       color: text-primary
     colors: bg-light-fg-dark
     styles:
@@ -735,13 +732,13 @@ sections:
     subtitle: Few words...
     items:
       - type: FeaturedItem
-        title: "“Great people like Ptolemy Philadelphus II, who decided to expand the library of Alexandreia, Dinocrates who changed the urban-civil design of Alexandreia, Crates of\_Olynthus, who designed the hydraulic system and water supply in Alexandreia, Marcus Antyllus, just me who now decided to give a space electronic for battles, design by scripts, and a website for my dearest eternal mother Kleopatra Thea Neotera.”"
+        title: "“Great people like Ptolemy Philadelphus II, who decided to expand the library of Alexandreia, Dinocrates who changed the urban-civil design of Alexandreia, Crates of\_Olynthus, who designed the hydraulic system and water supply in Alexandreia, Marcus Antyllus, just me who now decided to give a space electronic for battles, design by scripts, and a website for my dearest Queen mother Kleopatra Thea Neotera.”"
         tagline: ''
         subtitle: 'Marcus Gens Antonia, Antyllus ¨Little Antonius¨ - Prince (21 years)'
         text: ''
         image:
           type: ImageBlock
-          url: /images/A344242342_001.png
+          url: /images/egyptian-boy.png
           altText: Macurs Antyllus
           styles:
             self:
