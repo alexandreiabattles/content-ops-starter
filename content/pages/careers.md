@@ -138,8 +138,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: >-
-            /images/Amarillo_y_Marrón_Placa_Con_Borde_Estilo_Vintage_Postal__7_-removebg-preview.png
+          url: /images/Diseño_sin_título__4_-removebg-preview.png
           altText: Placeholder text
           elementId: ''
           styles:
