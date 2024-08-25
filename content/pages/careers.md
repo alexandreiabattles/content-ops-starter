@@ -195,7 +195,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/blood-png-7140.png
+          url: /images/173-1735411_ancient-roman-weapons-png-clipart.png
           altText: Placeholder text
           styles:
             self:
