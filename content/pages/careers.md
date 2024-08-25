@@ -195,7 +195,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/173-1735411_ancient-roman-weapons-png-clipart.png
+          url: /images/pngegg.png
           altText: Placeholder text
           styles:
             self:
