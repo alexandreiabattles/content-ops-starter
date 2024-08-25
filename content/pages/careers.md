@@ -160,7 +160,9 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: 'Cities :'
-        subtitle: 'Cities :'
+        subtitle: >-
+          Cities :Lutecia (Quiet)Brigantia (Quiet)Londinium (Quiet)Galatia
+          (Quiet)Numancia (Quiet)
         text: |
           *iouiouou*
         image:
