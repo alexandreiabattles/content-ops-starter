@@ -524,7 +524,7 @@ sections:
           the most feared units of the Roman Empire. This legion, founded by
           Julius Caesar, was known for its relentless strength, having the
           ability to endure in the toughest battles. Today, under the command of
-          the bold General Lord Lucas, the Sexta Ferrata revives that Roman
+          the bold **General Lord Lucas**, the Sexta Ferrata revives that Roman
           honor.
 
 
