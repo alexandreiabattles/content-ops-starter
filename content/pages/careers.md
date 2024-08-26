@@ -260,7 +260,25 @@ sections:
       - type: FeaturedItem
         title: ALEXANDREIA - EGYPT
         subtitle: EAGLES ARMY
-        text: "ROYAL ARMY OF ALEXANDREIA  EGYPT\n\nOur faux fur is incredibly soft, plush and oh-so inviting. It's like the real deal (but better)!\n\n**STATE OF YOUR CITIES :**\n\n100% HP\n\noh Egypt... the streets seem to be safe..., the villagers promulgate that the gods are blessing your country, Egypt\_ \_ The Magnificent Horus is pleasing because of their honors warriors in battles! - First day of War\n"
+        text: >+
+          ROYAL ARMY OF ALEXANDREIA  EGYPT
+
+
+
+          Eagles Army is a group of elite warriors, dedicated to the protection
+          of the kingdom under the command of Queen Cleopatra in Ptolemaic
+          Egypt. Inspired by the god Horus, the falcon god, a great symbol of
+          vision and divine power. Brave and loyal, the soldiers of the Eagles
+          are known for their determination in battle, fiercely defending
+          Cleopatra's legacy against any invaders
+
+
+
+          **STATE OF YOUR CITIES :**
+
+
+          100% HP
+
         image:
           type: ImageBlock
           url: /images/LOGO EAGLES 2.png
