@@ -286,7 +286,7 @@ sections:
             justifyContent: center
             borderStyle: dotted
       - type: FeaturedItem
-        title: STATE OF HIS ARMY
+        title: STATE OF YOUR ARMY
         subtitle: $117
         image:
           type: ImageBlock
