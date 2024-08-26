@@ -281,7 +281,7 @@ sections:
             borderStyle: dotted
       - type: FeaturedItem
         title: STATE OF YOUR CITIES
-        subtitle: "oh Egypt... the streets seem to be safe..., the villagers promulgate that the gods are blessing your country, Egypt\_ \_ they are pleasing because of their warrior honors in battles! - *First day of War* ."
+        subtitle: "oh Egypt... the streets seem to be safe..., the villagers promulgate that the gods are blessing your country, Egypt\_ \_ they are pleasing because of their warrior honors in battles! - *First day of War*"
         image:
           type: ImageBlock
           url: /images/LIFE_BAR__1_-removebg-preview.png
