@@ -286,7 +286,7 @@ sections:
         subtitle: "oh Egypt... the streets seem to be safe..., the villagers promulgate that the gods are blessing your country, Egypt\_ \_ The Magnificent Horus is pleasing because of their honors warriors in battles! - First day of War\_ (EN)\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_oh Egypte... les rues semblent sûres..., les villageois proclament que les dieux bénissent ton pays, Egypte Le Magnifique Horus plaît à cause de ses honneurs de guerriers dans les batailles ! - Premier jour de guerre (EN)"
         image:
           type: ImageBlock
-          url: /images/LIFE_BAR__1_-removebg-preview.png
+          url: /images/LIFE BAR (2).png
           altText: Chunky Cotton Knit Throw
           elementId: ''
           styles:
