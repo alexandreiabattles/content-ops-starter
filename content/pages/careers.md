@@ -428,13 +428,6 @@ sections:
       subtitle:
         textAlign: center
   - type: FeaturedItemsSection
-    title:
-      type: TitleBlock
-      text: "- TIME\_ :\_ \_3 MOTHS\_ 0 DAYS 0 HOUR"
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
     subtitle: ''
     items: []
     actions:
