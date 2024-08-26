@@ -638,7 +638,7 @@ sections:
           textAlign: center
     items:
       - type: FeaturedItem
-        title: KELT ARMY - CEL.KINGDOM
+        title: KELT ARMY -
         subtitle: EAGLES ARMY
         text: >
           POWERFUL ARMY OF KELT
