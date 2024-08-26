@@ -12,7 +12,9 @@ sections:
           textAlign: center
     subtitle: WELCOME
     text: |
-      \------------------------ 
+      \------------------------
+
+      A warrior must to fight... in any situation
     actions: []
     media:
       type: VideoBlock
@@ -49,7 +51,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: '- WAR Challenge - AW'
+    subtitle: '- *WAR Challenge - AW*'
     items:
       - type: FeaturedItem
         title: ''
@@ -79,9 +81,12 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: "Cities:\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_Brundisium (Quiet)\_ \_ \_ \_ \_Pompei(Quiet)\_ Capua(Quiet)\_ \_ \_ \_ \_ \_ \_ \_ Octodur (Quiet)\_ Roma(Quiet)"
-        text: |+
-          | GENERAL LORD | SEXTA ARMY - | **0 pts** |
-          | ------------ | ------------ | --------- |
+        text: >+
+          | GENERAL LORD |                                   **.SEXTA ARMY.**  |
+          **0 pts** |
+
+          | ------------ | --------------------------------------------------- |
+          --------- |
 
         image:
           type: ImageBlock
@@ -195,7 +200,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/pngegg.png
+          url: /images/Diseño_sin_título__4_-removebg-preview.png
           altText: Placeholder text
           styles:
             self:
@@ -232,10 +237,21 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-dark-fg-light
+    styles:
+      self:
+        padding:
+          - pt-20
+          - pl-20
+          - pb-20
+          - pr-20
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: EAGLES ARMY
+      text: '-ＥＡＧＬＥＳ ＡＲＭＹ -'
       color: text-light
       styles:
         self:
@@ -244,18 +260,7 @@ sections:
       - type: FeaturedItem
         title: ALEXANDREIA - EGYPT
         subtitle: EAGLES ARMY
-        text: >+
-          Available in a range of colors and patterns, we make it easy to pick
-          the perfect look for you.
-
-
-
-
-          Our faux fur is incredibly soft, plush and oh-so inviting. It's like
-          the real deal (but better)!
-
-
-
+        text: "ROYAL ARMY OF ALEXANDREIA  EGYPT\n\nOur faux fur is incredibly soft, plush and oh-so inviting. It's like the real deal (but better)!\n\n**STATE OF YOUR CITIES :**\n\n100% HP\n\noh Egypt... the streets seem to be safe..., the villagers promulgate that the gods are blessing your country, Egypt\_ \_ The Magnificent Horus is pleasing because of their honors warriors in battles! - First day of War\n"
         image:
           type: ImageBlock
           url: /images/LOGO EAGLES 2.png
@@ -270,7 +275,7 @@ sections:
                 - pb-0
                 - pr-0
         actions: []
-        colors: bg-light-fg-dark
+        colors: bg-dark-fg-light
         styles:
           self:
             padding:
@@ -286,18 +291,18 @@ sections:
             justifyContent: center
             borderStyle: dotted
       - type: FeaturedItem
-        title: STATE OF HIS LIFE BAR
-        subtitle: $117
+        title: ''
+        subtitle: ''
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/3.png
           altText: Chunky Cotton Knit Throw
           elementId: ''
           styles:
             self:
               borderRadius: medium
         actions: []
-        colors: bg-light-fg-dark
+        colors: bg-dark-fg-light
         styles:
           self:
             flexDirection: row
@@ -315,233 +320,10 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Business Consulting
-      color: text-dark
-    subtitle: Be in good company
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
-    actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-    media:
-      type: ImageBlock
-      url: /images/hero3.svg
-      altText: Dope design preview
-    badge:
-      type: Badge
-      label: This is a badge
-      color: text-primary
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
   - type: FeaturedItemsSection
-    title:
-      type: TitleBlock
-      text: Key Benefits
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    subtitle: Subtitle goes here
-    items:
-      - type: FeaturedItem
-        title: 500k
-        subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          type: ImageBlock
-          url: /images/icon1.svg
-          altText: Lightning bolt symbol on red background
-          elementId: ''
-          styles:
-            self:
-              borderRadius: x-large
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-            justifyContent: center
-            textAlign: left
-      - type: FeaturedItem
-        title: 20x
-        subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          type: ImageBlock
-          url: /images/icon2.svg
-          altText: Featured icon two
-          elementId: ''
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-            textAlign: left
-            justifyContent: center
-      - type: FeaturedItem
-        title: 200%
-        subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          type: ImageBlock
-          url: /images/icon3.svg
-          altText: Featured icon three
-          elementId: ''
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-    actions:
-      - type: Button
-        label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-    badge:
-      type: Badge
-      label: This is a badge
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-    elementId: ''
-    variant: three-col-grid
-    colors: bg-neutral-fg-dark
-    styles:
-      self:
-        padding:
-          - pb-16
-          - pt-16
-          - pl-16
-          - pr-16
-        justifyContent: center
-      subtitle:
-        textAlign: center
-  - type: FeaturedItemsSection
-    title:
-      type: TitleBlock
-      text: Open positions
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    subtitle: Subtitle goes here
-    items:
-      - type: FeaturedItem
-        title: Account Executive
-        subtitle: Sales
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        actions: []
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            textAlign: left
-            borderRadius: x-large
-            flexDirection: row
-            justifyContent: center
-      - type: FeaturedItem
-        title: Open Source Engineer
-        subtitle: Marketing
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        actions: []
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            textAlign: left
-            borderRadius: x-large
-            flexDirection: row
-            justifyContent: center
-      - type: FeaturedItem
-        title: Senior Software Engineer
-        subtitle: Engineering
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        actions: []
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-    actions:
-      - type: Button
-        label: Apply now
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: primary
+    subtitle: ''
+    items: []
+    actions: []
     variant: toggle-list
     colors: bg-light-fg-dark
     styles:
@@ -551,6 +333,333 @@ sections:
           - pt-16
           - pl-3
           - pr-3
+        justifyContent: center
+      subtitle:
+        textAlign: center
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-neutral-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-20
+          - pl-20
+          - pb-20
+          - pr-20
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-dark-fg-light
+    styles:
+      self:
+        padding:
+          - pt-3
+          - pl-3
+          - pb-3
+          - pr-3
+  - type: FeaturedItemsSection
+    title:
+      type: TitleBlock
+      text: ƬRƠƳ ⱭRⱮƳ
+      color: text-light
+      styles:
+        self:
+          textAlign: center
+    items:
+      - type: FeaturedItem
+        title: TROY ARMY - TROY
+        subtitle: EAGLES ARMY
+        text: "ROYAL ARMY OF ALEXANDREIA  EGYPT\n\nOur faux fur is incredibly soft, plush and oh-so inviting. It's like the real deal (but better)!\n\nSTATE OF YOUR CITIES :\n\n100% HP\n\n\n\noh Egypt... the streets seem to be safe..., the villagers promulgate that the gods are blessing your country, Egypt\_ \_ The Magnificent Horus is pleasing because of their honors warriors in battles! - First day of War\_ (EN)\_\n\n"
+        image:
+          type: ImageBlock
+          url: /images/Troy-Logo-by-Ellen.png
+          altText: Faux Fur Throw
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+              padding:
+                - pt-0
+                - pl-0
+                - pb-0
+                - pr-0
+        actions: []
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-6
+              - pl-6
+              - pb-6
+              - pr-6
+            textAlign: left
+            borderColor: border-neutralAlt
+            borderWidth: 2
+            borderRadius: x-small
+            flexDirection: row-reverse
+            justifyContent: center
+            borderStyle: dotted
+      - type: FeaturedItem
+        title: ''
+        subtitle: ''
+        image:
+          type: ImageBlock
+          url: /images/2.png
+          altText: Chunky Cotton Knit Throw
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            flexDirection: row
+    actions: []
+    elementId: ''
+    variant: small-list
+    colors: bg-dark-fg-light
+    styles:
+      self:
+        padding:
+          - pt-0
+          - pl-0
+          - pb-0
+          - pr-0
+        justifyContent: center
+      subtitle:
+        textAlign: center
+  - type: FeaturedItemsSection
+    subtitle: ''
+    items: []
+    actions: []
+    variant: toggle-list
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pb-40
+          - pt-16
+          - pl-3
+          - pr-3
+        justifyContent: center
+      subtitle:
+        textAlign: center
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-dark-fg-light
+    styles:
+      self:
+        padding:
+          - pt-3
+          - pl-3
+          - pb-3
+          - pr-3
+  - type: FeaturedItemsSection
+    title:
+      type: TitleBlock
+      text: ''
+      color: text-light
+      styles:
+        self:
+          textAlign: center
+    items:
+      - type: FeaturedItem
+        title: SEXTA FERRATA - ROME
+        subtitle: EAGLES ARMY
+        text: >+
+          ROYAL ARMY OF ALEXANDREIA  EGYPT
+
+
+          Our faux fur is incredibly soft, plush and oh-so inviting. It's like
+          the real deal (but better)!
+
+
+          STATE OF YOUR CITIES :
+
+
+
+
+          100% HP
+
+        image:
+          type: ImageBlock
+          url: /images/Sexta Ferrata nuovopng.png
+          altText: Faux Fur Throw
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+              padding:
+                - pt-0
+                - pl-0
+                - pb-0
+                - pr-0
+        actions: []
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-6
+              - pl-6
+              - pb-6
+              - pr-6
+            textAlign: left
+            borderColor: border-neutralAlt
+            borderWidth: 2
+            borderRadius: x-small
+            flexDirection: row-reverse
+            justifyContent: center
+            borderStyle: dotted
+      - type: FeaturedItem
+        title: ''
+        subtitle: ''
+        image:
+          type: ImageBlock
+          url: /images/LIFE BAR (10).png
+          altText: Chunky Cotton Knit Throw
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            flexDirection: row
+    actions: []
+    elementId: ''
+    variant: small-list
+    colors: bg-dark-fg-light
+    styles:
+      self:
+        padding:
+          - pt-0
+          - pl-0
+          - pb-0
+          - pr-0
+        justifyContent: center
+      subtitle:
+        textAlign: center
+  - type: FeaturedItemsSection
+    title:
+      type: TitleBlock
+      text: ''
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    subtitle: ''
+    items: []
+    actions: []
+    variant: toggle-list
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pb-40
+          - pt-16
+          - pl-3
+          - pr-3
+        justifyContent: center
+      subtitle:
+        textAlign: center
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-dark-fg-light
+    styles:
+      self:
+        padding:
+          - pt-12
+          - pl-12
+          - pb-12
+          - pr-12
+  - type: FeaturedItemsSection
+    title:
+      type: TitleBlock
+      text: '- ᏦᏋᏓͳ ᎯᎡᎷᎩ -'
+      color: text-light
+      styles:
+        self:
+          textAlign: center
+    items:
+      - type: FeaturedItem
+        title: ALEXANDREIA - EGYPT
+        subtitle: EAGLES ARMY
+        text: >+
+          ROYAL ARMY OF ALEXANDREIA  EGYPT
+
+
+          Our faux fur is incredibly soft, plush and oh-so inviting. It's like
+          the real deal (but better)!
+
+
+          STATE OF YOUR CITIES :
+
+
+
+
+          100% HP
+
+        image:
+          type: ImageBlock
+          url: /images/Screenshot_1.png
+          altText: Faux Fur Throw
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+              padding:
+                - pt-0
+                - pl-0
+                - pb-0
+                - pr-0
+        actions: []
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-6
+              - pl-6
+              - pb-6
+              - pr-6
+            textAlign: left
+            borderColor: border-neutralAlt
+            borderWidth: 2
+            borderRadius: x-small
+            flexDirection: row-reverse
+            justifyContent: center
+            borderStyle: dotted
+      - type: FeaturedItem
+        title: ''
+        subtitle: ''
+        image:
+          type: ImageBlock
+          url: /images/LIFE BAR (11).png
+          altText: Chunky Cotton Knit Throw
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            flexDirection: row
+    actions: []
+    elementId: ''
+    variant: small-list
+    colors: bg-dark-fg-light
+    styles:
+      self:
+        padding:
+          - pt-0
+          - pl-0
+          - pb-0
+          - pr-0
         justifyContent: center
       subtitle:
         textAlign: center
