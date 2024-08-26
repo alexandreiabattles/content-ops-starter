@@ -252,6 +252,33 @@ sections:
 
           Our faux fur is incredibly soft, plush and oh-so inviting. It's like
           the real deal (but better)!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          STATE OF YOUR CITIES : 
         image:
           type: ImageBlock
           url: /images/LOGO EAGLES 2.png
