@@ -641,7 +641,7 @@ sections:
         title: ALEXANDREIA - EGYPT
         subtitle: EAGLES ARMY
         text: >
-          ROYAL ARMY OF ALEXANDREIA  EGYPT
+          POWERFUL ARMY OF KELT
 
 
           Kelt Army is for fierce Celtic warriors, led by the powerful **Queen
