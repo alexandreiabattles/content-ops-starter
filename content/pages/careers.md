@@ -282,7 +282,7 @@ sections:
             justifyContent: center
             borderStyle: dotted
       - type: FeaturedItem
-        title: STATE OF YOUR CITIES
+        title: ''
         subtitle: ''
         image:
           type: ImageBlock
