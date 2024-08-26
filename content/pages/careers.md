@@ -265,11 +265,11 @@ sections:
 
 
           Eagles Army is a group of pro and dertimated warriors, dedicated to
-          the protection of the kingdom under the command of Queen Cleopatra in
-          Ptolemaic Egypt. Inspired by the god Horus, the falcon god, a great
-          symbol of vision and divine power. Brave and loyal, the soldiers of
-          the Eagles are known for their determination in battle, fiercely
-          defending Cleopatra's legacy against any invaders
+          the protection of the kingdom under Queen Kleopatra in Ptolemaic
+          Egypt. Inspired by the god Horus, the falcon god, a great symbol of
+          vision and divine power. Brave and loyal, the warriors of the Eagles
+          are known for their determination in battle, **loyalty,**  fiercely
+          defending Kleopatra's legacy against any invaders
 
 
           **STATE OF YOUR CITIES :**
