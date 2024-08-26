@@ -528,7 +528,7 @@ sections:
           each victory.
 
 
-          STATE OF YOUR CITIES :
+          **STATE OF YOUR CITIES :**
 
 
           100% HP
