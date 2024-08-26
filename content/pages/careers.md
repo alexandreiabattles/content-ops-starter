@@ -246,7 +246,7 @@ sections:
       - type: FeaturedItem
         title: ALEXANDREIA - EGYPT
         subtitle: EAGLES ARMY
-        text: >
+        text: >+
           ROYAL ARMY OF ALEXANDREIA  EGYPT
 
 
@@ -254,31 +254,13 @@ sections:
           the real deal (but better)!
 
 
+          STATE OF YOUR CITIES :
 
 
 
 
+          100% HP
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-          STATE OF YOUR CITIES : 
         image:
           type: ImageBlock
           url: /images/LOGO EAGLES 2.png
