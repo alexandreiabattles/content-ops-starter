@@ -486,7 +486,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/LOGO EAGLES 2.png
+          url: /images/Sexta Ferrata nuovopng.png
           altText: Faux Fur Throw
           elementId: ''
           styles:
