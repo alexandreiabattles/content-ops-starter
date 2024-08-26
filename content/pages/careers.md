@@ -638,7 +638,7 @@ sections:
           textAlign: center
     items:
       - type: FeaturedItem
-        title: ALEXANDREIA - EGYPT
+        title: KELT ARMY - CEL.KINGDOM
         subtitle: EAGLES ARMY
         text: >
           POWERFUL ARMY OF KELT
