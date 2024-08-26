@@ -655,9 +655,14 @@ sections:
           personification of courage, leading his warriors with more streght .
 
 
-          These soldiers fight as if each battle were their last, driven by the
-          belief that dying in combat is the greatest honor, the Celts are NOT
-          afraid of anything!.
+          These warriors fight as if each battle were their last, driven by the
+          belief that dying in combat is the greatest honor!!, the Celts are NOT
+          afraid of anything!!. 
+
+
+
+          His famous Celtic phrase: CELTS! ATTACK FOR FREEDOM!
+
 
 
           **STATE OF YOUR CITIES :**
