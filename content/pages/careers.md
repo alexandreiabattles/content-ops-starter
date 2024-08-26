@@ -350,7 +350,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: '-ＥＡＧＬＥＳ ＡＲＭＹ -'
+      text: "-ƬRƠƳ ⱭRⱮƳ\_-"
       color: text-light
       styles:
         self:
