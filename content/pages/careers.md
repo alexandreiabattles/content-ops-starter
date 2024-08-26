@@ -269,7 +269,7 @@ sections:
           Egypt. Inspired by the god Horus, the falcon god, a great symbol of
           vision and divine power. Brave and loyal, the warriors of the Eagles
           are known for their determination in battle, **loyalty,**  fiercely
-          defending Kleopatra's legacy against any invaders
+          defending Kleopatra's legacy against any invaders.
 
 
           **STATE OF YOUR CITIES :**
