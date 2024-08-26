@@ -518,7 +518,7 @@ sections:
         subtitle: ''
         image:
           type: ImageBlock
-          url: /images/LIFE_BAR__1_-removebg-preview.png
+          url: /images/LIFE BAR (7).png
           altText: Chunky Cotton Knit Throw
           elementId: ''
           styles:
