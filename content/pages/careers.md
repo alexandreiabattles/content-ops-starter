@@ -314,7 +314,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: EAGLES ARMY
+      text: "TROY\_ ARMY"
       color: text-light
       styles:
         self:
