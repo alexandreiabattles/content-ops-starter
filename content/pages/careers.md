@@ -546,7 +546,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: "- TIME\_ :\_ \_3 MOTHS\_ 0 DAYS 0 HOUR"
+      text: ''
       color: text-dark
       styles:
         self:
