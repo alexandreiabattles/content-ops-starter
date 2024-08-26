@@ -1,0 +1,129 @@
+{
+    "model": "FeaturedItemsSection",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "Marcus Words.....",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "Marcus"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": {
+                    "$$type": "TitleBlock",
+                    "text": "-ＥＡＧＬＥＳ ＡＲＭＹ -",
+                    "color": "text-light",
+                    "styles": {
+                        "self": {
+                            "textAlign": "center"
+                        }
+                    }
+                },
+                "subtitle": null,
+                "items": [
+                    {
+                        "$$type": "FeaturedItem",
+                        "title": "ALEXANDREIA - EGYPT",
+                        "tagline": null,
+                        "subtitle": "EAGLES ARMY",
+                        "text": "ROYAL ARMY OF ALEXANDREIA  EGYPT\n\nOur faux fur is incredibly soft, plush and oh-so inviting. It's like the real deal (but better)!\n\nSTATE OF YOUR CITIES :\n\n\n\n100% HP\n\n",
+                        "image": {
+                            "$$type": "ImageBlock",
+                            "url": {
+                                "$$ref": "stackbit_asset_id:static:public/images/LOGO EAGLES 2.png",
+                                "$$type": "__asset_model"
+                            },
+                            "altText": "Faux Fur Throw",
+                            "elementId": "",
+                            "styles": {
+                                "self": {
+                                    "borderRadius": "medium",
+                                    "padding": [
+                                        "pt-0",
+                                        "pl-0",
+                                        "pb-0",
+                                        "pr-0"
+                                    ]
+                                }
+                            }
+                        },
+                        "actions": [],
+                        "elementId": null,
+                        "colors": "bg-dark-fg-light",
+                        "styles": {
+                            "self": {
+                                "padding": [
+                                    "pt-6",
+                                    "pl-6",
+                                    "pb-6",
+                                    "pr-6"
+                                ],
+                                "textAlign": "left",
+                                "borderColor": "border-neutralAlt",
+                                "borderWidth": 2,
+                                "borderRadius": "x-small",
+                                "flexDirection": "row-reverse",
+                                "justifyContent": "center",
+                                "borderStyle": "dotted"
+                            }
+                        }
+                    },
+                    {
+                        "$$type": "FeaturedItem",
+                        "title": "",
+                        "tagline": null,
+                        "subtitle": "",
+                        "text": null,
+                        "image": {
+                            "$$type": "ImageBlock",
+                            "url": {
+                                "$$ref": "stackbit_asset_id:static:public/images/LIFE_BAR__1_-removebg-preview.png",
+                                "$$type": "__asset_model"
+                            },
+                            "altText": "Chunky Cotton Knit Throw",
+                            "elementId": "",
+                            "styles": {
+                                "self": {
+                                    "borderRadius": "medium"
+                                }
+                            }
+                        },
+                        "actions": [],
+                        "elementId": null,
+                        "colors": "bg-dark-fg-light",
+                        "styles": {
+                            "self": {
+                                "flexDirection": "row"
+                            }
+                        }
+                    }
+                ],
+                "actions": [],
+                "badge": null,
+                "elementId": "",
+                "variant": "small-list",
+                "colors": "bg-dark-fg-light",
+                "backgroundImage": null,
+                "styles": {
+                    "self": {
+                        "padding": [
+                            "pt-0",
+                            "pl-0",
+                            "pb-0",
+                            "pr-0"
+                        ],
+                        "justifyContent": "center"
+                    },
+                    "subtitle": {
+                        "textAlign": "center"
+                    }
+                }
+            },
+            "thumbnail": "images/featured-items-section-marcus-words.....-1425.png"
+        }
+    ]
+}
