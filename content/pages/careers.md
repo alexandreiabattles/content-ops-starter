@@ -237,7 +237,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: EAGLES ARMY
+      text: ＥＡＧＬＥＳ ＡＲＭＹ
       color: text-light
       styles:
         self:
