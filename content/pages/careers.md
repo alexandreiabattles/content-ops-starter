@@ -652,7 +652,7 @@ sections:
 
           Under the command of Morrigan, a respected leader, the Kelt Army
           marches with determination. Lobo, their commander, is the
-          personification of courage, leading his warriors with more streght . 
+          personification of courage, leading his warriors with more streght .
 
 
           These soldiers fight as if each battle were their last, driven by the
@@ -660,7 +660,7 @@ sections:
           afraid of anything!.
 
 
-          STATE OF YOUR CITIES :
+          **STATE OF YOUR CITIES :**
 
 
           100% HP
