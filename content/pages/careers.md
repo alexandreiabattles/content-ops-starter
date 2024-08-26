@@ -516,21 +516,28 @@ sections:
       - type: FeaturedItem
         title: SEXTA FERRATA - ROME
         subtitle: EAGLES ARMY
-        text: >+
+        text: >
           ROYAL ARMY OF ALEXANDREIA  EGYPT
 
 
-          Our faux fur is incredibly soft, plush and oh-so inviting. It's like
-          the real deal (but better)!
+          Who said that Rome is weak?? - Sexta Ferrata Army Legion VI , one of
+          the most feared units of the Roman Empire. This legion, founded by
+          Julius Caesar, was known for its relentless strength, sustaining the
+          ability to endure in the toughest battles. Today, under the command of
+          the bold General Lord Lucas, the Sexta Ferrata revives that Roman
+          honor.
+
+
+
+
+
+
 
 
           STATE OF YOUR CITIES :
 
 
-
-
           100% HP
-
         image:
           type: ImageBlock
           url: /images/Sexta Ferrata nuovopng.png
