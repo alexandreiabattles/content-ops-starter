@@ -554,6 +554,92 @@ sections:
           - pl-12
           - pb-12
           - pr-12
+  - type: FeaturedItemsSection
+    title:
+      type: TitleBlock
+      text: '-ＥＡＧＬＥＳ ＡＲＭＹ -'
+      color: text-light
+      styles:
+        self:
+          textAlign: center
+    items:
+      - type: FeaturedItem
+        title: ALEXANDREIA - EGYPT
+        subtitle: EAGLES ARMY
+        text: >+
+          ROYAL ARMY OF ALEXANDREIA  EGYPT
+
+
+          Our faux fur is incredibly soft, plush and oh-so inviting. It's like
+          the real deal (but better)!
+
+
+          STATE OF YOUR CITIES :
+
+
+
+
+          100% HP
+
+        image:
+          type: ImageBlock
+          url: /images/LOGO EAGLES 2.png
+          altText: Faux Fur Throw
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+              padding:
+                - pt-0
+                - pl-0
+                - pb-0
+                - pr-0
+        actions: []
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-6
+              - pl-6
+              - pb-6
+              - pr-6
+            textAlign: left
+            borderColor: border-neutralAlt
+            borderWidth: 2
+            borderRadius: x-small
+            flexDirection: row-reverse
+            justifyContent: center
+            borderStyle: dotted
+      - type: FeaturedItem
+        title: ''
+        subtitle: ''
+        image:
+          type: ImageBlock
+          url: /images/LIFE_BAR__1_-removebg-preview.png
+          altText: Chunky Cotton Knit Throw
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            flexDirection: row
+    actions: []
+    elementId: ''
+    variant: small-list
+    colors: bg-dark-fg-light
+    styles:
+      self:
+        padding:
+          - pt-0
+          - pl-0
+          - pb-0
+          - pr-0
+        justifyContent: center
+      subtitle:
+        textAlign: center
   - type: GenericSection
     title:
       type: TitleBlock
