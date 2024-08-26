@@ -284,7 +284,7 @@ sections:
         subtitle: "oh Egypt... the streets seem to be safe..., the villagers promulgate that the gods are blessing your country, Egypt\_ \_ they are pleasing because of their warrior honors in battles! - First day of War."
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/LIFE_BAR__1_-removebg-preview.png
           altText: Chunky Cotton Knit Throw
           elementId: ''
           styles:
