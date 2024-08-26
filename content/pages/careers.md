@@ -639,7 +639,7 @@ sections:
     items:
       - type: FeaturedItem
         title: KELT ARMY -
-        subtitle: EAGLES ARMY
+        subtitle: ''
         text: >
           POWERFUL ARMY OF KELT
 
