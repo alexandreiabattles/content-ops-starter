@@ -644,7 +644,6 @@ sections:
           ROYAL ARMY OF ALEXANDREIA  EGYPT
 
 
-
           Kelt Army is for fierce Celtic warriors, led by the powerful **Queen
           Morrigan**, the very embodiment of war and her ruthless commander,
           **Lobo**. This army is known for its enormous strength inspired by
@@ -653,12 +652,12 @@ sections:
 
           Under the command of Morrigan, a respected leader, the Kelt Army
           marches with determination. Lobo, their commander, is the
-          personification of courage, leading his warriors with more streght .
+          personification of courage, leading his warriors with more streght . 
+
+
           These soldiers fight as if each battle were their last, driven by the
           belief that dying in combat is the greatest honor, the Celts are NOT
           afraid of anything!.
-
-
 
 
           STATE OF YOUR CITIES :
