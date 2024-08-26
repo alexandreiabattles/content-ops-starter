@@ -406,7 +406,7 @@ sections:
           that has shaken entire empires, their strength is legendary.
 
 
-          STATE OF YOUR CITIES :
+          **STATE OF YOUR CITIES :**
 
 
           100% HP
