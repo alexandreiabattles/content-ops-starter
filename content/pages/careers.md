@@ -639,7 +639,7 @@ sections:
     items:
       - type: FeaturedItem
         title: CELTIC KINGDOM
-        subtitle: ''
+        subtitle: Kelt Army
         text: >
           POWERFUL ARMY OF KELT
 
