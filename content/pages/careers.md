@@ -325,7 +325,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: "TROY\_ ARMY"
+      text: ƬRƠƳ ⱭRⱮƳ
       color: text-light
       styles:
         self:
