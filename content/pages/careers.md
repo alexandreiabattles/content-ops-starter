@@ -370,7 +370,7 @@ sections:
         text: "ROYAL ARMY OF ALEXANDREIA  EGYPT\n\nOur faux fur is incredibly soft, plush and oh-so inviting. It's like the real deal (but better)!\n\nSTATE OF YOUR CITIES :\n\n100% HP\n\n\n\noh Egypt... the streets seem to be safe..., the villagers promulgate that the gods are blessing your country, Egypt\_ \_ The Magnificent Horus is pleasing because of their honors warriors in battles! - First day of War\_ (EN)\_\n\n"
         image:
           type: ImageBlock
-          url: /images/LOGO EAGLES 2.png
+          url: /images/Troy-Logo-by-Ellen.png
           altText: Faux Fur Throw
           elementId: ''
           styles:
