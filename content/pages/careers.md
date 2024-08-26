@@ -394,7 +394,7 @@ sections:
     items:
       - type: FeaturedItem
         title: TROY ARMY - TROY
-        subtitle: EAGLES ARMY
+        subtitle: THE GREATEST ARMY
         text: >
           ROYAL ARMY OF  TROY
 
