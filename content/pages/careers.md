@@ -580,7 +580,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: '-አEረቶ ልዪጤሃ -'
+      text: '- ᏦᏋᏓͳ ᎯᎡᎷᎩ -'
       color: text-light
       styles:
         self:
