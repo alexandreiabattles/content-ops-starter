@@ -517,7 +517,7 @@ sections:
         title: SEXTA FERRATA - ROME
         subtitle: EAGLES ARMY
         text: >
-          ROYAL ARMY OF ALEXANDREIA  EGYPT
+          SEXTA FERRATA - 
 
 
           Who said that Rome is weak?? - Sexta Ferrata Army Legion VI , one of
@@ -526,12 +526,6 @@ sections:
           ability to endure in the toughest battles. Today, under the command of
           the bold General Lord Lucas, the Sexta Ferrata revives that Roman
           honor.
-
-
-
-
-
-
 
 
           STATE OF YOUR CITIES :
