@@ -457,7 +457,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: '- ＡＲＭＹ -'
+      text: "-\_S̱ƐX̱ƮⱭ ƑƐɌɌⱭƮⱭ ⱭɌMƳ -"
       color: text-light
       styles:
         self:
