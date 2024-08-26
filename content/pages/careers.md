@@ -276,6 +276,9 @@ sections:
 
 
           100% HP
+
+
+          HEALTHY
         image:
           type: ImageBlock
           url: /images/LOGO EAGLES 2.png
