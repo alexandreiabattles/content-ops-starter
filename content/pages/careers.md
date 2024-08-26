@@ -57,8 +57,8 @@ sections:
         title: ''
         subtitle: "Cities :\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ Memphis (Quiet) Alexandreia (Quiet) Pelusion (Quiet)\_ \_ \_ \_ \_ \_ Edfu (Quiet)\_ \_ \_ \_ \_ \_ \_ \_ Assuan (Quiet)"
         text: |+
-          | QUEEN KLEOPATRA | EAGLES ARMY | **0 pts** |
-          | --------------- | ----------- | --------- |
+          | QUEEN KLEOPATRA | **EAGLES ARMY** | **0 pts** |
+          | --------------- | --------------- | --------- |
 
         image:
           type: ImageBlock
@@ -113,8 +113,8 @@ sections:
         title: ''
         subtitle: "Cities :\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ Pergammon (Quiet),\_ \_ \_ \_ \_Ep--(Quiet) ,\_ \_ \_ \_ \_ \_ \_Smyrna (Quiet)\_ \_ \_ \_ Prusa (Quiet)\_ \_ \_ \_ \_ \_ \_ Troy (Quiet) // No Ephesus.. pending to look...."
         text: |+
-          | KING GIOVANNI | TROY ARMY | **0 pts** |
-          | ------------- | --------- | --------- |
+          | KING GIOVANNI | **TROY ARMY** | **0 pts** |
+          | ------------- | ------------- | --------- |
 
         image:
           type: ImageBlock
@@ -166,10 +166,10 @@ sections:
         title: ''
         subtitle: "Cities :\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ Lutecia (Quiet)\_ \_ \_ \_ \_ \_ \_ \_Brigantia(Quiet) Londinium (Quiet)\_ \_ \_ \_ \_Galatia (Quiet) Numancia (Quiet)"
         text: |+
-          **
 
-          | QUEEN MORRIGAN | KELT ARMY | **0 pts** |
-          | -------------- | --------- | --------- |
+
+          | QUEEN MORRIGAN | **KELT ARMY** | **0 pts** |
+          | -------------- | ------------- | --------- |
 
         image:
           type: ImageBlock
@@ -260,7 +260,32 @@ sections:
       - type: FeaturedItem
         title: ALEXANDREIA - EGYPT
         subtitle: EAGLES ARMY
-        text: "ROYAL ARMY OF ALEXANDREIA  EGYPT\n\nOur faux fur is incredibly soft, plush and oh-so inviting. It's like the real deal (but better)!\n\n**STATE OF YOUR CITIES :**\n\n100% HP\n\noh Egypt... the streets seem to be safe..., the villagers promulgate that the gods are blessing your country, Egypt\_ \_ The Magnificent Horus is pleasing because of their honors warriors in battles! - First day of War\n"
+        text: >
+          ROYAL ARMY OF ALEXANDREIA  EGYPT
+
+
+          Eagles Army is a group of dertimated warriors, dedicated to the
+          protection of the kingdom under magnificent **Queen Kleopatra VII** in
+          Ptolemaic Egypt. Inspired by the god Horus and Eagle Ptolemaic, the
+          falcon god, a great symbol of vision and divine power. The Eagle´s
+          warriors are brave, known for their determination in battle, loyalty, 
+          fiercely defending Kleopatra's legacy against any invaders.
+
+
+          Each blow of their swords resounds like thunder in the desert, and
+          their presence on the battlefield is enough to make their rivals fall.
+          Under the leadership of Kleopatra, the Eagles Army is more than an
+          army: it is the divine eye of Egypt, destined to crush any force that
+          threatens.
+
+
+          **STATE OF YOUR CITIES :**
+
+
+          100% HP
+
+
+          HEALTHY
         image:
           type: ImageBlock
           url: /images/LOGO EAGLES 2.png
@@ -370,7 +395,24 @@ sections:
       - type: FeaturedItem
         title: TROY ARMY - TROY
         subtitle: EAGLES ARMY
-        text: "ROYAL ARMY OF ALEXANDREIA  EGYPT\n\nOur faux fur is incredibly soft, plush and oh-so inviting. It's like the real deal (but better)!\n\nSTATE OF YOUR CITIES :\n\n100% HP\n\n\n\noh Egypt... the streets seem to be safe..., the villagers promulgate that the gods are blessing your country, Egypt\_ \_ The Magnificent Horus is pleasing because of their honors warriors in battles! - First day of War\_ (EN)\_\n\n"
+        text: >
+          ROYAL ARMY OF  TROY
+
+
+          Troy Army is a group of Trojan warriors, led by the formidable **King
+          Giovanni**. Forged in the legendary lands of Troy, these soldiers are
+          the reincarnation of strength and tenacity. Known for their brutality
+          in combat that makes any siege, the Troy Army fights with a ferocity
+          that has shaken entire empires, their strength is legendary.
+
+
+          **STATE OF YOUR CITIES :**
+
+
+          100% HP
+
+
+          HEALTHY
         image:
           type: ImageBlock
           url: /images/Troy-Logo-by-Ellen.png
@@ -468,22 +510,31 @@ sections:
     items:
       - type: FeaturedItem
         title: SEXTA FERRATA - ROME
-        subtitle: EAGLES ARMY
-        text: >+
-          ROYAL ARMY OF ALEXANDREIA  EGYPT
+        subtitle: LEGION VI
+        text: >
+          SEXTA FERRATA -
 
 
-          Our faux fur is incredibly soft, plush and oh-so inviting. It's like
-          the real deal (but better)!
+          Who said that Rome is weak?? - Sexta Ferrata Army Legion VI , one of
+          the most feared units of the Roman Empire. This legion, founded by
+          Julius Caesar, was known for its relentless strength, having the
+          ability to endure in the toughest battles. Today, under the command of
+          the bold **General Lord Lucas**, the Sexta Ferrata revives that Roman
+          honor.
 
 
-          STATE OF YOUR CITIES :
+          Their true history is marked by impossible conquests and battles where
+          they surpassed superior forces, consolidating the power of Rome in
+          each victory.
 
 
+          **STATE OF YOUR CITIES :**
 
 
           100% HP
 
+
+          HEALTHY
         image:
           type: ImageBlock
           url: /images/Sexta Ferrata nuovopng.png
@@ -587,23 +638,40 @@ sections:
           textAlign: center
     items:
       - type: FeaturedItem
-        title: ALEXANDREIA - EGYPT
-        subtitle: EAGLES ARMY
-        text: >+
-          ROYAL ARMY OF ALEXANDREIA  EGYPT
+        title: CELTIC KINGDOM
+        subtitle: Kelt Army
+        text: >
+          POWERFUL ARMY OF KELT
 
 
-          Our faux fur is incredibly soft, plush and oh-so inviting. It's like
-          the real deal (but better)!
+          Kelt Army is for fierce Celtic warriors, led by the powerful **Queen
+          Morrigan**, the very embodiment of war and her ruthless commander,
+          **Lobo**. This army is known for its enormous strength inspired by
+          Celtic heritage.
 
 
-          STATE OF YOUR CITIES :
+          Under the command of Morrigan, a respected leader, the Kelt Army
+          marches with determination. Lobo, their commander, is the
+          personification of courage, leading his warriors with more streght .
 
 
+          These warriors fight as if each battle were their last, driven by the
+          belief that dying in combat is the greatest honor!!, the Celts are NOT
+          afraid of anything!!. 
+
+
+
+          His famous Celtic phrase: CELTS! ATTACK FOR FREEDOM!
+
+
+
+          **STATE OF YOUR CITIES :**
 
 
           100% HP
 
+
+          HEALTHY
         image:
           type: ImageBlock
           url: /images/Screenshot_1.png
