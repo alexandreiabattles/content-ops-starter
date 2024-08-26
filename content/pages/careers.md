@@ -533,12 +533,13 @@ sections:
           each victory.
 
 
-
-
           STATE OF YOUR CITIES :
 
 
           100% HP
+
+
+          HEALTHY
         image:
           type: ImageBlock
           url: /images/Sexta Ferrata nuovopng.png
