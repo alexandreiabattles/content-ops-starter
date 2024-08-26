@@ -580,7 +580,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: '-ＥＡＧＬＥＳ ＡＲＭＹ -'
+      text: '-አEረቶ ልዪጤሃ -'
       color: text-light
       styles:
         self:
