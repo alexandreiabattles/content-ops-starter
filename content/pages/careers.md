@@ -244,18 +244,12 @@ sections:
       - type: FeaturedItem
         title: ALEXANDREIA - EGYPT
         subtitle: EAGLES ARMY
-        text: >+
-          Available in a range of colors and patterns, we make it easy to pick
-          the perfect look for you.
-
-
+        text: >
+          ROYAL ARMY OF ALEXANDREIA  EGYPT
 
 
           Our faux fur is incredibly soft, plush and oh-so inviting. It's like
           the real deal (but better)!
-
-
-
         image:
           type: ImageBlock
           url: /images/LOGO EAGLES 2.png
