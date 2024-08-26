@@ -467,7 +467,7 @@ sections:
           textAlign: center
     items:
       - type: FeaturedItem
-        title: ALEXANDREIA - EGYPT
+        title: SEXTA FERRATA - ROME
         subtitle: EAGLES ARMY
         text: >+
           ROYAL ARMY OF ALEXANDREIA  EGYPT
