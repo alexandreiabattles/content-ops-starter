@@ -515,7 +515,7 @@ sections:
     items:
       - type: FeaturedItem
         title: SEXTA FERRATA - ROME
-        subtitle: EAGLES ARMY
+        subtitle: LEGION VI
         text: >
           SEXTA FERRATA - 
 
