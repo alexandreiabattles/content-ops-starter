@@ -321,13 +321,6 @@ sections:
       subtitle:
         textAlign: center
   - type: FeaturedItemsSection
-    title:
-      type: TitleBlock
-      text: ''
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
     subtitle: ''
     items: []
     actions: []
