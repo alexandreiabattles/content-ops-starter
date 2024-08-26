@@ -287,7 +287,10 @@ sections:
             borderStyle: dotted
       - type: FeaturedItem
         title: STATE OF YOUR CITIES
-        subtitle: $117
+        subtitle: >-
+          Egypt is strong, the streets seem to be safe..., the villagers
+          promulgate that the gods are blessing Egypt because of their warrior
+          honors in battles -
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
