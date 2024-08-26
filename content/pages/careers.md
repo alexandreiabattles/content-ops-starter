@@ -638,7 +638,7 @@ sections:
           textAlign: center
     items:
       - type: FeaturedItem
-        title: KELT ARMY -
+        title: CELTIC KINGDOM
         subtitle: ''
         text: >
           POWERFUL ARMY OF KELT
