@@ -389,7 +389,7 @@ sections:
         title: TROY ARMY - TROY
         subtitle: EAGLES ARMY
         text: >
-          ROYAL ARMY OF ALEXANDREIA  EGYPT
+          ROYAL ARMY OF  TROY
 
 
           Troy Army is a group of Trojan warriors, led by the formidable **King
