@@ -51,7 +51,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: '- WAR Challenge - AW'
+    subtitle: '- *WAR Challenge - AW*'
     items:
       - type: FeaturedItem
         title: ''
