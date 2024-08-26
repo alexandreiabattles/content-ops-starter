@@ -640,21 +640,34 @@ sections:
       - type: FeaturedItem
         title: ALEXANDREIA - EGYPT
         subtitle: EAGLES ARMY
-        text: >+
+        text: >
           ROYAL ARMY OF ALEXANDREIA  EGYPT
 
 
-          Our faux fur is incredibly soft, plush and oh-so inviting. It's like
-          the real deal (but better)!
+
+          Kelt Army is for fierce Celtic warriors, led by the powerful **Queen
+          Morrigan**, the very embodiment of war and her ruthless commander,
+          **Lobo**. This army is known for its enormous strength inspired by
+          Celtic heritage.
+
+
+          Under the command of Morrigan, a respected leader, the Kelt Army
+          marches with determination. Lobo, their commander, is the
+          personification of courage, leading his warriors with more streght .
+          These soldiers fight as if each battle were their last, driven by the
+          belief that dying in combat is the greatest honor, the Celts are NOT
+          afraid of anything!.
+
+
 
 
           STATE OF YOUR CITIES :
 
 
-
-
           100% HP
 
+
+          HEALTHY
         image:
           type: ImageBlock
           url: /images/Screenshot_1.png
