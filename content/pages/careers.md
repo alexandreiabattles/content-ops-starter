@@ -260,25 +260,22 @@ sections:
       - type: FeaturedItem
         title: ALEXANDREIA - EGYPT
         subtitle: EAGLES ARMY
-        text: >+
+        text: >
           ROYAL ARMY OF ALEXANDREIA  EGYPT
 
 
-
-          Eagles Army is a group of elite warriors, dedicated to the protection
-          of the kingdom under the command of Queen Cleopatra in Ptolemaic
-          Egypt. Inspired by the god Horus, the falcon god, a great symbol of
-          vision and divine power. Brave and loyal, the soldiers of the Eagles
-          are known for their determination in battle, fiercely defending
-          Cleopatra's legacy against any invaders
-
+          Eagles Army is a group of pro and dertimated warriors, dedicated to
+          the protection of the kingdom under the command of Queen Cleopatra in
+          Ptolemaic Egypt. Inspired by the god Horus, the falcon god, a great
+          symbol of vision and divine power. Brave and loyal, the soldiers of
+          the Eagles are known for their determination in battle, fiercely
+          defending Cleopatra's legacy against any invaders
 
 
           **STATE OF YOUR CITIES :**
 
 
           100% HP
-
         image:
           type: ImageBlock
           url: /images/LOGO EAGLES 2.png
