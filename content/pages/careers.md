@@ -350,7 +350,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: "-ƬRƠƳ ⱭRⱮƳ\_-"
+      text: ƬRƠƳ ⱭRⱮƳ
       color: text-light
       styles:
         self:
