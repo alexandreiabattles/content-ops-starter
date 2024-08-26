@@ -457,7 +457,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: '-ＥＡＧＬＥＳ ＡＲＭＹ -'
+      text: '- ＡＲＭＹ -'
       color: text-light
       styles:
         self:
