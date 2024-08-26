@@ -11,10 +11,9 @@ sections:
         self:
           textAlign: center
     subtitle: WELCOME
-    text: |
+    text: |+
       \------------------------
 
-      A warrior must to fight... in any situation
     actions: []
     media:
       type: VideoBlock
