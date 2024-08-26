@@ -388,7 +388,26 @@ sections:
       - type: FeaturedItem
         title: TROY ARMY - TROY
         subtitle: EAGLES ARMY
-        text: "ROYAL ARMY OF ALEXANDREIA  EGYPT\n\nOur faux fur is incredibly soft, plush and oh-so inviting. It's like the real deal (but better)!\n\nSTATE OF YOUR CITIES :\n\n100% HP\n\n\n\noh Egypt... the streets seem to be safe..., the villagers promulgate that the gods are blessing your country, Egypt\_ \_ The Magnificent Horus is pleasing because of their honors warriors in battles! - First day of War\_ (EN)\_\n\n"
+        text: >
+          ROYAL ARMY OF ALEXANDREIA  EGYPT
+
+
+
+          Troy Army is a group of Trojan warriors, led by the formidable King
+          Giovanni. Forged in the legendary lands of Troy, these soldiers are
+          the reincarnation of strength and tenacity. Known for their brutality
+          in combat that makes any siege, the Troy Army fights with a ferocity
+          that has shaken entire empires, their strength is legendary.
+
+
+
+          STATE OF YOUR CITIES :
+
+
+          100% HP
+
+
+          HEALTHY
         image:
           type: ImageBlock
           url: /images/Troy-Logo-by-Ellen.png
