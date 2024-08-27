@@ -514,10 +514,13 @@ sections:
 
           Who said that Rome is weak?? - Sexta Ferrata Army Legion VI , one of
           the most feared units of the Roman Empire. This legion, founded by
-          Julius Caesar, was known for its relentless strength, having the
-          ability to endure in the toughest battles. Today, under the command of
-          the bold **General Lord Lucas**, the Sexta Ferrata revives that Roman
-          honor.
+          Julius Caesar and this legion was responds to **Queen Kleopatra** to
+          receive power and proctection.
+
+
+          Was known for its relentless strength, having the ability to endure in
+          the toughest battles. Today, under the command of the bold **General
+          Lord Lucas**, the Sexta Ferrata revives that Roman honor.
 
 
           Their true history is marked by impossible conquests and battles where
