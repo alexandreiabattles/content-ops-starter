@@ -80,12 +80,9 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: "Cities:\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_Brundisium (Quiet)\_ \_ \_ \_ \_Pompei(Quiet)\_ Capua(Quiet)\_ \_ \_ \_ \_ \_ \_ \_ Octodur (Quiet)\_ Roma(Quiet)"
-        text: >+
-          | GENERAL LORD |                                   **.SEXTA ARMY.**  |
-          **0 pts** |
-
-          | ------------ | --------------------------------------------------- |
-          --------- |
+        text: |+
+          | GENERAL LORD LUCAS | **SEXTA ARMY** | **0 pts** |
+          | ------------------ | -------------- | --------- |
 
         image:
           type: ImageBlock
@@ -112,8 +109,8 @@ sections:
         title: ''
         subtitle: "Cities :\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ Pergammon (Quiet),\_ \_ \_ \_ \_Ep--(Quiet) ,\_ \_ \_ \_ \_ \_ \_Smyrna (Quiet)\_ \_ \_ \_ Prusa (Quiet)\_ \_ \_ \_ \_ \_ \_ Troy (Quiet) // No Ephesus.. pending to look...."
         text: |+
-          | KING GIOVANNI | **TROY ARMY** | **0 pts** |
-          | ------------- | ------------- | --------- |
+          | KING GIOVANNI |                       **TROY ARMY** | **0 pts** |
+          | ------------- | ----------------------------------- | --------- |
 
         image:
           type: ImageBlock
@@ -165,10 +162,8 @@ sections:
         title: ''
         subtitle: "Cities :\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ Lutecia (Quiet)\_ \_ \_ \_ \_ \_ \_ \_Brigantia(Quiet) Londinium (Quiet)\_ \_ \_ \_ \_Galatia (Quiet) Numancia (Quiet)"
         text: |+
-
-
-          | QUEEN MORRIGAN | **KELT ARMY** | **0 pts** |
-          | -------------- | ------------- | --------- |
+          | QUEEN MORRIGAN | ***KELT ARMY*** | **0 pts** |
+          | -------------- | --------------- | --------- |
 
         image:
           type: ImageBlock
@@ -736,4 +731,6 @@ seo:
   metaTitle: Alexandreia - AW
   metaDescription: This is the careers page built with Netlify.
   metaTags: []
+  addTitleSuffix: true
+isDraft: true
 ---
