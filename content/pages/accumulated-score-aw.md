@@ -266,11 +266,14 @@ sections:
           defending Kleopatra's legacy against any invaders...
 
 
-          Each blow of their swords resounds like thunder in the desert, and
-          their presence on the battlefield is enough to make their rivals fall.
-          Under the leadership of Kleopatra, the Eagles Army is more than an
-          army: it is the divine eye of Egypt, destined to crush any force that
-          threatens.
+
+
+
+          **Prince Mavo** lead his warrior troops with great power, each blow of
+          their swords resounds like thunder in the desert, and their presence
+          on the battlefield is enough to make their rivals fall. Under the
+          leadership of Kleopatra, the Eagles Army is more than an army: it is
+          the divine eye of Egypt, destined to crush any force that threatens.
 
 
           **STATE OF YOUR CITIES :**
@@ -511,10 +514,14 @@ sections:
 
           Who said that Rome is weak?? - Sexta Ferrata Army Legion VI , one of
           the most feared units of the Roman Empire. This legion, founded by
-          Julius Caesar, was known for its relentless strength, having the
-          ability to endure in the toughest battles. Today, under the command of
-          the bold **General Lord Lucas**, the Sexta Ferrata revives that Roman
-          honor.
+          Julius Caesar to attack against Galia in past, later now this legion
+          is responds to **Queen Kleopatra** to receive proctection in these
+          times, and his decisions.
+
+
+          Was known for its relentless strength, having the ability to endure in
+          the toughest battles. Today, under the command of the bold **General
+          Lord Lucas**, the Sexta Ferrata revives that Roman honor.
 
 
           Their true history is marked by impossible conquests and battles where
