@@ -733,7 +733,7 @@ sections:
 slug: /Accumulated Score  AW
 seo:
   type: Seo
-  metaTitle: AW ALEXANDREIA
+  metaTitle: Alexandreia - AW
   metaDescription: This is the careers page built with Netlify.
   metaTags: []
 ---
