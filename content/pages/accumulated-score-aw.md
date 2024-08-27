@@ -516,7 +516,7 @@ sections:
           the most feared units of the Roman Empire. This legion, founded by
           Julius Caesar to attack against Galia in past, later now this legion
           was responds to **Queen Kleopatra** to receive proctection in these
-          times.
+          times, and his needs.
 
 
           Was known for its relentless strength, having the ability to endure in
