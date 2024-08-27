@@ -81,8 +81,8 @@ sections:
         title: ''
         subtitle: "Cities:\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_Brundisium (Quiet)\_ \_ \_ \_ \_Pompei(Quiet)\_ Capua(Quiet)\_ \_ \_ \_ \_ \_ \_ \_ Octodur (Quiet)\_ Roma(Quiet)"
         text: |+
-          | GENERAL LORD LUCAS | **.SEXTA ARMY.** | **0 pts** |
-          | ------------------ | ---------------- | --------- |
+          | GENERAL LORD LUCAS | **SEXTA ARMY** | **0 pts** |
+          | ------------------ | -------------- | --------- |
 
         image:
           type: ImageBlock
