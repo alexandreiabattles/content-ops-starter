@@ -514,8 +514,9 @@ sections:
 
           Who said that Rome is weak?? - Sexta Ferrata Army Legion VI , one of
           the most feared units of the Roman Empire. This legion, founded by
-          Julius Caesar and actually this legion was responds to **Queen
-          Kleopatra** to receive proctection.
+          Julius Caesar to attack against Galia in past, later now this legion
+          was responds to **Queen Kleopatra** to receive proctection in these
+          times.
 
 
           Was known for its relentless strength, having the ability to endure in
