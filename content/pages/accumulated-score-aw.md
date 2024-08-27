@@ -109,8 +109,8 @@ sections:
         title: ''
         subtitle: "Cities :\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ Pergammon (Quiet),\_ \_ \_ \_ \_Ep--(Quiet) ,\_ \_ \_ \_ \_ \_ \_Smyrna (Quiet)\_ \_ \_ \_ Prusa (Quiet)\_ \_ \_ \_ \_ \_ \_ Troy (Quiet) // No Ephesus.. pending to look...."
         text: |+
-          | KING GIOVANNI | **TROY ARMY** | **0 pts** |
-          | ------------- | ------------- | --------- |
+          | KING GIOVANNI       . | **TROY ARMY** | **0 pts** |
+          | --------------------- | ------------- | --------- |
 
         image:
           type: ImageBlock
