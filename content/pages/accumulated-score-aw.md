@@ -266,11 +266,14 @@ sections:
           defending Kleopatra's legacy against any invaders...
 
 
-          Each blow of their swords resounds like thunder in the desert, and
-          their presence on the battlefield is enough to make their rivals fall.
-          Under the leadership of Kleopatra, the Eagles Army is more than an
-          army: it is the divine eye of Egypt, destined to crush any force that
-          threatens.
+
+
+
+          **Prince Mavo** lead his warrior troops with great power, each blow of
+          their swords resounds like thunder in the desert, and their presence
+          on the battlefield is enough to make their rivals fall. Under the
+          leadership of Kleopatra, the Eagles Army is more than an army: it is
+          the divine eye of Egypt, destined to crush any force that threatens.
 
 
           **STATE OF YOUR CITIES :**
