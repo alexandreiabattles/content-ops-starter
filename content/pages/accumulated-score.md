@@ -730,7 +730,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-slug: /careers
+slug: /Accumulated Score
 seo:
   type: Seo
   metaTitle: Careers - Demo site
