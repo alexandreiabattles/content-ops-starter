@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: WELCOME
+    subtitle: WELCOME TO ANCIENT WORLD
     text: |+
       \------------------------
 
