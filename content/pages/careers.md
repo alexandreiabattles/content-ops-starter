@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Careers
+title: ''
 sections:
   - type: GenericSection
     title:
