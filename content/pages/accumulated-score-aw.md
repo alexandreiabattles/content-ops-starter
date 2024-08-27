@@ -162,10 +162,8 @@ sections:
         title: ''
         subtitle: "Cities :\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ Lutecia (Quiet)\_ \_ \_ \_ \_ \_ \_ \_Brigantia(Quiet) Londinium (Quiet)\_ \_ \_ \_ \_Galatia (Quiet) Numancia (Quiet)"
         text: |+
-
-
-          | QUEEN MORRIGAN | **KELT ARMY** | **0 pts** |
-          | -------------- | ------------- | --------- |
+          | QUEEN MORRIGAN | ***KELT ARMY*** | **0 pts** |
+          | -------------- | --------------- | --------- |
 
         image:
           type: ImageBlock
