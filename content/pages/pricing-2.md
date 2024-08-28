@@ -72,7 +72,7 @@ sections:
         padding:
           - pr-12
           - pl-12
-          - pb-12
+          - pb-60
 slug: pricing 2
 seo:
   type: Seo
