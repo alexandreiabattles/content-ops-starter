@@ -33,7 +33,7 @@ sections:
         iconPosition: right
         style: secondary
       - type: Link
-        label: See Tutorials
+        label: ls
         url: /
         showIcon: true
         icon: arrowRight
