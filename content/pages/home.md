@@ -718,35 +718,6 @@ sections:
       self:
         alignItems: center
         flexDirection: row-reverse
-  - type: FeaturedItemsSection
-    title:
-      type: TitleBlock
-      text: ''
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    subtitle: ''
-    items: []
-    actions:
-      - type: Button
-        label: Apply now
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-    variant: toggle-list
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pb-40
-          - pt-16
-          - pl-3
-          - pr-3
-        justifyContent: center
-      subtitle:
-        textAlign: center
   - type: DividerSection
     title: Divider
     colors: bg-dark-fg-light
