@@ -69,6 +69,8 @@ sections:
       self:
         alignItems: center
         flexDirection: row-reverse
+        padding:
+          - pr-6
 slug: pricing 2
 seo:
   type: Seo
