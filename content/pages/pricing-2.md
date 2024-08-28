@@ -12,7 +12,6 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/KLEOPATRA INTRODUCTIONN.png
       altText: Dope design preview
       styles:
         self:
