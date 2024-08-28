@@ -71,7 +71,7 @@ sections:
         flexDirection: row-reverse
         padding:
           - pr-28
-          - pl-12
+          - pl-56
           - pb-60
 slug: pricing 2
 seo:
