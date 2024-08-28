@@ -50,7 +50,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/LIFE_BAR__12_-removebg-preview.png
+      url: /images/abstract-feature3.svg
       altText: Dope design preview
       styles:
         self:
