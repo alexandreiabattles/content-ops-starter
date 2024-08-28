@@ -70,7 +70,7 @@ sections:
         alignItems: center
         flexDirection: row-reverse
         padding:
-          - pr-6
+          - pr-12
           - pl-12
           - pb-6
 slug: pricing 2
