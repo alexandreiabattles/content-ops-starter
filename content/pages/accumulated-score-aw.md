@@ -107,7 +107,7 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: ''
-        subtitle: "Cities :\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ Abydus (Quiet)\_ \_ \_ \_ Dardanus (Quiet)\_ \_Sestus (Quiet)\_ \_ \_ Zeleia(Quiet)\_ \_ ."
+        subtitle: "Cities :\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ Abydus (Quiet)\_ \_ \_ \_ Dardanus (Quiet)\_ \_ \_ \_ \_ \_ \_ \_ \_ \_Troy (Quiet)\_ \_\_\_\_Sestus (Quiet)\_ \_ \_ Zeleia(Quiet)\_ \_ ."
         text: |+
           | KING GIOVANNI |                       **TROY ARMY** | **0 pts** |
           | ------------- | ----------------------------------- | --------- |
