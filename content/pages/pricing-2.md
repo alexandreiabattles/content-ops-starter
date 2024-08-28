@@ -50,7 +50,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/abstract-feature3.svg
+      url: /images/342424242_001.png
       altText: Dope design preview
       styles:
         self:
