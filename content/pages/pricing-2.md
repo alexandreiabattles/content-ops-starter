@@ -53,7 +53,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/KLEOPATRA INTRODUCTIONN.png
+      url: /images/LIFE_BAR__12_-removebg-preview.png
       altText: Dope design preview
       styles:
         self:
