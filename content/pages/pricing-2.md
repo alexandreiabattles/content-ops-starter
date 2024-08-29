@@ -175,7 +175,7 @@ sections:
 slug: pricing 2
 seo:
   type: Seo
-  metaTitle: Pricing - Demo site
+  metaTitle: 'The Libray '
   metaDescription: This is the pricing page built with Netlify Create.
   socialImage: /images/main-hero.jpg
   metaTags: []
