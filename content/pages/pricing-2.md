@@ -176,7 +176,7 @@ slug: pricing 2
 seo:
   type: Seo
   metaTitle: 'The Libray '
-  metaDescription: This is the pricing page built with Netlify Create.
+  metaDescription: The Libray a nice place to discover
   socialImage: /images/main-hero.jpg
   metaTags: []
 ---
