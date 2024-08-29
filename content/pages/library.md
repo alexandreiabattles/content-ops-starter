@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Library
+title: The Library
 sections:
   - type: DividerSection
     title: Divider
