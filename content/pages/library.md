@@ -172,7 +172,7 @@ sections:
           - pr-28
           - pl-56
           - pb-60
-slug: pricing 2
+slug: Library
 seo:
   type: Seo
   metaTitle: 'The Libray '
