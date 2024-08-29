@@ -57,7 +57,7 @@ sections:
         flexDirection: row-reverse
         padding:
           - pr-10
-          - pl-11
+          - pl-14
   - type: DividerSection
     title: Divider
     elementId: ''
