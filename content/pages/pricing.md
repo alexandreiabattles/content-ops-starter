@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Pricing
+title: Special Events
 sections:
   - type: PricingSection
     title:
