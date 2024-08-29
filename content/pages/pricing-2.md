@@ -39,7 +39,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/KLEOPATRA INTRODUCTIONN.png
+      url: /images/dsadda.jpg
       altText: Dope design preview
       styles:
         self:
