@@ -80,7 +80,7 @@ sections:
     subtitle: Featured items section subtitle
     items:
       - type: FeaturedItem
-        title: Feature Item Three
+        title: ''
         tagline: This is the tagline
         subtitle: ''
         text: ''
