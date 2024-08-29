@@ -72,7 +72,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: List of features here
+      text: ALEXANDER THE GREAT
       color: text-primary
       styles:
         self:
