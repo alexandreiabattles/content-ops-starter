@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Pricing 2
+title: Library
 sections:
   - type: DividerSection
     title: Divider
