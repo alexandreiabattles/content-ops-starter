@@ -11,9 +11,8 @@ sections:
         self:
           textAlign: center
     subtitle: WELCOME TO ANCIENT WORLD
-    text: |+
-      \------------------------
-
+    text: |
+      \---------------------------
     actions: []
     media:
       type: VideoBlock
