@@ -29,6 +29,35 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: ''
+      color: text-dark
+    subtitle: ''
+    text: ''
+    actions: []
+    media:
+      type: ImageBlock
+      url: /images/dsadda.jpg
+      altText: Dope design preview
+      styles:
+        self:
+          padding:
+            - pr-80
+            - pl-80
+    badge:
+      type: Badge
+      label: ''
+      color: text-primary
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row-reverse
+        padding:
+          - pr-10
+          - pl-44
   - type: DividerSection
     title: Divider
     elementId: ''
@@ -40,6 +69,80 @@ sections:
           - pl-3
           - pb-3
           - pr-3
+  - type: FeaturedItemsSection
+    title:
+      type: TitleBlock
+      text: T
+      color: text-primary
+      styles:
+        self:
+          textAlign: center
+    subtitle: Featured items section subtitle
+    items:
+      - type: FeaturedItem
+        title: ''
+        tagline: ''
+        subtitle: ''
+        text: ''
+        image:
+          type: ImageBlock
+          altText: Placeholder image
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+      - type: FeaturedItem
+        title: 500k
+        subtitle: Numbers Done
+        text: >
+          **Origin :** In addition to serving as a demonstration of the power of
+          the Ptolemaic rulers, it played an important role in the development
+          of Alexandria as the successor to Athens as a center promoting Greek
+          culture.
+        image:
+          type: ImageBlock
+          url: /images/icon1.svg
+          altText: Placeholder text
+          elementId: ''
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            justifyContent: center
+            textAlign: left
+    actions: []
+    variant: three-col-grid
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pl-8
+          - pb-16
+          - pr-8
+        justifyContent: center
+      subtitle:
+        textAlign: center
   - type: GenericSection
     title:
       type: TitleBlock
@@ -50,7 +153,6 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/abstract-feature3.svg
       altText: Dope design preview
       styles:
         self:
