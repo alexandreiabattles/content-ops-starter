@@ -498,7 +498,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: SEXTA ARMY
+      text: "\U0001D4E2\U0001D4D4\U0001D4E7\U0001D4E3\U0001D4D0\_ \_\U0001D4D5\U0001D4D4\U0001D4E1\U0001D4E1\U0001D4D0\U0001D4E3\U0001D4D0"
       color: text-light
       styles:
         self:
