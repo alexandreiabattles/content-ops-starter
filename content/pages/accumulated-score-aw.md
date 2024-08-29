@@ -498,7 +498,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: ''
+      text: SΣXTA FΣЯЯATA
       color: text-light
       styles:
         self:
