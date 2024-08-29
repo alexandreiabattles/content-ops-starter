@@ -21,7 +21,7 @@ sections:
 slug: market
 seo:
   type: Seo
-  metaTitle: Pricing - Demo site
+  metaTitle: Alexandreia - Kemet Market Site
   metaDescription: This is the pricing page built with Netlify Create.
   socialImage: /images/main-hero.jpg
   metaTags: []
