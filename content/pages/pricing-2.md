@@ -103,7 +103,7 @@ sections:
             flexDirection: col
       - type: FeaturedItem
         title: 500k
-        subtitle: Numbers Done
+        subtitle: ''
         text: >
           **Origin :** In addition to serving as a demonstration of the power of
           the Ptolemaic rulers, it played an important role in the development
