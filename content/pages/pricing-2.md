@@ -104,14 +104,11 @@ sections:
       - type: FeaturedItem
         title: 500k
         subtitle: Numbers Done
-        text: >+
-          Libray Origin : In addition to serving as a demonstration of the power
-          of the Ptolemaic rulers, it played an important role in the
-          development of Alexandria as the successor to Athens as a center
-          promoting Greek culture.
-
-
-
+        text: >
+          **Origin :** In addition to serving as a demonstration of the power of
+          the Ptolemaic rulers, it played an important role in the development
+          of Alexandria as the successor to Athens as a center promoting Greek
+          culture.
         image:
           type: ImageBlock
           url: /images/icon1.svg
