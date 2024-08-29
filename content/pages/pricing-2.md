@@ -102,7 +102,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: 500k
+        title: ''
         subtitle: ''
         text: >
           **Origin :** In addition to serving as a demonstration of the power of
