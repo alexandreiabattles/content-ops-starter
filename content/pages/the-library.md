@@ -172,7 +172,7 @@ sections:
           - pr-28
           - pl-56
           - pb-60
-slug: Library
+slug: The Library
 seo:
   type: Seo
   metaTitle: 'The Libray '
