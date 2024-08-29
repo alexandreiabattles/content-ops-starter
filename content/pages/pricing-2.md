@@ -102,8 +102,8 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: 500k
-        subtitle: Numbers Done
+        title: ''
+        subtitle: ''
         text: >
           **Origin :** In addition to serving as a demonstration of the power of
           the Ptolemaic rulers, it played an important role in the development
@@ -175,8 +175,8 @@ sections:
 slug: pricing 2
 seo:
   type: Seo
-  metaTitle: Pricing - Demo site
-  metaDescription: This is the pricing page built with Netlify Create.
+  metaTitle: 'The Libray '
+  metaDescription: The Libray a nice place to discover
   socialImage: /images/main-hero.jpg
   metaTags: []
 ---
