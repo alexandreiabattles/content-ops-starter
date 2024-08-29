@@ -72,7 +72,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: ALEXANDER THE GREAT
+      text: T
       color: text-primary
       styles:
         self:
