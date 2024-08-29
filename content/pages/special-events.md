@@ -21,7 +21,7 @@ sections:
 slug: Special Events
 seo:
   type: Seo
-  metaTitle: 'Special Events - Alexandreia '
+  metaTitle: Alexandreia -Special Events
   metaDescription: This is the pricing page built with Netlify Create.
   socialImage: /images/main-hero.jpg
   metaTags: []
