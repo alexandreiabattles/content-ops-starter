@@ -18,7 +18,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-slug: pricing
+slug: Special Events
 seo:
   type: Seo
   metaTitle: Pricing - Demo site
