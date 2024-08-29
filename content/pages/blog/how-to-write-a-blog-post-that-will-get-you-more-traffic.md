@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: Prince Mav - Mav
+title: Medical Section
 slug: how-to-write-a-blog-post-that-will-get-you-more-traffic
 date: '2024-01-01'
 excerpt: >-
