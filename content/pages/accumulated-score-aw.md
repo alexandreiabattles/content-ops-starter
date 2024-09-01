@@ -395,11 +395,11 @@ sections:
           ROYAL ARMY OF  TROY
 
 
-          Troy Army is a group of Trojan warriors, led by the formidable
-          **King**  Forged in the legendary lands of Troy, these soldiers are
-          the reincarnation of strength and tenacity. Known for their brutality
-          in combat that makes any siege, the Troy Army fights with a ferocity
-          that has shaken entire empires, their strength is legendary.
+          Troy Army is a group of Trojan warriors, led by the formidable **King
+          Selim**  Forged in the legendary lands of Troy, these soldiers are the
+          reincarnation of strength and tenacity. Known for their brutality in
+          combat that makes any siege, the Troy Army fights with a ferocity that
+          has shaken entire empires, their strength is legendary.
 
 
           **STATE OF YOUR CITIES :**
