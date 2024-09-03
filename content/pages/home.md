@@ -256,7 +256,7 @@ sections:
           **Prince Mavo** - *Alexandreia, Eagles* - : username : 1mavo
 
 
-          **King Giovanni** : - Troy - : username : caudaceo
+          **King Selim** : - Troy - : username : selimm
 
 
           **General Lord Lucas** - *Rome -*  / username  : lordlucas.stormcrow
@@ -605,7 +605,8 @@ sections:
 
       3th : VALKIRIA !  :  -ATHENS SIM-
 
-      \*\*\*SPONSORS : QUEEN KLEOPATRA - KING GIOVANNI  \*\*\*
+      \*\*\*SPONSORS : QUEEN KLEOPATRA\*\*\*
+
 
       Date : July 7
     actions: []
