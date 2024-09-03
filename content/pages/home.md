@@ -605,7 +605,8 @@ sections:
 
       3th : VALKIRIA !  :  -ATHENS SIM-
 
-      \*\*\*SPONSORS : QUEEN KLEOPATRA 
+      \*\*\*SPONSORS : QUEEN KLEOPATRA\*\*\*
+
 
       Date : July 7
     actions: []
