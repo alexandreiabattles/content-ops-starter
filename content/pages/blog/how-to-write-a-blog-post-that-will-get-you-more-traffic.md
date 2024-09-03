@@ -61,5 +61,4 @@ styles:
     flexDirection: row
     borderColor: border-dark
 ---
-In this store you will find especially, weapons with touches of fantasy, also other items such as wings.., these weapons are extremely fast and designed by a warrior prince - Mavo
-
+In this store you will find especially, weapons with touches of fantasy, also other items such as wings.., these weapons are extremely fast and designed by a warrior prince !! - Mavo
