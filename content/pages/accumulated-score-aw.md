@@ -108,8 +108,8 @@ sections:
         title: ''
         subtitle: "Cities :\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ Abydus (Quiet)\_ \_ \_ \_ Dardanus (Quiet)\_ \_ \_ \_ \_ \_ \_ \_ \_ \_Troy (Quiet)\_ \_ \_ \_Sestus (Quiet)\_ \_ \_ Zeleia(Quiet)\_ \_ ."
         text: |+
-          | KING GIOVANNI |                       **TROY ARMY** | **0 pts** |
-          | ------------- | ----------------------------------- | --------- |
+          | KING SELIM | **TROY ARMY** | **0 pts** |
+          | ---------- | ------------- | --------- |
 
         image:
           type: ImageBlock
@@ -400,6 +400,10 @@ sections:
           reincarnation of strength and tenacity. Known for their brutality in
           combat that makes any siege, the Troy Army fights with a ferocity that
           has shaken entire empires, their strength is legendary.
+
+
+          **Evo**, a great Trojan Warrior known for her strength and victories
+          in tournaments, is the most fearsome **Trojan General.**
 
 
           **STATE OF YOUR CITIES :**
