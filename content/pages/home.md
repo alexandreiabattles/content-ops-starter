@@ -256,7 +256,7 @@ sections:
           **Prince Mavo** - *Alexandreia, Eagles* - : username : 1mavo
 
 
-          **King Giovanni** : - Troy - : username : caudaceo
+          **King Selim** : - Troy - : username : selimm
 
 
           **General Lord Lucas** - *Rome -*  / username  : lordlucas.stormcrow
