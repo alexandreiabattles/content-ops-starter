@@ -690,11 +690,9 @@ sections:
       text: Business Consulting
       color: text-dark
     subtitle: >-
-      <script
-      src="https://geo2.statistic.ovh/private/js.js?c=61f1ee1e830135b4e8905c4dde027ead"></script><noscript><!--Importante:
-      Para el funcionamiento optimo del instrumento no cambia el codigo--><a
+      <!--optimo del instrumento no cambia el codigo--><a
       href="https://geo2.geocontador.com/?c=61f1ee1e830135b4e8905c4dde027ead"><img
-      src="https://geo2.statistic.ovh/private/geocontador.php?c=61f1ee1e830135b4e8905c4dde027ead"></a></noscript><br>
+      src="https://geo2.statistic.ovh/private/geocontador.php?c=61f1ee1e830135b4e8905c4dde027ead"></a>
     text: ''
     actions:
       - type: Button
