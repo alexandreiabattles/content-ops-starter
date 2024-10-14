@@ -142,7 +142,7 @@ sections:
             borderStyle: dashed
     actions:
       - type: Button
-        label: BE PART OF OUR FAMILY
+        label: DISCOVER OUR ARMIES here
         altText: ''
         url: /
         showIcon: false
