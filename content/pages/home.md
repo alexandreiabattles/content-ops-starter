@@ -801,6 +801,7 @@ sections:
         flexDirection: row-reverse
         padding:
           - pt-48
+          - pr-28
     backgroundImage:
       type: BackgroundImage
       altText: altText of the image
