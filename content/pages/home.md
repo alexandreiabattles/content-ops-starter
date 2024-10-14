@@ -107,7 +107,7 @@ sections:
             borderStyle: dashed
       - type: FeaturedItem
         title: ALEXANDREIA
-        subtitle: Are.....
+        subtitle: IS.....
         text: >
           **PARTIES!** There are too many parties and activities! We have too
           many casual, fun parties, costume contests, KLEO CLUB being in
