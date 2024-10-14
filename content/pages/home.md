@@ -78,9 +78,9 @@ sections:
         title: ALEXANDREIA
         subtitle: Are.....
         text: >
-          PARTIES! There are too many parties and activities! We have too many
-          casual, fun parties, costume contests, KLEO CLUB being in Alexandreia
-          means knowing how to have fun.
+          **PARTIES!** There are too many parties and activities! We have too
+          many casual, fun parties, costume contests, KLEO CLUB being in
+          Alexandreia means knowing how to have fun.
         image:
           type: ImageBlock
           url: /images/icon2.svg
