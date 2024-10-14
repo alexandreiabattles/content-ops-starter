@@ -115,8 +115,7 @@ sections:
           other activities such as roleplay, RP events and open raids.
         image:
           type: ImageBlock
-          url: >-
-            /images/from_giovanni_battista_belzoni-_egyptian_race_portrayed_in_the_book_of_gates.webp
+          url: /images/Machimoi_sketch.bmp
           altText: Placeholder image
           elementId: ''
           styles:
