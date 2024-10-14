@@ -773,13 +773,6 @@ sections:
       self:
         alignItems: center
         flexDirection: row-reverse
-    backgroundImage:
-      type: BackgroundImage
-      altText: altText of the image
-      backgroundSize: auto
-      backgroundPosition: center
-      backgroundRepeat: no-repeat
-      opacity: 100
   - type: CarouselSection
     subtitle: Few words...
     items:
