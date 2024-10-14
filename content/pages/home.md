@@ -910,7 +910,7 @@ sections:
             I also accept that this message has a business, interest or friendly
             purpose.
           isRequired: false
-          width: full
+          width: 1/2
       submitButton:
         type: SubmitButtonFormControl
         label: Submit
