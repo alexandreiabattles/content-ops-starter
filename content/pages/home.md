@@ -792,7 +792,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/A344242342_001.png
+          url: /images/Diseño sin título.svg
           altText: Macurs Antyllus
           styles:
             self:
