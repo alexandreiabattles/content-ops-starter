@@ -77,15 +77,10 @@ sections:
       - type: FeaturedItem
         title: ALEXANDREIA
         subtitle: Are.....
-        text: >+
-          There are too many parties and activities! We have too many casual,
-          fun parties, costume contests, being in Alexandreia means knowing how
-          to have fun.
-
-
-
-
-
+        text: >
+          PARTIES! There are too many parties and activities! We have too many
+          casual, fun parties, costume contests, being in Alexandreia means
+          knowing how to have fun.
         image:
           type: ImageBlock
           url: /images/icon2.svg
