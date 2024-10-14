@@ -790,15 +790,6 @@ sections:
     subtitle: ''
     text: ''
     actions: []
-    media:
-      type: ImageBlock
-      url: /images/KLEOPATRA INTRODUCTIONN.png
-      altText: Dope design preview
-      styles:
-        self:
-          padding:
-            - pr-80
-            - pl-80
     badge:
       type: Badge
       label: ''
