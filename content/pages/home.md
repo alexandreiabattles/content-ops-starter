@@ -119,7 +119,7 @@ sections:
           ( Photo :  - Ptolemaic  Soldier from ***Ptolomeo Soter I*** era -)
         image:
           type: ImageBlock
-          url: /images/02beface5e92cf7c7a3b340847890580.png
+          url: /images/7397aeedfdb369a128d25e3f635b733c.jpg
           altText: A Ptolemaic Warrior from first period
           elementId: ''
           styles:
