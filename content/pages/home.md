@@ -905,12 +905,12 @@ sections:
           isRequired: false
           width: full
         - type: CheckboxFormControl
-          name: updates
+          name: Other Porpuse
           label: >-
             I also accept that this message has a business, interest or friendly
             purpose.
           isRequired: false
-          width: full
+          width: 1/2
       submitButton:
         type: SubmitButtonFormControl
         label: Submit
