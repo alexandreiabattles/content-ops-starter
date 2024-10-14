@@ -906,7 +906,9 @@ sections:
           width: full
         - type: CheckboxFormControl
           name: updates
-          label: I have read and accept the legal terms.
+          label: >-
+            I also accept that this message has a business, interest or friendly
+            purpose.
           isRequired: false
           width: full
       submitButton:
