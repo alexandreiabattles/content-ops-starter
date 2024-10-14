@@ -1,0 +1,57 @@
+{
+    "model": "FeaturedItem",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "Prueba A2 text",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "Marcus"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": "ALEXANDREIA",
+                "tagline": null,
+                "subtitle": "IS ...",
+                "text": "**INTERNATIONAL :**\nWe defend our identities, differences, origins, and praise a diverse community. Any disrespectful comment about it, is enough to know that Alexandreia is not your place.. we encourage, we love, we open minded .. we are sisterhood / brotherhood - and for sure, we learn.\n",
+                "image": {
+                    "$$type": "ImageBlock",
+                    "url": {
+                        "$$ref": "stackbit_asset_id:static:public/images/from_giovanni_battista_belzoni-_egyptian_race_portrayed_in_the_book_of_gates.webp",
+                        "$$type": "__asset_model"
+                    },
+                    "altText": "Placeholder image",
+                    "elementId": "",
+                    "styles": {
+                        "self": {
+                            "borderRadius": "x-large"
+                        }
+                    }
+                },
+                "actions": [],
+                "elementId": null,
+                "colors": "bg-neutralAlt-fg-dark",
+                "styles": {
+                    "self": {
+                        "padding": [
+                            "pt-8",
+                            "pl-8",
+                            "pb-8",
+                            "pr-8"
+                        ],
+                        "borderRadius": "x-large",
+                        "flexDirection": "col",
+                        "justifyContent": "flex-end",
+                        "textAlign": "left",
+                        "borderColor": "border-dark",
+                        "borderStyle": "dashed"
+                    }
+                }
+            },
+            "thumbnail": "images/featured-item-prueba-a2-text-d10b.png"
+        }
+    ]
+}
