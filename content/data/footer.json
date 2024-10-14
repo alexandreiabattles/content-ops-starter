@@ -6,41 +6,52 @@
     },
     "text": "ALEXANDREIA ALLIANCE--- RP-- AW\n",
     "primaryLinks": {
-        "title": "Product",
+        "title": "NEWS - BLOG",
         "links": [
             {
-                "label": "Pricing",
-                "url": "/pricing",
+                "label": "Blog",
+                "url": "https://alexandreiaresults.netlify.app/blog/",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
                 "type": "Link"
             },
             {
-                "label": "Documentation",
-                "url": "/",
+                "label": "Special Events",
+                "url": "https://alexandreiaresults.netlify.app/Special%20Events/",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
                 "type": "Link"
+            },
+            {
+                "type": "Link",
+                "label": "Kemet Market",
+                "altText": "",
+                "url": "https://alexandreiaresults.netlify.app/market/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
             }
         ],
         "type": "FooterLinksGroup"
     },
     "secondaryLinks": {
-        "title": "Company",
+        "title": "ancient world DSB",
         "links": [
             {
-                "label": "Careers",
+                "label": "Armies - ANCIENT WORLD",
                 "altText": "careers page",
-                "url": "/careers",
+                "url": "https://alexandreiaresults.netlify.app/Accumulated%20Score%20%20AW/",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
                 "type": "Link"
             },
             {
-                "label": "Blog",
+                "label": "Alexandreia Electronic Library - Building-",
                 "url": "/blog",
                 "icon": "arrowRight",
                 "iconPosition": "right",
@@ -52,21 +63,9 @@
     },
     "socialLinks": [
         {
-            "altText": "GitHub link",
-            "url": "https://github.com/netlify",
-            "icon": "github",
-            "type": "Social"
-        },
-        {
             "altText": "Twitter link",
-            "url": "https://twitter.com/netlify",
+            "url": "https://x.com/Alexandreia_SL",
             "icon": "twitter",
-            "type": "Social"
-        },
-        {
-            "altText": "LinkedIn link",
-            "url": "https://www.linkedin.com/company/netlify",
-            "icon": "linkedin",
             "type": "Social"
         },
         {
@@ -74,6 +73,13 @@
             "url": "/",
             "icon": "mail",
             "type": "Social"
+        },
+        {
+            "type": "Social",
+            "altText": "YouTube icon",
+            "url": "https://www.youtube.com/@AlexandreiaStudios",
+            "icon": "youtube",
+            "elementId": ""
         }
     ],
     "legalLinks": [
@@ -94,7 +100,7 @@
             "type": "Link"
         }
     ],
-    "copyrightText": "We thanks to [Netlify Create](https://www.netlify.com/platform/create/)\n\nALEXANDREIA PAGE - ALL RIGHTS RESERVED\n\n\n\n",
+    "copyrightText": "We thanks to [Netlify Create, a wonderful company,](https://www.netlify.com/platform/create/)\n\nALEXANDREIA WEB - ALL RIGHTS RESERVED\n",
     "colors": "bg-dark-fg-light",
     "type": "Footer"
 }
