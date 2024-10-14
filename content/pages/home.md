@@ -76,7 +76,7 @@ sections:
             borderStyle: dashed
       - type: FeaturedItem
         title: ALEXANDREIA
-        subtitle: IS ...
+        subtitle: ARE ...
         text: >
           **INTERNATIONAL :**
 
