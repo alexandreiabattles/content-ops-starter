@@ -83,7 +83,7 @@ sections:
           Alexandreia means knowing how to have fun.
         image:
           type: ImageBlock
-          url: /images/egipt-pic905-895x505-89360.jpg
+          url: /images/Queen_Chalice_img tarot 17165.jpg
           altText: Placeholder image
           elementId: ''
         actions: []
