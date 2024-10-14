@@ -820,7 +820,8 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/A344242342_001.png
+          url: >-
+            /images/e5062d09f4ba9be0a8c8adc17337707b--egyptian-mythology-egyptian-art-removebg-preview.png
           altText: Macurs Antyllus
           styles:
             self:
