@@ -772,6 +772,8 @@ sections:
       self:
         alignItems: center
         flexDirection: row-reverse
+        padding:
+          - pr-10
     backgroundImage:
       type: BackgroundImage
       altText: ''
