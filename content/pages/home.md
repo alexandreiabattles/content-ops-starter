@@ -77,13 +77,11 @@ sections:
       - type: FeaturedItem
         title: ALEXANDREIA
         subtitle: ARE ...
-        text: >
-          **INTERNATIONAL :**
+        text: >+
+          **PARTIES!** There are too many parties and activities! We have too
+          many casual, fun parties, costume contests, KLEO CLUB being in
+          Alexandreia means knowing how to have fun.
 
-          We defend our identities, differences, origins, and praise a diverse
-          community. Any disrespectful comment about it, is enough to know that
-          Alexandreia is not your place.. we encourage, we love, we open minded
-          .. we are sisterhood / brotherhood - and for sure, we learn.
         image:
           type: ImageBlock
           url: >-
