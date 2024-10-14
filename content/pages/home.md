@@ -144,7 +144,7 @@ sections:
       - type: Button
         label: DISCOVER OUR ARMIES here
         altText: ''
-        url: '/https://alexandreiaresults.netlify.app/Accumulated%20Score%20%20AW/'
+        url: 'https://alexandreiaresults.netlify.app/Accumulated%20Score%20%20AW/'
         showIcon: false
         icon: arrowRight
         iconPosition: right
