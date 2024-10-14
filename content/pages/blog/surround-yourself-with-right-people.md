@@ -6,7 +6,6 @@ excerpt: "My dear uncle Mav is back, his nephew has written this little - sweet 
 featuredImage:
   altText: Thumbnail
   type: ImageBlock
-  url: /images/Screenshot_3.png
   styles:
     self:
       borderRadius: medium
