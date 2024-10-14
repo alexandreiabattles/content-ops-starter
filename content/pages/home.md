@@ -108,13 +108,13 @@ sections:
       - type: FeaturedItem
         title: ALEXANDREIA
         subtitle: IS ...
-        text: >
-          **INTERNATIONAL :**
+        text: >+
+          **A C T I O N  :** We are a community with more action, ancient world
+          is within us. In Alexandreia you will find three armies, which will be
+          subject to fighting.We also encourage you to participate in other
+          activities such as roleplay, RP events and open raids.
 
-          We defend our identities, differences, origins, and praise a diverse
-          community. Any disrespectful comment about it, is enough to know that
-          Alexandreia is not your place.. we encourage, we love, we open minded
-          .. we are sisterhood / brotherhood - and for sure, we learn.
+
         image:
           type: ImageBlock
           url: >-
