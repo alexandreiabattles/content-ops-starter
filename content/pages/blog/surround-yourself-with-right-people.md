@@ -19,7 +19,7 @@ type: PostLayout
 styles:
   self:
     flexDirection: col
-isFeatured: false
+isFeatured: true
 author: content/data/marcus-antyllus.json
 ---
 
