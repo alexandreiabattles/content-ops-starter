@@ -116,7 +116,7 @@ sections:
           events and open raids.
 
 
-          ( Ptolemy  Soldier from Ptolomeo Soter era)
+          ( Photo :  - Ptolemaic  Soldier from ***Ptolomeo Soter I*** era -)
         image:
           type: ImageBlock
           url: /images/Machimoi_sketch.bmp
@@ -144,7 +144,7 @@ sections:
       - type: Button
         label: DISCOVER OUR ARMIES here
         altText: ''
-        url: '/https://alexandreiaresults.netlify.app/Accumulated%20Score%20%20AW/'
+        url: 'https://alexandreiaresults.netlify.app/Accumulated%20Score%20%20AW/'
         showIcon: false
         icon: arrowRight
         iconPosition: right
