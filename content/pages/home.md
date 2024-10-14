@@ -814,7 +814,7 @@ sections:
     subtitle: Few words...
     items:
       - type: FeaturedItem
-        title: "“Great people like Ptolemy Philadelphus II, who decided to expand the library of Alexandreia, Dinocrates who changed the urban-civil design of Alexandreia, Crates of\_Olynthus, who designed the hydraulic system and water supply in Alexandreia, Marcus Helios, just me who now decided to give a space electronic for battles, design by scripts, and a website for my dearest Queen mother Kleopatra Thea Neotera.”"
+        title: "“Great people like Ptolemy Philadelphus II, who decided to expand the library of Alexandreia, Dinocrates who changed the urban-civil design of Alexandreia, Crates of\_Olynthus, who designed the hydraulic system and water supply in Alexandreia, Marcus Helios, just me who now decided to give a space for battles, design by scripts, and a website for my dearest Queen mother Kleopatra Thea Neotera.”"
         tagline: ''
         subtitle: "Marcus Helios\_ - Prince"
         text: ''
