@@ -779,6 +779,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+      url: /images/Gold Modern Law Firm Logo.png
   - type: CarouselSection
     subtitle: Few words...
     items:
