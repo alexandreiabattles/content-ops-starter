@@ -757,7 +757,6 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/Gold Modern Law Firm Logo.png
       altText: Dope design preview
       styles:
         self:
