@@ -8,7 +8,7 @@ sections:
       text: "Owner Alexandreia QUEEN KLEOPATRA \U000130ED"
       color: text-dark
     subtitle: ''
-    text: "Dear warriors NEW CHALLENGE starts - This conflict will\_ be a new adventure, we want everyone to cooperate, motivated and start this new game RP\n\nThis website is designed and managed by Marcus Antyllus \n\nHe will post, update the points &\_the results of the battles. Whoever conquers more, has more points...!\n\nHave HONOR, DEFEND, ATTACK\n"
+    text: "Dear warriors NEW CHALLENGE starts - This conflict will\_ be a new adventure, we want everyone to cooperate, motivated and start this new game RP\n\nThis website is designed and managed by Marcus Helios\n\nHe will post, update the points &\_the results of the battles. Whoever conquers more, has more points...!\n\nHave HONOR, DEFEND, ATTACK\n"
     actions: []
     media:
       type: ImageBlock
@@ -76,16 +76,20 @@ sections:
             borderStyle: dashed
       - type: FeaturedItem
         title: ALEXANDREIA
-        subtitle: Are.....
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        subtitle: ARE ...
+        text: >+
+          **PARTIES!** There are too many parties and activities! We have too
+          many casual, fun parties, costume contests, KLEO CLUB being in
+          Alexandreia means knowing how to have fun.
+
         image:
           type: ImageBlock
-          url: /images/icon2.svg
+          url: /images/43c27a35c7e92de3b405d626bc385a31.jpg
           altText: Placeholder image
           elementId: ''
+          styles:
+            self:
+              borderRadius: x-large
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
@@ -96,21 +100,31 @@ sections:
               - pb-8
               - pr-8
             borderRadius: x-large
-            flexDirection: row
+            flexDirection: col
+            justifyContent: flex-end
             textAlign: left
-            justifyContent: center
+            borderColor: border-dark
+            borderStyle: dashed
       - type: FeaturedItem
         title: ALEXANDREIA
-        subtitle: IS.....
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        subtitle: IS ...
+        text: >
+          **A C T I O N  :** We are a community with more action, ancient world
+          is within us !!!. In Alexandreia you will find three armies
+          **(Eagles-Sexta-Kelts)**, which will be subject to fighting.We also
+          encourage you to participate in other activities such as roleplay, RP
+          events and open raids.
+
+
+          ( Ptolemy  Soldier from Ptolomeo Soter era)
         image:
           type: ImageBlock
-          url: /images/icon3.svg
-          altText: Placeholder image
+          url: /images/Machimoi_sketch.bmp
+          altText: A Ptolemaic Warrior from first period
           elementId: ''
+          styles:
+            self:
+              borderRadius: x-large
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
@@ -121,10 +135,14 @@ sections:
               - pb-8
               - pr-8
             borderRadius: x-large
-            flexDirection: row
+            flexDirection: col
+            justifyContent: flex-end
+            textAlign: left
+            borderColor: border-dark
+            borderStyle: dashed
     actions:
       - type: Button
-        label: Get started
+        label: BE PART OF OUR FAMILY
         altText: ''
         url: /
         showIcon: false
@@ -689,7 +707,7 @@ sections:
       type: TitleBlock
       text: Business Consulting
       color: text-dark
-    subtitle: Safe Paths
+    subtitle: Safe Paths! Bye!
     text: ''
     actions:
       - type: Button
@@ -733,9 +751,9 @@ sections:
     subtitle: Few words...
     items:
       - type: FeaturedItem
-        title: "“Great people like Ptolemy Philadelphus II, who decided to expand the library of Alexandreia, Dinocrates who changed the urban-civil design of Alexandreia, Crates of\_Olynthus, who designed the hydraulic system and water supply in Alexandreia, Marcus Antyllus, just me who now decided to give a space electronic for battles, design by scripts, and a website for my dearest Queen mother Kleopatra Thea Neotera.”"
+        title: "“Great people like Ptolemy Philadelphus II, who decided to expand the library of Alexandreia, Dinocrates who changed the urban-civil design of Alexandreia, Crates of\_Olynthus, who designed the hydraulic system and water supply in Alexandreia, Marcus Helios, just me who now decided to give a space electronic for battles, design by scripts, and a website for my dearest Queen mother Kleopatra Thea Neotera.”"
         tagline: ''
-        subtitle: 'Marcus Gens Antonia, Antyllus ¨Little Antonius¨ - Prince (21 years)'
+        subtitle: 'Marcus Gens Antonia, Antyllus ¨Little Antonius¨ - Prince (21 years *)'
         text: ''
         image:
           type: ImageBlock
