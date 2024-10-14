@@ -74,6 +74,13 @@
             "url": "/",
             "icon": "mail",
             "type": "Social"
+        },
+        {
+            "type": "Social",
+            "altText": "YouTube icon",
+            "url": "https://www.youtube.com/@AlexandreiaStudios",
+            "icon": "youtube",
+            "elementId": ""
         }
     ],
     "legalLinks": [
