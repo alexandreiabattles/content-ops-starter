@@ -905,7 +905,7 @@ sections:
           isRequired: false
           width: full
         - type: CheckboxFormControl
-          name: updates
+          name: Other Porpuse
           label: >-
             I also accept that this message has a business, interest or friendly
             purpose.
