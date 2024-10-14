@@ -757,7 +757,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/egyptian-boy.png
+          url: /images/Gold Modern Law Firm Logo.png
           altText: Macurs Antyllus
           styles:
             self:
