@@ -747,6 +747,32 @@ sections:
           - pl-7
           - pb-7
           - pr-7
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: ''
+      color: text-dark
+    subtitle: ''
+    text: ''
+    actions: []
+    media:
+      type: ImageBlock
+      url: /images/Gold Modern Law Firm Logo.png
+      altText: Dope design preview
+      styles:
+        self:
+          padding:
+            - pr-80
+            - pl-80
+    badge:
+      type: Badge
+      label: ''
+      color: text-primary
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row-reverse
   - type: CarouselSection
     subtitle: Few words...
     items:
@@ -782,32 +808,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: ''
-      color: text-dark
-    subtitle: ''
-    text: ''
-    actions: []
-    media:
-      type: ImageBlock
-      url: /images/Gold Modern Law Firm Logo.png
-      altText: Dope design preview
-      styles:
-        self:
-          padding:
-            - pr-80
-            - pl-80
-    badge:
-      type: Badge
-      label: ''
-      color: text-primary
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
   - type: GenericSection
     title:
       type: TitleBlock
