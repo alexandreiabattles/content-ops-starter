@@ -702,6 +702,17 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: left
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-dark-fg-light
+    styles:
+      self:
+        padding:
+          - pt-12
+          - pl-12
+          - pb-12
+          - pr-12
   - type: GenericSection
     title:
       type: TitleBlock
