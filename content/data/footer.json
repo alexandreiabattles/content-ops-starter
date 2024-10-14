@@ -63,12 +63,6 @@
     },
     "socialLinks": [
         {
-            "altText": "GitHub link",
-            "url": "https://github.com/netlify",
-            "icon": "github",
-            "type": "Social"
-        },
-        {
             "altText": "Twitter link",
             "url": "https://x.com/Alexandreia_SL",
             "icon": "twitter",
