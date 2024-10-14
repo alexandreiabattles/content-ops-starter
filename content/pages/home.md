@@ -116,7 +116,7 @@ sections:
           events and open raids.
 
 
-          ( Ptolemy  Soldier from Ptolomeo Soter era)
+          ( Photo :  - Ptolemy  Soldier from Ptolomeo Soter era -)
         image:
           type: ImageBlock
           url: /images/Machimoi_sketch.bmp
