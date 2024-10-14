@@ -1,5 +1,5 @@
 ---
-title: Welcome back Prince Mav!-
+title: ''
 slug: surround-yourself-with-right-people
 date: '2024-07-18'
 excerpt: ''
