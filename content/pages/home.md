@@ -52,7 +52,8 @@ sections:
           .. we are sisterhood / brotherhood - and for sure, we learn.
         image:
           type: ImageBlock
-          url: /images/43c27a35c7e92de3b405d626bc385a31.jpg
+          url: >-
+            /images/from_giovanni_battista_belzoni-_egyptian_race_portrayed_in_the_book_of_gates.webp
           altText: Placeholder image
           elementId: ''
           styles:
