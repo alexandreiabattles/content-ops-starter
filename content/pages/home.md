@@ -76,6 +76,40 @@ sections:
             borderStyle: dashed
       - type: FeaturedItem
         title: ALEXANDREIA
+        subtitle: IS ...
+        text: >
+          **INTERNATIONAL :**
+
+          We defend our identities, differences, origins, and praise a diverse
+          community. Any disrespectful comment about it, is enough to know that
+          Alexandreia is not your place.. we encourage, we love, we open minded
+          .. we are sisterhood / brotherhood - and for sure, we learn.
+        image:
+          type: ImageBlock
+          url: >-
+            /images/from_giovanni_battista_belzoni-_egyptian_race_portrayed_in_the_book_of_gates.webp
+          altText: Placeholder image
+          elementId: ''
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+            justifyContent: flex-end
+            textAlign: left
+            borderColor: border-dark
+            borderStyle: dashed
+      - type: FeaturedItem
+        title: ALEXANDREIA
         subtitle: Are.....
         text: >
           **PARTIES!** There are too many parties and activities! We have too
