@@ -117,7 +117,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/Machimoi_sketch.bmp
-          altText: Placeholder image
+          altText: A Ptolemaic Warrior from first period
           elementId: ''
           styles:
             self:
