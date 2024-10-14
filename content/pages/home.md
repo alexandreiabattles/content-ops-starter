@@ -84,8 +84,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: >-
-            /images/from_giovanni_battista_belzoni-_egyptian_race_portrayed_in_the_book_of_gates.webp
+          url: /images/43c27a35c7e92de3b405d626bc385a31.jpg
           altText: Placeholder image
           elementId: ''
           styles:
