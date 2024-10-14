@@ -783,7 +783,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/Gold Modern Law Firm Logo.png
+          url: /images/A344242342_001.png
           altText: Macurs Antyllus
           styles:
             self:
