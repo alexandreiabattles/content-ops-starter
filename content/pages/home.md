@@ -901,7 +901,7 @@ sections:
           width: full
         - type: CheckboxFormControl
           name: updates
-          label: I have read and accept the legal terms.
+          label: I have read and accept the terms of this page
           isRequired: false
           width: full
         - type: CheckboxFormControl
