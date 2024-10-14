@@ -718,7 +718,7 @@ sections:
       type: TitleBlock
       text: Business Consulting
       color: text-dark
-    subtitle: Safe Paths! Bye!
+    subtitle: Safe Paths!
     text: ''
     actions:
       - type: Button
