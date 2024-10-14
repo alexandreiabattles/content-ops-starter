@@ -139,7 +139,7 @@ sections:
             borderStyle: dashed
     actions:
       - type: Button
-        label: Get started
+        label: BE PART OF OUR FAMILY
         altText: ''
         url: /
         showIcon: false
