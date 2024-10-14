@@ -114,6 +114,9 @@ sections:
           **(Eagles-Sexta-Kelts)**, which will be subject to fighting.We also
           encourage you to participate in other activities such as roleplay, RP
           events and open raids.
+
+
+          ( Ptolemy  Soldier from Ptolomeo Soter) 
         image:
           type: ImageBlock
           url: /images/Machimoi_sketch.bmp
