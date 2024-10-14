@@ -139,31 +139,6 @@ sections:
             textAlign: left
             borderColor: border-dark
             borderStyle: dashed
-      - type: FeaturedItem
-        title: ALEXANDREIA
-        subtitle: IS.....
-        text: >
-          **ACTION** There are too many parties and activities! We have too many
-          casual, fun parties, costume contests, KLEO CLUB being in Alexandreia
-          means knowing how to have fun.
-        image:
-          type: ImageBlock
-          url: /images/43c27a35c7e92de3b405d626bc385a31.jpg
-          altText: Placeholder image
-          elementId: ''
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-            textAlign: left
-            justifyContent: center
     actions:
       - type: Button
         label: Get started
