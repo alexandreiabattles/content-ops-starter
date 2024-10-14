@@ -800,7 +800,7 @@ sections:
         alignItems: center
         flexDirection: row-reverse
         padding:
-          - pt-48
+          - pt-80
           - pr-80
     backgroundImage:
       type: BackgroundImage
