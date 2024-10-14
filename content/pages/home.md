@@ -899,6 +899,18 @@ sections:
           hideLabel: true
           placeholder: Your message
           width: full
+        - type: CheckboxFormControl
+          name: updates
+          label: I have read and accept the terms of this page
+          isRequired: false
+          width: full
+        - type: CheckboxFormControl
+          name: updates
+          label: >-
+            I also accept that this message has a business, interest or friendly
+            purpose.
+          isRequired: false
+          width: full
       submitButton:
         type: SubmitButtonFormControl
         label: Submit
