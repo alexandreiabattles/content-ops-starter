@@ -792,7 +792,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/KLEOPATRA INTRODUCTIONN.png
+      url: /images/Gold Modern Law Firm Logo.png
       altText: Dope design preview
       styles:
         self:
