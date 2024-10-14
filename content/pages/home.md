@@ -83,7 +83,7 @@ sections:
           Alexandreia means knowing how to have fun.
         image:
           type: ImageBlock
-          url: /images/icon2.svg
+          url: /images/egipt-pic905-895x505-89360.jpg
           altText: Placeholder image
           elementId: ''
         actions: []
