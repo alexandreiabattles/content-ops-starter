@@ -142,7 +142,7 @@ sections:
             borderStyle: dashed
     actions:
       - type: Button
-        label: DISCOVER OUR ARMIES here
+        label: Discover our Armies HERE
         altText: ''
         url: 'https://alexandreiaresults.netlify.app/Accumulated%20Score%20%20AW/'
         showIcon: false
