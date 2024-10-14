@@ -10,7 +10,7 @@
         "links": [
             {
                 "label": "Blog",
-                "url": "/pricing",
+                "url": "https://alexandreiaresults.netlify.app/blog/",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
