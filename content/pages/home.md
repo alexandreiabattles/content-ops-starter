@@ -77,10 +77,15 @@ sections:
       - type: FeaturedItem
         title: ALEXANDREIA
         subtitle: Are.....
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          There are too many parties and activities! We have too many casual,
+          fun parties, costume contests, being in Alexandreia means knowing how
+          to have fun.
+
+
+
+
+
         image:
           type: ImageBlock
           url: /images/icon2.svg
