@@ -739,7 +739,7 @@ sections:
         flexDirection: row-reverse
   - type: DividerSection
     title: Divider
-    colors: bg-dark-fg-light
+    colors: bg-light-fg-dark
     styles:
       self:
         padding:
@@ -747,17 +747,81 @@ sections:
           - pl-7
           - pb-7
           - pr-7
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: ''
+      color: text-dark
+    subtitle: ''
+    text: ''
+    actions: []
+    media:
+      type: ImageBlock
+      altText: Dope design preview
+      styles:
+        self:
+          padding:
+            - pr-80
+            - pl-80
+    badge:
+      type: Badge
+      label: ''
+      color: text-primary
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row-reverse
+        padding:
+          - pr-10
+    backgroundImage:
+      type: BackgroundImage
+      altText: ''
+      backgroundSize: auto
+      backgroundPosition: center
+      backgroundRepeat: no-repeat
+      opacity: 100
+      url: /images/Gold Modern Law Firm Logo.png
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: ''
+      color: text-dark
+    subtitle: ''
+    text: ''
+    actions: []
+    badge:
+      type: Badge
+      label: ''
+      color: text-primary
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row-reverse
+        padding:
+          - pt-80
+          - pr-80
+    backgroundImage:
+      type: BackgroundImage
+      altText: altText of the image
+      backgroundSize: auto
+      backgroundPosition: center
+      backgroundRepeat: no-repeat
+      opacity: 100
+      url: /images/Gold Modern Law Firm Logo.png
   - type: CarouselSection
     subtitle: Few words...
     items:
       - type: FeaturedItem
-        title: "“Great people like Ptolemy Philadelphus II, who decided to expand the library of Alexandreia, Dinocrates who changed the urban-civil design of Alexandreia, Crates of\_Olynthus, who designed the hydraulic system and water supply in Alexandreia, Marcus Helios, just me who now decided to give a space electronic for battles, design by scripts, and a website for my dearest Queen mother Kleopatra Thea Neotera.”"
+        title: "“Great people like Ptolemy Philadelphus II, who decided to expand the library of Alexandreia, Dinocrates who changed the urban-civil design of Alexandreia, Crates of\_Olynthus, who designed the hydraulic system and water supply in Alexandreia, Marcus Helios, just me who now decided to give a space for battles, design by scripts, and a website for my dearest Queen mother Kleopatra Thea Neotera.”"
         tagline: ''
-        subtitle: 'Marcus Gens Antonia, Antyllus ¨Little Antonius¨ - Prince (21 years *)'
+        subtitle: "Marcus Helios\_ - Prince"
         text: ''
         image:
           type: ImageBlock
-          url: /images/egyptian-boy.png
+          url: >-
+            /images/e5062d09f4ba9be0a8c8adc17337707b--egyptian-mythology-egyptian-art-removebg-preview.png
           altText: Macurs Antyllus
           styles:
             self:
