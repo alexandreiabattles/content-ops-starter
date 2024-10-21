@@ -108,15 +108,13 @@ sections:
       - type: FeaturedItem
         title: ALEXANDREIA
         subtitle: IS ...
-        text: >
+        text: >+
           **A C T I O N  :** We are a community with more action, ancient world
           is within us !!!. In Alexandreia you will find three armies
           **(Eagles-Sexta-Kelts)**, which will be subject to fighting.We also
           encourage you to participate in other activities such as roleplay, RP
           events and open raids.
 
-
-          ( Photo :  - Ptolemaic  Soldier from ***Ptolomeo Soter I*** era -)
         image:
           type: ImageBlock
           url: /images/7397aeedfdb369a128d25e3f635b733c-removebg-preview.png
