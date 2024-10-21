@@ -937,7 +937,7 @@ sections:
 slug: /Home
 seo:
   type: Seo
-  metaTitle: Home - Demo site
+  metaTitle: Home - Welcome to page!
   metaDescription: This demo site is built with Netlify Create
   socialImage: /images/main-hero.jpg
   metaTags: []
