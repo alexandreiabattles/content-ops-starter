@@ -937,7 +937,7 @@ sections:
 slug: /Home
 seo:
   type: Seo
-  metaTitle: Home - Welcome to page!
+  metaTitle: 'Home - Welcome! '
   metaDescription: 'no description for now '
   socialImage: /images/main-hero.jpg
   metaTags: []
