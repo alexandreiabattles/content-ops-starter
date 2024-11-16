@@ -119,7 +119,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Our
+      text: Our Calendar!!
       color: text-dark
       styles:
         self:
