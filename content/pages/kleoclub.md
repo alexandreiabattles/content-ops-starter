@@ -98,6 +98,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+      url: /images/Minimalist Vintage Brown Museum Logo (1).png
   - type: GenericSection
     title:
       type: TitleBlock
