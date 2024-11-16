@@ -135,7 +135,7 @@ sections:
     subtitle: check....dont miss it
     items:
       - type: FeaturedItem
-        title: Account Executive
+        title: Asdfsdfe
         subtitle: Sales
         text: |
           dfdfdf.
