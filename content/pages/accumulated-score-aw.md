@@ -316,7 +316,6 @@ sections:
         subtitle: ''
         image:
           type: ImageBlock
-          url: /images/3.png
           altText: Other
           elementId: ''
           styles:
