@@ -317,7 +317,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/3.png
-          altText: Chunky Cotton Knit Throw
+          altText: Other
           elementId: ''
           styles:
             self:
