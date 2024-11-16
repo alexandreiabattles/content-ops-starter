@@ -58,6 +58,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+      url: /images/coupon-1523375418.jpg
 slug: KleoClub
 seo:
   type: Seo
