@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: WHERE ANUBIS GIMME YOU MOJITO
+    subtitle: WHERE ANUBIS GIVE YOU VIBES
     plans: []
     colors: bg-light-fg-dark
     styles:
