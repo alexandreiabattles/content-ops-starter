@@ -116,31 +116,6 @@ sections:
       self:
         alignItems: center
         flexDirection: row-reverse
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: ''
-      color: text-dark
-    subtitle: ''
-    text: ''
-    actions: []
-    media:
-      type: ImageBlock
-      altText: Dope design preview
-      styles:
-        self:
-          padding:
-            - pr-80
-            - pl-80
-    badge:
-      type: Badge
-      label: ''
-      color: text-primary
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
