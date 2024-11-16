@@ -272,7 +272,8 @@ sections:
           **General Roger**  - Celtic Kingdom -  : username: (roger.velinov)
 
 
-          **General Sofiane** - Alexandreia, Eagles - : username : sofiane.aboma
+          **Strategos  Sofiane** - Alexandreia, Eagles - : username :
+          sofiane.aboma
 
 
           **General Lord Lucas** - *Rome -*  / username  : lordlucas.stormcrow
