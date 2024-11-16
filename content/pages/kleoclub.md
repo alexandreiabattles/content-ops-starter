@@ -101,7 +101,6 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/3.png
       altText: Dope design preview
       styles:
         self:
