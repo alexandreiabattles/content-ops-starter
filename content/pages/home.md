@@ -269,7 +269,13 @@ sections:
           **Queen Morrigan** - *Celtic Kingdom* -  :  username : shiela42
 
 
+          **General Roger**  - Celtic Kingdom -  : username: (roger.velinov)
+
+
           **Prince Mavo** - *Alexandreia, Eagles* - : username : 1mavo
+
+
+          **General Sofiane** - Alexandreia, Eagles - : username : 
 
 
           **King Selim** : - Troy - : username : selimm
