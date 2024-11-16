@@ -275,9 +275,6 @@ sections:
           **General Sofiane** - Alexandreia, Eagles - : username : sofiane.aboma
 
 
-          **King Selim** : - Troy - : username : selimm
-
-
           **General Lord Lucas** - *Rome -*  / username  : lordlucas.stormcrow
         image:
           type: ImageBlock
