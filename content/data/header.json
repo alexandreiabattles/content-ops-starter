@@ -78,6 +78,17 @@
                     "iconPosition": "right",
                     "style": "secondary",
                     "elementId": ""
+                },
+                {
+                    "type": "Link",
+                    "label": "KLEO CLUB ",
+                    "altText": "",
+                    "url": "https://alexandreiaresults.netlify.app/KleoClub/",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
                 }
             ],
             "labelStyle": "secondary"
