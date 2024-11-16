@@ -272,10 +272,7 @@ sections:
           **General Roger**  - Celtic Kingdom -  : username: (roger.velinov)
 
 
-          **Prince Mavo** - *Alexandreia, Eagles* - : username : 1mavo
-
-
-          **General Sofiane** - Alexandreia, Eagles - : username : 
+          **General Sofiane** - Alexandreia, Eagles - : username : sofiane.aboma
 
 
           **King Selim** : - Troy - : username : selimm
