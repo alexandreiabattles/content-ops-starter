@@ -446,7 +446,6 @@ sections:
         subtitle: ''
         image:
           type: ImageBlock
-          url: /images/2.png
           altText: Chunky Cotton Knit Throw
           elementId: ''
           styles:
