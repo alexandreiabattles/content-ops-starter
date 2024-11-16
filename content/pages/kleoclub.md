@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: This is the subtitle for the pricing section
+    subtitle: WHERE ANUBIS GIMME YOU MOJITO
     plans: []
     colors: bg-light-fg-dark
     styles:
