@@ -266,9 +266,6 @@ sections:
           Then also you can contact with excellent warriors and leaders :
 
 
-          **Queen Morrigan** - *Celtic Kingdom* -  :  username : shiela42
-
-
           **General Roger**  - Celtic Kingdom -  : username: (roger.velinov)
 
 
