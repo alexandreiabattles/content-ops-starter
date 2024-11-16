@@ -232,7 +232,7 @@ sections:
 slug: KleoClub
 seo:
   type: Seo
-  metaTitle: 'KLEO CLUB!! '
+  metaTitle: ALEXANDREIA  KLEO CLUB
   metaDescription: This is the pricing page built with Netlify Create.
   socialImage: /images/main-hero.jpg
   metaTags: []
